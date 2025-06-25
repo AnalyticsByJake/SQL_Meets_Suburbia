@@ -49,7 +49,7 @@ VIII. Contact Details
     • listing_tax_info.csv
     • property_tax.csv
 
-Each of these datasets is available in its clean as well as original form. 
+Each of these datasets is available in its cleaned as well as original form. 
 
 
 ## III. How to Build the Database
