@@ -3,7 +3,7 @@
 
 Ever wondered what insights lie behind Zillow’s mountain of real estate listings? This project tackles that question by transforming raw CSVs into a structured SQL database and then into interactive Tableau dashboards. From price trends to school proximity, I used MySQL and Tableau to explore the dynamics of the U.S. housing market—one query at a time.  
 
-[Enter zillow image]
+![Zillow Logo](image_1_zillow_logo.jpg)
 
 To get the most out of the data, I used CTEs, window functions, aggregate logic, and more—turning raw listings into real business insights. From there, the datasets were imported into Tableau to create interactive dashboards and a "House Search Analyzer" to help determine market conditions based on individual preferences. 
 
