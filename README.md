@@ -10,7 +10,7 @@ Ever wondered what insights lie behind Zillow’s mountain of real estate listin
 To get the most out of the data, I used CTEs, window functions, aggregate logic, and more—turning raw listings into real business insights. From there, the datasets were imported into Tableau to create interactive dashboards and a "House Search Analyzer" to help determine market conditions based on individual preferences. 
 
 <p align="center">
-  <img src="images/image_2_house_analyzer_dash.jpg", width=500/>
+  <img src="images/image_2_house_analyzer_dash.jpg", width=700/>
 </p>
 
 The dataset and schema were obtained from [this Kaggle dataset](https://www.kaggle.com/datasets/tonygordonjr/zillow-real-estate-data) and extensively cleaned, indexed, and relationally optimized in the accompanying schema setup script.
@@ -57,7 +57,7 @@ Each of these datasets is available in its clean as well as original form.
 The file zillow_schema_setup is a modifiable SQL code (zillow_schema_setup.csv) allowing one to import the datasets directly into a SQL database. Throughout this project, I employed MySQL Workbench. 
 
 <p align="center">
-  <img src="images/image_3_schema_setup.jpg"/>
+  <img src="images/image_3_schema_setup.jpg" width=350/>
 </p>
 
 Next, a series of steps were taken to formulate the database, especially in adjusting it from a star schema to a snowflake schema, establishing keys and constraints, adjusting data types and adding appropriate indexes (zillow_data_wrangling.sql). 
