@@ -1,0 +1,1001 @@
+zpid,zpidComp,addressComp,cityComp,stateComp,zipComp,priceComp,homeTypeComp,homeStatusComp,livingAreaValueComp,livingAreaUnitsComp,lotAreaValueComp,lotAreaUnitsComp,lastUpdated,lsi_id,lnh_id
+71753253,71757614,"455 Glen Iris Dr NE #N",Atlanta,GA,30308,369900,Condo,Sold,1225,"Square Feet",1220,"Square Feet","2024-11-20 22:18:43",5605,1
+82629652,82625972,"301 Darkwater Ct",Atlanta,GA,30331,447100,"Single Family",Other,4292,"Square Feet",1,Acres,"2024-11-20 23:54:06",16943,2
+35877638,35877640,"737 Augusta Pl SE",Atlanta,GA,30315,561300,"Multi Family",Other,1304,"Square Feet",6499,"Square Feet","2024-11-20 23:54:06",5052,3
+71753253,71755540,"455 Glen Iris Dr NE #W",Atlanta,GA,30308,375000,Condo,Sold,1225,"Square Feet",1224,"Square Feet","2024-11-20 23:54:06",5605,4
+82629652,82622244,"390 Darkwater Ct",Atlanta,GA,30331,439900,"Single Family",Other,4232,"Square Feet",9583,"Square Feet","2024-11-20 22:18:43",16943,5
+35877638,35877640,"737 Augusta Pl SE",Atlanta,GA,30315,561300,"Multi Family",Other,1304,"Square Feet",6499,"Square Feet","2024-11-20 22:18:43",5052,6
+71753253,71755540,"455 Glen Iris Dr NE #W",Atlanta,GA,30308,375000,Condo,Sold,1225,"Square Feet",1224,"Square Feet","2024-11-20 22:18:43",5605,7
+82629652,82622244,"390 Darkwater Ct",Atlanta,GA,30331,439900,"Single Family",Other,4232,"Square Feet",9583,"Square Feet","2024-11-20 23:54:06",16943,8
+112432138,112432181,"1820 Peachtree St NW UNIT 1806",Atlanta,GA,30309,548500,Condo,Sold,1235,"Square Feet",0,"Square Feet","2024-11-20 22:18:43",8529,9
+112432138,112432739,"1820 Peachtree St NW UNIT 808",Atlanta,GA,30309,717000,Condo,"Recently Sold",1709,"Square Feet",1708,"Square Feet","2024-11-20 22:18:43",8529,10
+71753253,71752647,"455 Glen Iris Dr NE UNIT O",Atlanta,GA,30308,416700,Townhouse,Other,1225,"Square Feet",1224,"Square Feet","2024-11-20 22:18:43",5605,11
+82629652,82619973,"400 Darkwater Ct",Atlanta,GA,30331,389200,"Single Family",Other,3330,"Square Feet",9147,"Square Feet","2024-11-20 22:18:43",16943,12
+35846147,35846218,"217 Whitaker Cir NW",Atlanta,GA,30314,148400,"Single Family",Other,923,"Square Feet",10380,"Square Feet","2024-11-20 23:54:06",11785,13
+112432138,112432181,"1820 Peachtree St NW UNIT 1806",Atlanta,GA,30309,548500,Condo,Sold,1235,"Square Feet",0,"Square Feet","2024-11-20 23:54:06",8529,14
+82629652,82619973,"400 Darkwater Ct",Atlanta,GA,30331,389200,"Single Family",Other,3330,"Square Feet",9147,"Square Feet","2024-11-20 23:54:06",16943,15
+249112337,35830511,"812 Erin Ave SW",Atlanta,GA,30310,251600,"Single Family",Other,1064,"Square Feet",7548,"Square Feet","2024-11-20 22:18:43",12045,16
+35877638,35877637,"724 Oakland Ave SE",Atlanta,GA,30315,553600,"Single Family",Other,1448,"Square Feet",5175,"Square Feet","2024-11-20 23:54:06",5052,17
+82629652,82617483,"330 Darkwater Ct SW",Atlanta,GA,30331,372400,"Single Family",Other,3330,"Square Feet",9731,"Square Feet","2024-11-20 22:18:43",16943,18
+35877638,35877637,"724 Oakland Ave SE",Atlanta,GA,30315,553600,"Single Family",Other,1448,"Square Feet",5175,"Square Feet","2024-11-20 22:18:43",5052,19
+348934176,2053637303,"203 Color Cir SE #35",Atlanta,GA,30317,452172,Townhouse,Sold,0,"Square Feet",0,"Square Feet","2024-11-20 23:54:06",5148,20
+82629652,82617483,"330 Darkwater Ct SW",Atlanta,GA,30331,372400,"Single Family",Other,3330,"Square Feet",9731,"Square Feet","2024-11-20 23:54:06",16943,21
+249112337,35830510,"816 Erin Ave SW",Atlanta,GA,30310,236100,"Single Family",Other,1045,"Square Feet",7601,"Square Feet","2024-11-20 22:18:43",12045,22
+71753253,71752647,"455 Glen Iris Dr NE UNIT O",Atlanta,GA,30308,416700,Townhouse,Other,1225,"Square Feet",1224,"Square Feet","2024-11-20 23:54:06",5605,23
+35877638,35877639,"730 Oakland Ave SE",Atlanta,GA,30315,634600,"Single Family",Other,1770,"Square Feet",5183,"Square Feet","2024-11-20 23:54:06",5052,24
+71753253,71753741,"455 Glen Iris Dr NE UNIT P",Atlanta,GA,30308,378600,Apartment,Other,1225,"Square Feet",1224,"Square Feet","2024-11-20 23:54:06",5605,25
+35890187,35890189,"690 Ira St SW",Atlanta,GA,30310,289000,"Single Family",Other,1304,"Square Feet",4347,"Square Feet","2024-11-20 22:18:43",5145,26
+82629652,82611506,"340 Darkwater Ct SW",Atlanta,GA,30331,415000,"Single Family",Other,4232,"Square Feet",9104,"Square Feet","2024-11-20 23:54:06",16943,27
+35877638,35877639,"730 Oakland Ave SE",Atlanta,GA,30315,634600,"Single Family",Other,1770,"Square Feet",5183,"Square Feet","2024-11-20 22:18:43",5052,28
+71753253,71753741,"455 Glen Iris Dr NE UNIT P",Atlanta,GA,30308,378600,Apartment,Other,1225,"Square Feet",1224,"Square Feet","2024-11-20 22:18:43",5605,29
+82629652,82611506,"340 Darkwater Ct SW",Atlanta,GA,30331,415000,"Single Family",Other,4232,"Square Feet",9104,"Square Feet","2024-11-20 22:18:43",16943,30
+35890187,35890189,"690 Ira St SW",Atlanta,GA,30310,289000,"Single Family",Other,1304,"Square Feet",4347,"Square Feet","2024-11-20 23:54:06",5145,31
+35877638,35877641,"734 Oakland Ave SE",Atlanta,GA,30315,419100,"Single Family",Other,1613,"Square Feet",2888,"Square Feet","2024-11-20 22:18:43",5052,32
+82629652,82619019,"371 Darkwater Ct SW",Atlanta,GA,30331,347000,"Single Family","Recently Sold",4290,"Square Feet",10711,"Square Feet","2024-11-20 22:18:43",16943,33
+35920166,35920202,"1758 Ridge Valley Ct NW",Atlanta,GA,30327,1112700,"Single Family",Other,3366,"Square Feet",1,Acres,"2024-11-20 22:18:43",8626,34
+35890187,35890188,"692 Ira St SW",Atlanta,GA,30310,480000,"Single Family",Sold,2642,"Square Feet",5227,"Square Feet","2024-11-20 22:18:43",5145,35
+35877638,35877641,"734 Oakland Ave SE",Atlanta,GA,30315,419100,"Single Family",Other,1613,"Square Feet",2888,"Square Feet","2024-11-20 23:54:06",5052,36
+82629652,82619019,"371 Darkwater Ct SW",Atlanta,GA,30331,347000,"Single Family","Recently Sold",4290,"Square Feet",10711,"Square Feet","2024-11-20 23:54:06",16943,37
+71753253,71753680,"455 Glen Iris Dr NE UNIT R",Atlanta,GA,30308,423900,Condo,Other,1220,"Square Feet",1224,"Square Feet","2024-11-20 22:18:43",5605,38
+35877638,35877642,"736 Oakland Ave SE",Atlanta,GA,30315,632000,"Multi Family",Other,1888,"Square Feet",2888,"Square Feet","2024-11-20 22:18:43",5052,39
+71753253,71753680,"455 Glen Iris Dr NE UNIT R",Atlanta,GA,30308,423900,Condo,Other,1220,"Square Feet",1224,"Square Feet","2024-11-20 23:54:06",5605,40
+35877638,35877642,"736 Oakland Ave SE",Atlanta,GA,30315,632000,"Multi Family",Other,1888,"Square Feet",2888,"Square Feet","2024-11-20 23:54:06",5052,41
+35890187,35890188,"692 Ira St SW",Atlanta,GA,30310,480000,"Single Family",Sold,2642,"Square Feet",5227,"Square Feet","2024-11-20 23:54:06",5145,42
+71753253,71756916,"455 Glen Iris Dr NE UNIT T",Atlanta,GA,30308,396400,Condo,Other,1225,"Square Feet",1224,"Square Feet","2024-11-20 22:18:43",5605,43
+35890187,249013594,"702 Ira St SW",Atlanta,GA,30310,293700,"Single Family",Other,1835,"Square Feet",5000,"Square Feet","2024-11-20 22:18:43",5145,44
+35855662,35855661,"1834 Calloway Dr NW",Atlanta,GA,30314,186600,"Single Family",Other,1280,"Square Feet",0,Acres,"2024-11-20 22:18:43",11798,45
+71753253,71756916,"455 Glen Iris Dr NE UNIT T",Atlanta,GA,30308,396400,Condo,Other,1225,"Square Feet",1224,"Square Feet","2024-11-20 23:54:06",5605,46
+35890187,249013594,"702 Ira St SW",Atlanta,GA,30310,293700,"Single Family",Other,1835,"Square Feet",5000,"Square Feet","2024-11-20 23:54:06",5145,47
+71753253,71753234,"455 Glen Iris Dr NE UNIT U",Atlanta,GA,30308,433500,Townhouse,Other,1225,"Square Feet",1224,"Square Feet","2024-11-20 23:54:06",5605,48
+35872042,35872011,"860 Bonneville Ter NW",Atlanta,GA,30331,143100,"Single Family",Other,1000,"Square Feet",7562,"Square Feet","2024-11-20 23:54:06",3705,49
+35890187,69346567,"697 Garibaldi St SW",Atlanta,GA,30310,590000,"Single Family",Sold,0,"Square Feet",5009,"Square Feet","2024-11-20 22:18:43",5145,50
+65469455,65469451,"195 14th St NE UNIT 510",Atlanta,GA,30309,313500,Condo,"Recently Sold",740,"Square Feet",741,"Square Feet","2024-11-20 22:18:43",5655,51
+35921943,35921942,"1999 W Wesley Rd NW",Atlanta,GA,30327,1505500,"Single Family",Other,5602,"Square Feet",3,Acres,"2024-11-20 22:18:43",8644,52
+35855662,35855661,"1834 Calloway Dr NW",Atlanta,GA,30314,186600,"Single Family",Other,1280,"Square Feet",0,Acres,"2024-11-20 23:54:06",11798,53
+35890187,249112158,"697 Garibaldi St SW",Atlanta,GA,30310,585700,"Single Family",Other,2484,"Square Feet",5000,"Square Feet","2024-11-20 23:54:06",5145,54
+35921943,35921942,"1999 W Wesley Rd NW",Atlanta,GA,30327,1505500,"Single Family",Other,5602,"Square Feet",3,Acres,"2024-11-20 23:54:06",8644,55
+35872042,35872010,"866 Bonneville Ter NW",Atlanta,GA,30331,150400,"Single Family",Other,1264,"Square Feet",8250,"Square Feet","2024-11-20 22:18:43",3705,56
+35890187,249112158,"697 Garibaldi St SW",Atlanta,GA,30310,585700,"Single Family",Other,2484,"Square Feet",5000,"Square Feet","2024-11-20 22:18:43",5145,57
+65469455,65469451,"195 14th St NE UNIT 510",Atlanta,GA,30309,313500,Condo,"Recently Sold",740,"Square Feet",741,"Square Feet","2024-11-20 23:54:06",5655,58
+2132563976,88811388,"870 Mayson Turner Rd NW",Atlanta,GA,30314,152600,Apartment,Other,1000,"Square Feet",1080,"Square Feet","2024-11-20 23:54:06",51114,59
+35855662,35855650,"1843 Calloway Dr NW",Atlanta,GA,30314,248900,"Single Family",Other,1562,"Square Feet",9439,"Square Feet","2024-11-20 23:54:06",11798,60
+35921943,35921874,"2000 W Wesley Rd NW",Atlanta,GA,30327,1332600,"Single Family",Other,3328,"Square Feet",2,Acres,"2024-11-20 22:18:43",8644,61
+35872042,35872010,"866 Bonneville Ter NW",Atlanta,GA,30331,150400,"Single Family",Other,1264,"Square Feet",8250,"Square Feet","2024-11-20 23:54:06",3705,62
+35890187,69346567,"697 Garibaldi St SW",Atlanta,GA,30310,590000,"Single Family",Sold,0,"Square Feet",5009,"Square Feet","2024-11-20 23:54:06",5145,63
+65469455,65469462,"195 14th St NE UNIT 609",Atlanta,GA,30309,267000,Condo,Sold,693,"Square Feet",693,"Square Feet","2024-11-20 23:54:06",5655,64
+2132563976,88811388,"870 Mayson Turner Rd NW",Atlanta,GA,30314,152600,Apartment,Other,1000,"Square Feet",1080,"Square Feet","2024-11-20 22:18:43",51114,65
+69375258,69367221,"2821 Brookford Ln SW",Atlanta,GA,30331,321200,"Single Family",Other,1967,"Square Feet",9178,"Square Feet","2024-11-20 23:54:06",16980,66
+35921943,35921874,"2000 W Wesley Rd NW",Atlanta,GA,30327,1332600,"Single Family",Other,3328,"Square Feet",2,Acres,"2024-11-20 23:54:06",8644,67
+35855662,35855650,"1843 Calloway Dr NW",Atlanta,GA,30314,248900,"Single Family",Other,1562,"Square Feet",9439,"Square Feet","2024-11-20 22:18:43",11798,68
+71753253,71753234,"455 Glen Iris Dr NE UNIT U",Atlanta,GA,30308,433500,Townhouse,Other,1225,"Square Feet",1224,"Square Feet","2024-11-20 22:18:43",5605,69
+35872042,35872009,"874 Bonneville Ter NW",Atlanta,GA,30331,195000,"Single Family",Sold,900,"Square Feet",7331,"Square Feet","2024-11-20 22:18:43",3705,70
+2132563976,88811071,"870 Mayson Turner Rd NW UNIT 1101",Atlanta,GA,30314,100000,Condo,Sold,857,"Square Feet",862,"Square Feet","2024-11-20 22:18:43",51114,71
+65469455,65469462,"195 14th St NE UNIT 609",Atlanta,GA,30309,267000,Condo,Sold,693,"Square Feet",693,"Square Feet","2024-11-20 22:18:43",5655,72
+35921943,35921937,"2041 W Wesley Rd NW",Atlanta,GA,30327,1516400,"Single Family",Other,4400,"Square Feet",2,Acres,"2024-11-20 22:18:43",8644,73
+35855662,35855663,"1848 Calloway Dr NW",Atlanta,GA,30314,270300,"Single Family",Other,2181,"Square Feet",9591,"Square Feet","2024-11-20 22:18:43",11798,74
+71753253,71758182,"455 Glen Iris Dr NE UNIT V",Atlanta,GA,30308,430400,Townhouse,Other,1225,"Square Feet",1224,"Square Feet","2024-11-20 23:54:06",5605,75
+69375258,69376323,"2824 Brookford Ln SW",Atlanta,GA,30331,409800,"Single Family",Other,2946,"Square Feet",0,Acres,"2024-11-20 23:54:06",16980,76
+2132563976,88811071,"870 Mayson Turner Rd NW UNIT 1101",Atlanta,GA,30314,100000,Condo,Sold,857,"Square Feet",862,"Square Feet","2024-11-20 23:54:06",51114,77
+35872042,35872009,"874 Bonneville Ter NW",Atlanta,GA,30331,195000,"Single Family",Sold,900,"Square Feet",7331,"Square Feet","2024-11-20 23:54:06",3705,78
+35921943,35921937,"2041 W Wesley Rd NW",Atlanta,GA,30327,1516400,"Single Family",Other,4400,"Square Feet",2,Acres,"2024-11-20 23:54:06",8644,79
+35855662,35855663,"1848 Calloway Dr NW",Atlanta,GA,30314,270300,"Single Family",Other,2181,"Square Feet",9591,"Square Feet","2024-11-20 23:54:06",11798,80
+71753253,71758182,"455 Glen Iris Dr NE UNIT V",Atlanta,GA,30308,430400,Townhouse,Other,1225,"Square Feet",1224,"Square Feet","2024-11-20 22:18:43",5605,81
+69375258,69376323,"2824 Brookford Ln SW",Atlanta,GA,30331,409800,"Single Family",Other,2946,"Square Feet",0,Acres,"2024-11-20 22:18:43",16980,82
+2132563976,88811636,"870 Mayson Turner Rd NW UNIT 1143",Atlanta,GA,30314,129200,Apartment,Other,825,"Square Feet",766,"Square Feet","2024-11-20 22:18:43",51114,83
+35872042,35872008,"882 Bonneville Ter NW",Atlanta,GA,30331,234100,"Single Family",Other,1108,"Square Feet",9644,"Square Feet","2024-11-20 22:18:43",3705,84
+35921943,35921936,"2121 W Wesley Rd NW",Atlanta,GA,30327,3172600,"Single Family",Other,8703,"Square Feet",4,Acres,"2024-11-20 23:54:06",8644,85
+35855662,35855664,"1858 Calloway Dr NW",Atlanta,GA,30314,70900,Lot,Other,2562,"Square Feet",9452,"Square Feet","2024-11-20 23:54:06",11798,86
+35920166,35920164,"1712 Ridge Valley Ct NW",Atlanta,GA,30327,906900,"Single Family",Other,2113,"Square Feet",1,Acres,"2024-11-20 22:18:43",8626,87
+69375258,69371086,"2828 Brookford Ln SW",Atlanta,GA,30331,383700,"Single Family",Other,3451,"Square Feet",0,Acres,"2024-11-20 22:18:43",16980,88
+2132563976,88811636,"870 Mayson Turner Rd NW UNIT 1143",Atlanta,GA,30314,129200,Apartment,Other,825,"Square Feet",766,"Square Feet","2024-11-20 23:54:06",51114,89
+35872042,35872008,"882 Bonneville Ter NW",Atlanta,GA,30331,234100,"Single Family",Other,1108,"Square Feet",9644,"Square Feet","2024-11-20 23:54:06",3705,90
+35921943,35921936,"2121 W Wesley Rd NW",Atlanta,GA,30327,3172600,"Single Family",Other,8703,"Square Feet",4,Acres,"2024-11-20 22:18:43",8644,91
+2132563976,88810448,"870 Mayson Turner Rd NW UNIT 1146",Atlanta,GA,30314,160000,Apartment,Other,900,"Square Feet",1158,"Square Feet","2024-11-20 22:18:43",51114,92
+69375258,69371086,"2828 Brookford Ln SW",Atlanta,GA,30331,383700,"Single Family",Other,3451,"Square Feet",0,Acres,"2024-11-20 23:54:06",16980,93
+35920166,35920164,"1712 Ridge Valley Ct NW",Atlanta,GA,30327,906900,"Single Family",Other,2113,"Square Feet",1,Acres,"2024-11-20 23:54:06",8626,94
+65469455,65469474,"195 14th St NE UNIT 709",Atlanta,GA,30309,272000,Condo,Sold,0,"Square Feet",653,"Square Feet","2024-11-20 22:18:43",5655,95
+35921943,35921889,"2880 Nancy Creek Rd NW",Atlanta,GA,30327,3022200,"Single Family",Other,9670,"Square Feet",1,Acres,"2024-11-20 22:18:43",8644,96
+35833387,35833383,"745 Jones Ave NW",Atlanta,GA,30314,360300,"Single Family",Other,2072,"Square Feet",3920,"Square Feet","2024-11-20 22:18:43",51115,97
+35890187,35890186,"701 Garibaldi St SW",Atlanta,GA,30310,195900,"Single Family",Other,1400,"Square Feet",4791,"Square Feet","2024-11-20 23:54:06",5145,98
+65469455,65469474,"195 14th St NE UNIT 709",Atlanta,GA,30309,272000,Condo,Sold,0,"Square Feet",653,"Square Feet","2024-11-20 23:54:06",5655,99
+2132563976,88810448,"870 Mayson Turner Rd NW UNIT 1146",Atlanta,GA,30314,160000,Apartment,Other,900,"Square Feet",1158,"Square Feet","2024-11-20 23:54:06",51114,100
+35833387,35833383,"745 Jones Ave NW",Atlanta,GA,30314,360300,"Single Family",Other,2072,"Square Feet",3920,"Square Feet","2024-11-20 23:54:06",51115,101
+441910544,340039003,"580 Hancock Dr",Atlanta,GA,30354,449990,"Single Family","Recently Sold",2506,"Square Feet",9148,"Square Feet","2024-11-20 23:54:06",5011,102
+35833387,35833384,"749 Jones Ave NW",Atlanta,GA,30314,181900,"Single Family",Other,948,"Square Feet",4094,"Square Feet","2024-11-20 22:18:43",51115,103
+441910544,340039003,"580 Hancock Dr",Atlanta,GA,30354,449990,"Single Family","Recently Sold",2506,"Square Feet",9148,"Square Feet","2024-11-20 22:18:43",5011,104
+35833387,35833384,"749 Jones Ave NW",Atlanta,GA,30314,181900,"Single Family",Other,948,"Square Feet",4094,"Square Feet","2024-11-20 23:54:06",51115,105
+441910544,347042151,"581 Hancock Dr",Atlanta,GA,30354,439990,"Single Family","For Sale",2235,"Square Feet",9235,"Square Feet","2024-11-20 23:54:06",5011,106
+35833387,35833385,"755 Jones Ave NW",Atlanta,GA,30314,229100,"Single Family",Other,931,"Square Feet",4133,"Square Feet","2024-11-20 22:18:43",51115,107
+69375258,69366139,"2829 Brookford Ln SW",Atlanta,GA,30331,367200,"Single Family",Other,2952,"Square Feet",0,Acres,"2024-11-20 23:54:06",16980,108
+35921943,35921889,"2880 Nancy Creek Rd NW",Atlanta,GA,30327,3022200,"Single Family",Other,9670,"Square Feet",1,Acres,"2024-11-20 23:54:06",8644,109
+441910544,347042151,"581 Hancock Dr",Atlanta,GA,30354,439990,"Single Family","For Sale",2235,"Square Feet",9235,"Square Feet","2024-11-20 22:18:43",5011,110
+35920166,35920165,"1724 Ridge Valley Ct NW",Atlanta,GA,30327,1514800,"Single Family",Other,4634,"Square Feet",1,Acres,"2024-11-20 22:18:43",8626,111
+35833387,35833385,"755 Jones Ave NW",Atlanta,GA,30314,229100,"Single Family",Other,931,"Square Feet",4133,"Square Feet","2024-11-20 23:54:06",51115,112
+35890187,35890186,"701 Garibaldi St SW",Atlanta,GA,30310,195900,"Single Family",Other,1400,"Square Feet",4791,"Square Feet","2024-11-20 22:18:43",5145,113
+35855662,35855664,"1858 Calloway Dr NW",Atlanta,GA,30314,70900,Lot,Other,2562,"Square Feet",9452,"Square Feet","2024-11-20 22:18:43",11798,114
+2132563976,88811390,"870 Mayson Turner Rd NW UNIT 1209",Atlanta,GA,30314,121900,"Multi Family",Other,810,"Square Feet",810,"Square Feet","2024-11-20 23:54:06",51114,115
+69375258,69366139,"2829 Brookford Ln SW",Atlanta,GA,30331,367200,"Single Family",Other,2952,"Square Feet",0,Acres,"2024-11-20 22:18:43",16980,116
+35921943,35921906,"2895 Nancy Creek Rd NW",Atlanta,GA,30327,1667400,"Single Family",Other,5765,"Square Feet",2,Acres,"2024-11-20 23:54:06",8644,117
+441910544,439257645,"490 Hancock Dr SE",Atlanta,GA,30354,429990,"Single Family","For Sale",2235,"Square Feet",0,Acres,"2024-11-20 22:18:43",5011,118
+35890187,2079173399,"697 Garibaldi St SW LOT 0",Atlanta,GA,30310,590000,"Single Family",Sold,0,"Square Feet",5001,"Square Feet","2024-11-20 23:54:06",5145,119
+442743343,35888499,"20 Marietta St NW",Atlanta,GA,30303,125900,Condo,"For Sale",0,"Square Feet",0,"Square Feet","2024-11-20 22:18:43",5660,120
+35920166,35920165,"1724 Ridge Valley Ct NW",Atlanta,GA,30327,1514800,"Single Family",Other,4634,"Square Feet",1,Acres,"2024-11-20 23:54:06",8626,121
+2132563976,88811390,"870 Mayson Turner Rd NW UNIT 1209",Atlanta,GA,30314,121900,"Multi Family",Other,810,"Square Feet",810,"Square Feet","2024-11-20 22:18:43",51114,122
+35872540,35872543,"3367 Martin Luther King Jr Dr SW",Atlanta,GA,30331,183200,"Single Family",Other,1028,"Square Feet",1,Acres,"2024-11-20 23:54:06",3703,123
+35921943,35921906,"2895 Nancy Creek Rd NW",Atlanta,GA,30327,1667400,"Single Family",Other,5765,"Square Feet",2,Acres,"2024-11-20 22:18:43",8644,124
+441910544,439257645,"490 Hancock Dr SE",Atlanta,GA,30354,429990,"Single Family","For Sale",2235,"Square Feet",0,Acres,"2024-11-20 23:54:06",5011,125
+35890187,2079173399,"697 Garibaldi St SW LOT 0",Atlanta,GA,30310,590000,"Single Family",Sold,0,"Square Feet",5001,"Square Feet","2024-11-20 22:18:43",5145,126
+442743343,35888499,"20 Marietta St NW",Atlanta,GA,30303,125900,Condo,"For Sale",0,"Square Feet",0,"Square Feet","2024-11-20 23:54:06",5660,127
+35872540,35872543,"3367 Martin Luther King Jr Dr SW",Atlanta,GA,30331,183200,"Single Family",Other,1028,"Square Feet",1,Acres,"2024-11-20 22:18:43",3703,128
+2132563976,88810949,"870 Mayson Turner Rd NW UNIT 1302",Atlanta,GA,30314,127200,Apartment,Other,1000,"Square Feet",862,"Square Feet","2024-11-20 23:54:06",51114,129
+441910544,441912325,"495 Hancock Dr SE",Atlanta,GA,30354,509990,"Single Family","For Sale",2506,"Square Feet",0,Acres,"2024-11-20 22:18:43",5011,130
+35920166,35920128,"1725 Ridge Valley Ct NW",Atlanta,GA,30327,970300,"Single Family",Other,3200,"Square Feet",1,Acres,"2024-11-20 22:18:43",8626,131
+35872540,35872541,"3379 Martin Luther King Jr Dr SW",Atlanta,GA,30331,366800,"Single Family",Other,1594,"Square Feet",1,Acres,"2024-11-20 22:18:43",3703,132
+441910544,441912325,"495 Hancock Dr SE",Atlanta,GA,30354,509990,"Single Family","For Sale",2506,"Square Feet",0,Acres,"2024-11-20 23:54:06",5011,133
+35872540,35872541,"3379 Martin Luther King Jr Dr SW",Atlanta,GA,30331,366800,"Single Family",Other,1594,"Square Feet",1,Acres,"2024-11-20 23:54:06",3703,134
+441910544,439257215,"490 Hancock Dr SE LOT 1",Atlanta,GA,30354,429990,"Single Family","For Sale",2235,"Square Feet",0,Acres,"2024-11-20 22:18:43",5011,135
+35872540,35872539,"3391 Martin Luther King Jr Dr SW",Atlanta,GA,30331,248400,"Single Family",Other,1500,"Square Feet",1,Acres,"2024-11-20 23:54:06",3703,136
+442743343,35888478,"20 Marietta St NW APT 3G",Atlanta,GA,30303,225000,Condo,"For Sale",1130,"Square Feet",1128,"Square Feet","2024-11-20 22:18:43",5660,137
+441910544,439257215,"490 Hancock Dr SE LOT 1",Atlanta,GA,30354,429990,"Single Family","For Sale",2235,"Square Feet",0,Acres,"2024-11-20 23:54:06",5011,138
+35833387,35833404,"758 Jones Ave NW",Atlanta,GA,30314,189600,"Single Family",Other,1595,"Square Feet",3659,"Square Feet","2024-11-20 23:54:06",51115,139
+35872540,35872539,"3391 Martin Luther King Jr Dr SW",Atlanta,GA,30331,248400,"Single Family",Other,1500,"Square Feet",1,Acres,"2024-11-20 22:18:43",3703,140
+442743343,35888478,"20 Marietta St NW APT 3G",Atlanta,GA,30303,225000,Condo,"For Sale",1130,"Square Feet",1128,"Square Feet","2024-11-20 23:54:06",5660,141
+35833387,35833404,"758 Jones Ave NW",Atlanta,GA,30314,189600,"Single Family",Other,1595,"Square Feet",3659,"Square Feet","2024-11-20 22:18:43",51115,142
+35872540,69344985,"3397 Martin Luther King Jr Dr SW",Atlanta,GA,30331,310500,"Single Family",Other,2211,"Square Feet",1,Acres,"2024-11-20 22:18:43",3703,143
+348934176,350860558,"2034 Bixby Byway Dr SE",Atlanta,GA,30317,458000,Townhouse,Other,1120,"Square Feet",871,"Square Feet","2024-11-20 22:18:43",5148,144
+35846147,35846218,"217 Whitaker Cir NW",Atlanta,GA,30314,148400,"Single Family",Other,923,"Square Feet",10380,"Square Feet","2024-11-20 22:18:43",11785,145
+348934176,350860558,"2034 Bixby Byway Dr SE",Atlanta,GA,30317,458000,Townhouse,Other,1120,"Square Feet",871,"Square Feet","2024-11-20 23:54:06",5148,146
+35836184,35836195,"1078 Arlington Ave SW",Atlanta,GA,30310,300000,"Single Family",Other,2268,"Square Feet",8712,"Square Feet","2024-11-20 23:54:06",11975,147
+249112337,35830510,"816 Erin Ave SW",Atlanta,GA,30310,236100,"Single Family",Other,1045,"Square Feet",7601,"Square Feet","2024-11-20 23:54:06",12045,148
+35846147,35846219,"223 Whitaker Cir NW",Atlanta,GA,30314,137500,"Single Family",Other,936,"Square Feet",10201,"Square Feet","2024-11-20 22:18:43",11785,149
+65440804,69344284,"1438 Rome Dr NW",Atlanta,GA,30314,0,"Single Family","For Sale",1792,"Square Feet",6970,"Square Feet","2024-11-20 22:18:43",11791,150
+249112337,35830529,"817 Dill Ave SW",Atlanta,GA,30310,492000,"Single Family",Sold,3052,"Square Feet",10454,"Square Feet","2024-11-20 22:18:43",12045,151
+35846147,35846219,"223 Whitaker Cir NW",Atlanta,GA,30314,137500,"Single Family",Other,936,"Square Feet",10201,"Square Feet","2024-11-20 23:54:06",11785,152
+65440804,69344284,"1438 Rome Dr NW",Atlanta,GA,30314,0,"Single Family","For Sale",1792,"Square Feet",6970,"Square Feet","2024-11-20 23:54:06",11791,153
+249112337,35830529,"817 Dill Ave SW",Atlanta,GA,30310,492000,"Single Family",Sold,3052,"Square Feet",10454,"Square Feet","2024-11-20 23:54:06",12045,154
+35846147,35846220,"229 Whitaker Cir NW",Atlanta,GA,30314,176800,Condo,Other,1504,"Square Feet",9962,"Square Feet","2024-11-20 22:18:43",11785,155
+65440804,69344286,"1448 Rome Dr NW",Atlanta,GA,30314,330600,"Single Family",Other,1400,"Square Feet",6969,"Square Feet","2024-11-20 23:54:06",11791,156
+35914514,35914515,"3135 Rilman Rd NW",Atlanta,GA,30327,922000,"Single Family",Other,2471,"Square Feet",1,Acres,"2024-11-20 23:54:06",8648,157
+35846147,35846220,"229 Whitaker Cir NW",Atlanta,GA,30314,176800,Condo,Other,1504,"Square Feet",9962,"Square Feet","2024-11-20 23:54:06",11785,158
+112432138,112432743,"1820 Peachtree St NW UNIT 905",Atlanta,GA,30309,610000,Condo,"Recently Sold",1391,"Square Feet",1390,"Square Feet","2024-11-20 22:18:43",8529,159
+35914514,35914515,"3135 Rilman Rd NW",Atlanta,GA,30327,922000,"Single Family",Other,2471,"Square Feet",1,Acres,"2024-11-20 22:18:43",8648,160
+35846147,35846236,"234 Richardson Rd NW",Atlanta,GA,30314,178300,"Single Family",Other,1040,"Square Feet",8712,"Square Feet","2024-11-20 23:54:06",11785,161
+112432138,112432743,"1820 Peachtree St NW UNIT 905",Atlanta,GA,30309,610000,Condo,"Recently Sold",1391,"Square Feet",1390,"Square Feet","2024-11-20 23:54:06",8529,162
+35914514,35914569,"3150 Rilman Rd NW",Atlanta,GA,30327,876600,"Single Family",Other,2642,"Square Feet",0,Acres,"2024-11-20 22:18:43",8648,163
+35846147,35846236,"234 Richardson Rd NW",Atlanta,GA,30314,178300,"Single Family",Other,1040,"Square Feet",8712,"Square Feet","2024-11-20 22:18:43",11785,164
+35914514,35914569,"3150 Rilman Rd NW",Atlanta,GA,30327,876600,"Single Family",Other,2642,"Square Feet",0,Acres,"2024-11-20 23:54:06",8648,165
+112432138,112433134,"1820 Peachtree St NW UNIT 912",Atlanta,GA,30309,760000,Condo,Sold,1889,"Square Feet",1873,"Square Feet","2024-11-20 23:54:06",8529,166
+65440804,69344286,"1448 Rome Dr NW",Atlanta,GA,30314,330600,"Single Family",Other,1400,"Square Feet",6969,"Square Feet","2024-11-20 22:18:43",11791,167
+35846147,35846149,"236 Richardson Rd NW",Atlanta,GA,30314,166900,"Single Family",Other,1312,"Square Feet",10140,"Square Feet","2024-11-20 22:18:43",11785,168
+35914514,35914513,"3159 Rilman Rd NW",Atlanta,GA,30327,1180000,"Single Family",Other,2985,"Square Feet",1,Acres,"2024-11-20 22:18:43",8648,169
+65440804,35844401,"1449 Hawkins St NW",Atlanta,GA,30314,151400,"Single Family",Other,1155,"Square Feet",7000,"Square Feet","2024-11-20 22:18:43",11791,170
+112432138,112433134,"1820 Peachtree St NW UNIT 912",Atlanta,GA,30309,760000,Condo,Sold,1889,"Square Feet",1873,"Square Feet","2024-11-20 22:18:43",8529,171
+35914514,35914513,"3159 Rilman Rd NW",Atlanta,GA,30327,1180000,"Single Family",Other,2985,"Square Feet",1,Acres,"2024-11-20 23:54:06",8648,172
+65440804,35844401,"1449 Hawkins St NW",Atlanta,GA,30314,151400,"Single Family",Other,1155,"Square Feet",7000,"Square Feet","2024-11-20 23:54:06",11791,173
+112432138,112430977,"1820 Peachtree St NW UNIT 1012",Atlanta,GA,30309,875000,Condo,"Recently Sold",1889,"Square Feet",1891,"Square Feet","2024-11-20 22:18:43",8529,174
+65440804,35844400,"1455 Hawkins St NW",Atlanta,GA,30314,180800,"Single Family",Other,1244,"Square Feet",7000,"Square Feet","2024-11-20 22:18:43",11791,175
+112432138,112430977,"1820 Peachtree St NW UNIT 1012",Atlanta,GA,30309,875000,Condo,"Recently Sold",1889,"Square Feet",1891,"Square Feet","2024-11-20 23:54:06",8529,176
+35846147,35846149,"236 Richardson Rd NW",Atlanta,GA,30314,166900,"Single Family",Other,1312,"Square Feet",10140,"Square Feet","2024-11-20 23:54:06",11785,177
+65440804,35844400,"1455 Hawkins St NW",Atlanta,GA,30314,180800,"Single Family",Other,1244,"Square Feet",7000,"Square Feet","2024-11-20 23:54:06",11791,178
+35836184,35836196,"1095 Avon Ave SW",Atlanta,GA,30310,296100,"Single Family",Other,3833,"Square Feet",0,Acres,"2024-11-20 22:18:43",11975,179
+112432138,112432330,"1820 Peachtree St NW UNIT 1104",Atlanta,GA,30309,625000,Condo,Sold,1521,"Square Feet",1307,"Square Feet","2024-11-20 23:54:06",8529,180
+82619915,69380170,"821 Ralph McGill Blvd NE APT 2111",Atlanta,GA,30306,274000,Condo,Sold,800,"Square Feet",802,"Square Feet","2024-11-20 22:18:43",5669,181
+35846147,35846146,"254 Richardson Rd NW",Atlanta,GA,30314,306300,"Single Family",Other,1535,"Square Feet",10454,"Square Feet","2024-11-20 22:18:43",11785,182
+2132563976,88810949,"870 Mayson Turner Rd NW UNIT 1302",Atlanta,GA,30314,127200,Apartment,Other,1000,"Square Feet",862,"Square Feet","2024-11-20 22:18:43",51114,183
+65440804,35844399,"1459 Hawkins St NW",Atlanta,GA,30314,236800,"Single Family",Other,1288,"Square Feet",7000,"Square Feet","2024-11-20 23:54:06",11791,184
+35920166,35920128,"1725 Ridge Valley Ct NW",Atlanta,GA,30327,970300,"Single Family",Other,3200,"Square Feet",1,Acres,"2024-11-20 23:54:06",8626,185
+112432138,112432330,"1820 Peachtree St NW UNIT 1104",Atlanta,GA,30309,625000,Condo,Sold,1521,"Square Feet",1307,"Square Feet","2024-11-20 22:18:43",8529,186
+82619915,69380170,"821 Ralph McGill Blvd NE APT 2111",Atlanta,GA,30306,274000,Condo,Sold,800,"Square Feet",802,"Square Feet","2024-11-20 23:54:06",5669,187
+2132563976,88810242,"870 Mayson Turner Rd NW UNIT 1304",Atlanta,GA,30314,127200,Apartment,Other,1052,"Square Feet",1052,"Square Feet","2024-11-20 23:54:06",51114,188
+35846147,35846146,"254 Richardson Rd NW",Atlanta,GA,30314,306300,"Single Family",Other,1535,"Square Feet",10454,"Square Feet","2024-11-20 23:54:06",11785,189
+82619915,69379930,"821 Ralph McGill Blvd NE APT 2316",Atlanta,GA,30306,310000,Condo,Sold,900,"Square Feet",902,"Square Feet","2024-11-20 22:18:43",5669,190
+35920166,35920127,"1737 Ridge Valley Ct NW",Atlanta,GA,30327,1280300,"Single Family",Other,3572,"Square Feet",1,Acres,"2024-11-20 22:18:43",8626,191
+65440804,35844399,"1459 Hawkins St NW",Atlanta,GA,30314,236800,"Single Family",Other,1288,"Square Feet",7000,"Square Feet","2024-11-20 22:18:43",11791,192
+35836184,35836194,"1082 Arlington Ave SW",Atlanta,GA,30310,432000,"Multi Family",Other,2238,"Square Feet",6534,"Square Feet","2024-11-20 22:18:43",11975,193
+82619915,69381797,"821 Ralph McGill Blvd NE APT 2113",Atlanta,GA,30306,290000,Condo,"For Sale",650,"Square Feet",649,"Square Feet","2024-11-20 22:18:43",5669,194
+35920166,35920127,"1737 Ridge Valley Ct NW",Atlanta,GA,30327,1280300,"Single Family",Other,3572,"Square Feet",1,Acres,"2024-11-20 23:54:06",8626,195
+82619915,69381797,"821 Ralph McGill Blvd NE APT 2113",Atlanta,GA,30306,290000,Condo,"For Sale",650,"Square Feet",649,"Square Feet","2024-11-20 23:54:06",5669,196
+35836184,35836196,"1095 Avon Ave SW",Atlanta,GA,30310,296100,"Single Family",Other,3833,"Square Feet",0,Acres,"2024-11-20 23:54:06",11975,197
+35914514,35914570,"3162 Rilman Rd NW",Atlanta,GA,30327,599000,"Single Family",Sold,1632,"Square Feet",0,Acres,"2024-11-20 22:18:43",8648,198
+35846147,35846171,"264 Richardson Rd NW",Atlanta,GA,30314,239400,"Single Family",Other,1766,"Square Feet",0,Acres,"2024-11-20 23:54:06",11785,199
+35914514,35914570,"3162 Rilman Rd NW",Atlanta,GA,30327,599000,"Single Family",Sold,1632,"Square Feet",0,Acres,"2024-11-20 23:54:06",8648,200
+112432138,112432066,"1820 Peachtree St NW UNIT 1407",Atlanta,GA,30309,703000,Condo,Sold,1700,"Square Feet",1699,"Square Feet","2024-11-20 22:18:43",8529,201
+35920166,35920167,"1748 Ridge Valley Ct NW",Atlanta,GA,30327,784700,"Single Family",Other,1674,"Square Feet",1,Acres,"2024-11-20 23:54:06",8626,202
+35846147,35846171,"264 Richardson Rd NW",Atlanta,GA,30314,239400,"Single Family",Other,1766,"Square Feet",0,Acres,"2024-11-20 22:18:43",11785,203
+82619915,69382700,"821 Ralph McGill Blvd NE APT 2307",Atlanta,GA,30306,315000,Condo,"Recently Sold",650,"Square Feet",653,"Square Feet","2024-11-20 23:54:06",5669,204
+35914514,35914516,"3158 Wood Valley Rd NW",Atlanta,GA,30327,1030800,"Single Family",Other,2739,"Square Feet",1,Acres,"2024-11-20 22:18:43",8648,205
+35836184,35836197,"1101 Avon Ave SW",Atlanta,GA,30310,259900,"Single Family",Other,2389,"Square Feet",0,Acres,"2024-11-20 23:54:06",11975,206
+112432138,112432066,"1820 Peachtree St NW UNIT 1407",Atlanta,GA,30309,703000,Condo,Sold,1700,"Square Feet",1699,"Square Feet","2024-11-20 23:54:06",8529,207
+35920166,35920167,"1748 Ridge Valley Ct NW",Atlanta,GA,30327,784700,"Single Family",Other,1674,"Square Feet",1,Acres,"2024-11-20 22:18:43",8626,208
+35914514,35914516,"3158 Wood Valley Rd NW",Atlanta,GA,30327,1030800,"Single Family",Other,2739,"Square Feet",1,Acres,"2024-11-20 23:54:06",8648,209
+82619915,69382700,"821 Ralph McGill Blvd NE APT 2307",Atlanta,GA,30306,315000,Condo,"Recently Sold",650,"Square Feet",653,"Square Feet","2024-11-20 22:18:43",5669,210
+35877638,35877691,"407 Bass St SE",Atlanta,GA,30315,718300,"Multi Family",Other,2156,"Square Feet",6534,"Square Feet","2024-11-20 22:18:43",5052,211
+2132563976,88810242,"870 Mayson Turner Rd NW UNIT 1304",Atlanta,GA,30314,127200,Apartment,Other,1052,"Square Feet",1052,"Square Feet","2024-11-20 22:18:43",51114,212
+71753253,71757614,"455 Glen Iris Dr NE #N",Atlanta,GA,30308,369900,Condo,Sold,1225,"Square Feet",1220,"Square Feet","2024-11-20 23:54:06",5605,213
+35836184,35836197,"1101 Avon Ave SW",Atlanta,GA,30310,259900,"Single Family",Other,2389,"Square Feet",0,Acres,"2024-11-20 22:18:43",11975,214
+82629652,82625972,"301 Darkwater Ct",Atlanta,GA,30331,447100,"Single Family",Other,4292,"Square Feet",1,Acres,"2024-11-20 22:18:43",16943,215
+35920166,35920196,"1749 Ridge Valley Ct NW",Atlanta,GA,30327,664500,"Single Family",Other,2168,"Square Feet",0,Acres,"2024-11-20 22:18:43",8626,216
+35877638,35877691,"407 Bass St SE",Atlanta,GA,30315,718300,"Multi Family",Other,2156,"Square Feet",6534,"Square Feet","2024-11-20 23:54:06",5052,217
+82619915,69369784,"821 Ralph McGill Blvd NE APT 2312",Atlanta,GA,30306,340000,Condo,"For Sale",1077,"Square Feet",1076,"Square Feet","2024-11-20 22:18:43",5669,218
+2132563976,88810806,"870 Mayson Turner Rd NW UNIT 1322",Atlanta,GA,30314,147800,Apartment,Other,1000,"Square Feet",766,"Square Feet","2024-11-20 22:18:43",51114,219
+35836184,306364417,"1068 Arlington Ave SW",Atlanta,GA,30310,521800,"Single Family",Other,10440,"Square Feet",0,Acres,"2024-11-20 22:18:43",11975,220
+82619915,69369784,"821 Ralph McGill Blvd NE APT 2312",Atlanta,GA,30306,340000,Condo,"For Sale",1077,"Square Feet",1076,"Square Feet","2024-11-20 23:54:06",5669,221
+65466425,65466398,"700 Park Regency Pl NE APT 1106",Atlanta,GA,30326,575000,Condo,"Recently Sold",1667,"Square Feet",1668,"Square Feet","2024-11-20 23:54:06",8539,222
+14469931,14469945,"151 Sisson Ave NE",Atlanta,GA,30317,388000,"Single Family",Other,998,"Square Feet",4356,"Square Feet","2024-11-20 22:18:43",5061,223
+14469931,14469944,"155 Sisson Ave NE",Atlanta,GA,30317,626300,"Single Family",Other,1430,"Square Feet",1,Acres,"2024-11-20 23:54:06",5061,224
+69380923,69365785,"2277 Peachtree Rd NE UNIT 303",Atlanta,GA,30309,223500,Condo,"Recently Sold",751,"Square Feet",741,"Square Feet","2024-11-20 23:54:06",8602,225
+442742092,35932646,"430 Lindbergh Dr NE APT B3",Atlanta,GA,30305,225700,Condo,Other,1188,"Square Feet",1189,"Square Feet","2024-11-20 22:18:43",8618,226
+69380923,69365785,"2277 Peachtree Rd NE UNIT 303",Atlanta,GA,30309,223500,Condo,"Recently Sold",751,"Square Feet",741,"Square Feet","2024-11-20 22:18:43",8602,227
+442743343,35888481,"20 Marietta St NW APT 4B",Atlanta,GA,30303,223000,Condo,"For Sale",1198,"Square Feet",1198,"Square Feet","2024-11-20 23:54:06",5660,228
+442742092,347131253,"430 Lindbergh Dr NE APT B5",Atlanta,GA,30305,130000,Condo,"Recently Sold",0,"Square Feet",0,"Square Feet","2024-11-20 23:54:06",8618,229
+35833387,35833388,"765 Jones Ave NW",Atlanta,GA,30314,163900,"Single Family",Other,995,"Square Feet",4133,"Square Feet","2024-11-20 23:54:06",51115,230
+69380923,69368540,"2277 Peachtree Rd NE UNIT 405",Atlanta,GA,30309,319000,Condo,Sold,1144,"Square Feet",1133,"Square Feet","2024-11-20 23:54:06",8602,231
+442743343,35888481,"20 Marietta St NW APT 4B",Atlanta,GA,30303,223000,Condo,"For Sale",1198,"Square Feet",1198,"Square Feet","2024-11-20 22:18:43",5660,232
+442742092,347131253,"430 Lindbergh Dr NE APT B5",Atlanta,GA,30305,130000,Condo,"Recently Sold",0,"Square Feet",0,"Square Feet","2024-11-20 22:18:43",8618,233
+35872540,69344985,"3397 Martin Luther King Jr Dr SW",Atlanta,GA,30331,310500,"Single Family",Other,2211,"Square Feet",1,Acres,"2024-11-20 23:54:06",3703,234
+69380923,69368540,"2277 Peachtree Rd NE UNIT 405",Atlanta,GA,30309,319000,Condo,Sold,1144,"Square Feet",1133,"Square Feet","2024-11-20 22:18:43",8602,235
+35833387,35833388,"765 Jones Ave NW",Atlanta,GA,30314,163900,"Single Family",Other,995,"Square Feet",4133,"Square Feet","2024-11-20 22:18:43",51115,236
+442742092,35932652,"430 Lindbergh Dr NE UNIT 3",Atlanta,GA,30305,239300,Condo,Other,1188,"Square Feet",1189,"Square Feet","2024-11-20 22:18:43",8618,237
+442743343,35888483,"20 Marietta St NW APT 4D",Atlanta,GA,30303,225000,Condo,"For Sale",1198,"Square Feet",1198,"Square Feet","2024-11-20 23:54:06",5660,238
+69380923,69365914,"2277 Peachtree Rd NE UNIT 411",Atlanta,GA,30309,248000,Condo,"Recently Sold",737,"Square Feet",736,"Square Feet","2024-11-20 23:54:06",8602,239
+348934176,14466475,"199 Palatka St",Atlanta,GA,30317,510300,"Single Family",Other,1456,"Square Feet",6490,"Square Feet","2024-11-20 22:18:43",5148,240
+442742092,35932652,"430 Lindbergh Dr NE UNIT 3",Atlanta,GA,30305,239300,Condo,Other,1188,"Square Feet",1189,"Square Feet","2024-11-20 23:54:06",8618,241
+69380923,69365914,"2277 Peachtree Rd NE UNIT 411",Atlanta,GA,30309,248000,Condo,"Recently Sold",737,"Square Feet",736,"Square Feet","2024-11-20 22:18:43",8602,242
+441910544,347919097,"555 Abbott Ct SE LOT 25",Atlanta,GA,30354,439990,"Single Family","Recently Sold",2235,"Square Feet",0,Acres,"2024-11-20 22:18:43",5011,243
+347955805,35872461,"3506 Thompson Dr NW",Atlanta,GA,30331,223100,"Single Family",Other,1122,"Square Feet",0,Acres,"2024-11-20 22:18:43",3704,244
+35833387,35833403,"349 James P Brawley Dr NW",Atlanta,GA,30314,94200,"Single Family",Other,1268,"Square Feet",4499,"Square Feet","2024-11-20 22:18:43",51115,245
+35839311,35839308,"151 Moreland Ave SE",Atlanta,GA,30316,497900,"Single Family",Other,1500,"Square Feet",1,Acres,"2024-11-20 23:54:06",5146,246
+442743343,35888483,"20 Marietta St NW APT 4D",Atlanta,GA,30303,225000,Condo,"For Sale",1198,"Square Feet",1198,"Square Feet","2024-11-20 22:18:43",5660,247
+69380923,69372147,"2277 Peachtree Rd NE UNIT 509",Atlanta,GA,30309,250000,Condo,"Recently Sold",871,"Square Feet",871,"Square Feet","2024-11-20 22:18:43",8602,248
+348934176,14466475,"199 Palatka St",Atlanta,GA,30317,510300,"Single Family",Other,1456,"Square Feet",6490,"Square Feet","2024-11-20 23:54:06",5148,249
+35884082,35884092,"2658 Altaview Dr SE",Atlanta,GA,30354,215500,"Single Family",Other,1428,"Square Feet",0,Acres,"2024-11-20 22:18:43",5009,250
+35839311,35839308,"151 Moreland Ave SE",Atlanta,GA,30316,497900,"Single Family",Other,1500,"Square Feet",1,Acres,"2024-11-20 22:18:43",5146,251
+2052960351,35933847,"1 Emma Ln NE",Atlanta,GA,30342,30000,Lot,Sold,100,"Square Feet",7,Acres,"2024-11-20 22:18:43",8634,252
+69380923,69372147,"2277 Peachtree Rd NE UNIT 509",Atlanta,GA,30309,250000,Condo,"Recently Sold",871,"Square Feet",871,"Square Feet","2024-11-20 23:54:06",8602,253
+35839311,35839309,"159 Moreland Ave SE",Atlanta,GA,30316,687100,"Multi Family",Other,1607,"Square Feet",7000,"Square Feet","2024-11-20 22:18:43",5146,254
+35884082,35884080,"2659 Altaview Dr SE",Atlanta,GA,30354,167100,"Single Family",Other,1066,"Square Feet",10149,"Square Feet","2024-11-20 23:54:06",5009,255
+441910544,347919097,"555 Abbott Ct SE LOT 25",Atlanta,GA,30354,439990,"Single Family","Recently Sold",2235,"Square Feet",0,Acres,"2024-11-20 23:54:06",5011,256
+2052960351,35933847,"1 Emma Ln NE",Atlanta,GA,30342,30000,Lot,Sold,100,"Square Feet",7,Acres,"2024-11-20 23:54:06",8634,257
+35833387,35833403,"349 James P Brawley Dr NW",Atlanta,GA,30314,94200,"Single Family",Other,1268,"Square Feet",4499,"Square Feet","2024-11-20 23:54:06",51115,258
+69380923,69372318,"2277 Peachtree Rd NE UNIT 602",Atlanta,GA,30309,375000,Condo,Sold,1242,"Square Feet",1263,"Square Feet","2024-11-20 22:18:43",8602,259
+441910544,441910573,"491 Hancock Dr SE LOT 46",Atlanta,GA,30354,429990,"Single Family",Pending,2506,"Square Feet",0,Acres,"2024-11-20 23:54:06",5011,260
+35884082,35884080,"2659 Altaview Dr SE",Atlanta,GA,30354,167100,"Single Family",Other,1066,"Square Feet",10149,"Square Feet","2024-11-20 22:18:43",5009,261
+35833387,35833389,"367 James P Brawley Dr NW",Atlanta,GA,30314,188200,"Single Family",Other,1222,"Square Feet",4739,"Square Feet","2024-11-20 22:18:43",51115,262
+35839311,35839309,"159 Moreland Ave SE",Atlanta,GA,30316,687100,"Multi Family",Other,1607,"Square Feet",7000,"Square Feet","2024-11-20 23:54:06",5146,263
+441910544,441910573,"491 Hancock Dr SE LOT 46",Atlanta,GA,30354,429990,"Single Family",Pending,2506,"Square Feet",0,Acres,"2024-11-20 22:18:43",5011,264
+2052960351,35933846,"3 Emma Ln NE",Atlanta,GA,30342,1048200,"Single Family",Other,2240,"Square Feet",0,Acres,"2024-11-20 22:18:43",8634,265
+35833387,35833389,"367 James P Brawley Dr NW",Atlanta,GA,30314,188200,"Single Family",Other,1222,"Square Feet",4739,"Square Feet","2024-11-20 23:54:06",51115,266
+69380923,69372318,"2277 Peachtree Rd NE UNIT 602",Atlanta,GA,30309,375000,Condo,Sold,1242,"Square Feet",1263,"Square Feet","2024-11-20 23:54:06",8602,267
+442743343,35888488,"20 Marietta St NW APT 6A",Atlanta,GA,30303,145000,Condo,Sold,670,"Square Feet",671,"Square Feet","2024-11-20 23:54:06",5660,268
+35884082,35884081,"2667 Altaview Dr SE",Atlanta,GA,30354,164200,"Single Family",Other,1118,"Square Feet",0,Acres,"2024-11-20 22:18:43",5009,269
+441910544,347040209,"581 Hancock Dr SE LOT 29",Atlanta,GA,30354,439990,"Single Family","For Sale",2235,"Square Feet",9235,"Square Feet","2024-11-20 22:18:43",5011,270
+35839311,35839310,"163 Moreland Ave SE",Atlanta,GA,30316,496400,"Single Family",Other,1550,"Square Feet",7248,"Square Feet","2024-11-20 23:54:06",5146,271
+442743343,35888488,"20 Marietta St NW APT 6A",Atlanta,GA,30303,145000,Condo,Sold,670,"Square Feet",671,"Square Feet","2024-11-20 22:18:43",5660,272
+2052960351,35933846,"3 Emma Ln NE",Atlanta,GA,30342,1048200,"Single Family",Other,2240,"Square Feet",0,Acres,"2024-11-20 23:54:06",8634,273
+442743343,35888493,"20 Marietta St NW APT 6F",Atlanta,GA,30303,145000,Condo,"For Sale",543,"Square Feet",545,"Square Feet","2024-11-20 23:54:06",5660,274
+69380923,69371103,"2277 Peachtree Rd NE UNIT 702",Atlanta,GA,30309,325000,Condo,"For Sale",1242,"Square Feet",1241,"Square Feet","2024-11-20 22:18:43",8602,275
+441910544,347040209,"581 Hancock Dr SE LOT 29",Atlanta,GA,30354,439990,"Single Family","For Sale",2235,"Square Feet",9235,"Square Feet","2024-11-20 23:54:06",5011,276
+442743343,35888493,"20 Marietta St NW APT 6F",Atlanta,GA,30303,145000,Condo,"For Sale",543,"Square Feet",545,"Square Feet","2024-11-20 22:18:43",5660,277
+2132563976,88810806,"870 Mayson Turner Rd NW UNIT 1322",Atlanta,GA,30314,147800,Apartment,Other,1000,"Square Feet",766,"Square Feet","2024-11-20 23:54:06",51114,278
+35836184,306364417,"1068 Arlington Ave SW",Atlanta,GA,30310,521800,"Single Family",Other,10440,"Square Feet",0,Acres,"2024-11-20 23:54:06",11975,279
+2132563976,88810485,"870 Mayson Turner Rd NW UNIT 1424",Atlanta,GA,30314,207900,"Multi Family",Other,1080,"Square Feet",1080,"Square Feet","2024-11-20 22:18:43",51114,280
+35836184,35836183,"1074 Arlington Ave SW",Atlanta,GA,30310,325000,"Single Family",Sold,2485,"Square Feet",7535,"Square Feet","2024-11-20 22:18:43",11975,281
+2132563976,88810485,"870 Mayson Turner Rd NW UNIT 1424",Atlanta,GA,30314,207900,"Multi Family",Other,1080,"Square Feet",1080,"Square Feet","2024-11-20 23:54:06",51114,282
+35836184,35836183,"1074 Arlington Ave SW",Atlanta,GA,30310,325000,"Single Family",Sold,2485,"Square Feet",7535,"Square Feet","2024-11-20 23:54:06",11975,283
+35920166,35920196,"1749 Ridge Valley Ct NW",Atlanta,GA,30327,664500,"Single Family",Other,2168,"Square Feet",0,Acres,"2024-11-20 23:54:06",8626,284
+112432138,112432238,"1820 Peachtree St NW UNIT 315",Atlanta,GA,30309,600000,Condo,Sold,1524,"Square Feet",1525,"Square Feet","2024-11-20 23:54:06",8529,285
+35836184,35836195,"1078 Arlington Ave SW",Atlanta,GA,30310,300000,"Single Family",Other,2268,"Square Feet",8712,"Square Feet","2024-11-20 22:18:43",11975,286
+249112337,35830528,"799 Dill Ave SW",Atlanta,GA,30310,519000,"Single Family","Recently Sold",2378,"Square Feet",7928,"Square Feet","2024-11-20 23:54:06",12045,287
+82619915,69379930,"821 Ralph McGill Blvd NE APT 2316",Atlanta,GA,30306,310000,Condo,Sold,900,"Square Feet",902,"Square Feet","2024-11-20 23:54:06",5669,288
+249112337,35830528,"799 Dill Ave SW",Atlanta,GA,30310,519000,"Single Family","Recently Sold",2378,"Square Feet",7928,"Square Feet","2024-11-20 22:18:43",12045,289
+14469931,14469929,"146 Martha Ave",Atlanta,GA,30317,501000,"Single Family",Other,1191,"Square Feet",8712,"Square Feet","2024-11-20 22:18:43",5061,290
+112432138,112432238,"1820 Peachtree St NW UNIT 315",Atlanta,GA,30309,600000,Condo,Sold,1524,"Square Feet",1525,"Square Feet","2024-11-20 22:18:43",8529,291
+35836184,35836194,"1082 Arlington Ave SW",Atlanta,GA,30310,432000,"Multi Family",Other,2238,"Square Feet",6534,"Square Feet","2024-11-20 23:54:06",11975,292
+82619915,69367972,"821 Ralph McGill Blvd NE APT 2318",Atlanta,GA,30306,285555,Condo,"Recently Sold",800,"Square Feet",784,"Square Feet","2024-11-20 23:54:06",5669,293
+348934176,14466474,"207 Palatka St SE",Atlanta,GA,30317,349400,"Single Family",Other,1140,"Square Feet",8712,"Square Feet","2024-11-20 22:18:43",5148,294
+112432138,112432739,"1820 Peachtree St NW UNIT 808",Atlanta,GA,30309,717000,Condo,"Recently Sold",1709,"Square Feet",1708,"Square Feet","2024-11-20 23:54:06",8529,295
+249112337,35830524,"803 Dill Ave SW",Atlanta,GA,30310,304800,"Single Family",Other,1806,"Square Feet",8598,"Square Feet","2024-11-20 23:54:06",12045,296
+14469931,14469929,"146 Martha Ave",Atlanta,GA,30317,501000,"Single Family",Other,1191,"Square Feet",8712,"Square Feet","2024-11-20 23:54:06",5061,297
+14466329,14466322,"93 Howard St",Atlanta,GA,30317,539400,Townhouse,Other,1800,"Square Feet",8712,"Square Feet","2024-11-20 22:18:43",5156,298
+348934176,14466474,"207 Palatka St SE",Atlanta,GA,30317,349400,"Single Family",Other,1140,"Square Feet",8712,"Square Feet","2024-11-20 23:54:06",5148,299
+82619915,69367972,"821 Ralph McGill Blvd NE APT 2318",Atlanta,GA,30306,285555,Condo,"Recently Sold",800,"Square Feet",784,"Square Feet","2024-11-20 22:18:43",5669,300
+249112337,35830524,"803 Dill Ave SW",Atlanta,GA,30310,304800,"Single Family",Other,1806,"Square Feet",8598,"Square Feet","2024-11-20 22:18:43",12045,301
+35920166,35920202,"1758 Ridge Valley Ct NW",Atlanta,GA,30327,1112700,"Single Family",Other,3366,"Square Feet",1,Acres,"2024-11-20 23:54:06",8626,302
+442743343,35888509,"20 Marietta St NW APT 9D",Atlanta,GA,30303,110000,Condo,"For Sale",442,"Square Feet",0,"Square Feet","2024-11-20 23:54:06",5660,303
+14466329,14466322,"93 Howard St",Atlanta,GA,30317,539400,Townhouse,Other,1800,"Square Feet",8712,"Square Feet","2024-11-20 23:54:06",5156,304
+348934176,2053637303,"203 Color Cir SE #35",Atlanta,GA,30317,452172,Townhouse,Sold,0,"Square Feet",0,"Square Feet","2024-11-20 22:18:43",5148,305
+82619915,69366180,"821 Ralph McGill Blvd NE APT 2414",Atlanta,GA,30306,349000,Condo,"Recently Sold",900,"Square Feet",902,"Square Feet","2024-11-20 22:18:43",5669,306
+249112337,35830513,"804 Erin Ave SW",Atlanta,GA,30310,213500,"Single Family",Other,1040,"Square Feet",6651,"Square Feet","2024-11-20 23:54:06",12045,307
+35920166,35920201,"1766 Ridge Valley Ct NW",Atlanta,GA,30327,930000,"Single Family","Recently Sold",3285,"Square Feet",1,Acres,"2024-11-20 23:54:06",8626,308
+82619915,69366180,"821 Ralph McGill Blvd NE APT 2414",Atlanta,GA,30306,349000,Condo,"Recently Sold",900,"Square Feet",902,"Square Feet","2024-11-20 23:54:06",5669,309
+35920166,35920201,"1766 Ridge Valley Ct NW",Atlanta,GA,30327,930000,"Single Family","Recently Sold",3285,"Square Feet",1,Acres,"2024-11-20 22:18:43",8626,310
+82619915,82612087,"821 Ralph McGill Blvd NE APT 3104",Atlanta,GA,30306,310000,Condo,"For Sale",646,"Square Feet",653,"Square Feet","2024-11-20 22:18:43",5669,311
+14445862,14446905,"1115 Bouldercrest Dr",Atlanta,GA,30316,426400,"Single Family",Other,1564,"Square Feet",0,Acres,"2024-11-20 23:54:06",5151,312
+82619915,82612087,"821 Ralph McGill Blvd NE APT 3104",Atlanta,GA,30306,310000,Condo,"For Sale",646,"Square Feet",653,"Square Feet","2024-11-20 23:54:06",5669,313
+14445862,14446905,"1115 Bouldercrest Dr",Atlanta,GA,30316,426400,"Single Family",Other,1564,"Square Feet",0,Acres,"2024-11-20 22:18:43",5151,314
+82619915,82613266,"821 Ralph McGill Blvd NE APT 3404",Atlanta,GA,30306,275000,Condo,"For Sale",646,"Square Feet",645,"Square Feet","2024-11-20 22:18:43",5669,315
+14445862,14445866,"1143 Bouldercrest Dr",Atlanta,GA,30316,11300,"Single Family",Other,1098,"Square Feet",4356,"Square Feet","2024-11-20 22:18:43",5151,316
+82619915,82613266,"821 Ralph McGill Blvd NE APT 3404",Atlanta,GA,30306,275000,Condo,"For Sale",646,"Square Feet",645,"Square Feet","2024-11-20 23:54:06",5669,317
+14445862,14445866,"1143 Bouldercrest Dr",Atlanta,GA,30316,11300,"Single Family",Other,1098,"Square Feet",4356,"Square Feet","2024-11-20 23:54:06",5151,318
+14532620,14532618,"1096 Janes Ln",Atlanta,GA,30324,585700,"Single Family",Other,1738,"Square Feet",1,Acres,"2024-11-20 23:54:06",22640,319
+14445862,14445863,"1144 Bouldercrest Dr",Atlanta,GA,30316,476300,"Single Family",Other,1560,"Square Feet",1,Acres,"2024-11-20 22:18:43",5151,320
+14532620,14532618,"1096 Janes Ln",Atlanta,GA,30324,585700,"Single Family",Other,1738,"Square Feet",1,Acres,"2024-11-20 22:18:43",22640,321
+14466329,14466318,"111 Howard St",Atlanta,GA,30317,1347600,"Single Family",Other,4618,"Square Feet",0,Acres,"2024-11-20 22:18:43",5156,322
+14445862,14445863,"1144 Bouldercrest Dr",Atlanta,GA,30316,476300,"Single Family",Other,1560,"Square Feet",1,Acres,"2024-11-20 23:54:06",5151,323
+14469931,14469944,"155 Sisson Ave NE",Atlanta,GA,30317,626300,"Single Family",Other,1430,"Square Feet",1,Acres,"2024-11-20 22:18:43",5061,324
+14466329,14466318,"111 Howard St",Atlanta,GA,30317,1347600,"Single Family",Other,4618,"Square Feet",0,Acres,"2024-11-20 23:54:06",5156,325
+14445862,14446878,"1112 Bouldercrest Dr SE",Atlanta,GA,30316,245500,"Single Family",Other,952,"Square Feet",1,Acres,"2024-11-20 22:18:43",5151,326
+14469931,14469932,"160 Martha Ave NE",Atlanta,GA,30317,375400,"Single Family",Other,1044,"Square Feet",8712,"Square Feet","2024-11-20 23:54:06",5061,327
+14466329,14466321,"99 Howard St NE",Atlanta,GA,30317,1000000,"Single Family","Recently Sold",1424,"Square Feet",8712,"Square Feet","2024-11-20 22:18:43",5156,328
+14445862,14446878,"1112 Bouldercrest Dr SE",Atlanta,GA,30316,245500,"Single Family",Other,952,"Square Feet",1,Acres,"2024-11-20 23:54:06",5151,329
+14469931,14469932,"160 Martha Ave NE",Atlanta,GA,30317,375400,"Single Family",Other,1044,"Square Feet",8712,"Square Feet","2024-11-20 22:18:43",5061,330
+14466329,14466321,"99 Howard St NE",Atlanta,GA,30317,1000000,"Single Family","Recently Sold",1424,"Square Feet",8712,"Square Feet","2024-11-20 23:54:06",5156,331
+14469931,14469942,"163 Sisson Ave NE",Atlanta,GA,30317,476300,"Single Family",Other,1119,"Square Feet",4356,"Square Feet","2024-11-20 23:54:06",5061,332
+14466329,14466320,"103 Howard St NE",Atlanta,GA,30317,872500,"Single Family","Recently Sold",0,"Square Feet",8712,"Square Feet","2024-11-20 22:18:43",5156,333
+14532620,14532621,"1110 Janes Ln",Atlanta,GA,30324,543200,"Single Family",Other,1338,"Square Feet",1,Acres,"2024-11-20 22:18:43",22640,334
+14469931,14469942,"163 Sisson Ave NE",Atlanta,GA,30317,476300,"Single Family",Other,1119,"Square Feet",4356,"Square Feet","2024-11-20 22:18:43",5061,335
+14466329,14466320,"103 Howard St NE",Atlanta,GA,30317,872500,"Single Family","Recently Sold",0,"Square Feet",8712,"Square Feet","2024-11-20 23:54:06",5156,336
+14532620,14532621,"1110 Janes Ln",Atlanta,GA,30324,543200,"Single Family",Other,1338,"Square Feet",1,Acres,"2024-11-20 23:54:06",22640,337
+92193324,92191943,"1199 Huff Rd NW",Atlanta,GA,30318,819400,"Single Family",Other,1965,"Square Feet",1,Acres,"2024-11-20 22:18:43",8610,338
+14532620,14532617,"1090 Janes Ln NE",Atlanta,GA,30324,678000,"Single Family",Other,3200,"Square Feet",1,Acres,"2024-11-20 23:54:06",22640,339
+14466329,14469085,"119 Howard St NE",Atlanta,GA,30317,880700,"Single Family",Other,2376,"Square Feet",8712,"Square Feet","2024-11-20 22:18:43",5156,340
+14445862,14446879,"1114 Bouldercrest Dr SE",Atlanta,GA,30316,685000,"Single Family",Other,3464,"Square Feet",1,Acres,"2024-11-20 23:54:06",5151,341
+92193324,92191943,"1199 Huff Rd NW",Atlanta,GA,30318,819400,"Single Family",Other,1965,"Square Feet",1,Acres,"2024-11-20 23:54:06",8610,342
+14532620,14532617,"1090 Janes Ln NE",Atlanta,GA,30324,678000,"Single Family",Other,3200,"Square Feet",1,Acres,"2024-11-20 22:18:43",22640,343
+14466329,14469085,"119 Howard St NE",Atlanta,GA,30317,880700,"Single Family",Other,2376,"Square Feet",8712,"Square Feet","2024-11-20 23:54:06",5156,344
+14445862,14446879,"1114 Bouldercrest Dr SE",Atlanta,GA,30316,685000,"Single Family",Other,3464,"Square Feet",1,Acres,"2024-11-20 22:18:43",5151,345
+92193324,92191767,"1199 Huff Rd NW UNIT 101",Atlanta,GA,30318,650000,Townhouse,Sold,1986,"Square Feet",1307,"Square Feet","2024-11-20 22:18:43",8610,346
+14532620,14532622,"1114 Janes Ln NE",Atlanta,GA,30324,1129800,"Single Family",Other,3841,"Square Feet",1,Acres,"2024-11-20 22:18:43",22640,347
+14466329,14466319,"107 N Howard St NE",Atlanta,GA,30317,875200,"Single Family",Other,2414,"Square Feet",1,Acres,"2024-11-20 22:18:43",5156,348
+14445862,59933849,"1142 Bouldercrest Dr SE",Atlanta,GA,30316,577500,"Single Family",Other,2392,"Square Feet",0,Acres,"2024-11-20 22:18:43",5151,349
+92193324,92191767,"1199 Huff Rd NW UNIT 101",Atlanta,GA,30318,650000,Townhouse,Sold,1986,"Square Feet",1307,"Square Feet","2024-11-20 23:54:06",8610,350
+14532620,14532622,"1114 Janes Ln NE",Atlanta,GA,30324,1129800,"Single Family",Other,3841,"Square Feet",1,Acres,"2024-11-20 23:54:06",22640,351
+14466329,14466319,"107 N Howard St NE",Atlanta,GA,30317,875200,"Single Family",Other,2414,"Square Feet",1,Acres,"2024-11-20 23:54:06",5156,352
+14445862,59933849,"1142 Bouldercrest Dr SE",Atlanta,GA,30316,577500,"Single Family",Other,2392,"Square Feet",0,Acres,"2024-11-20 23:54:06",5151,353
+92193324,92191854,"1199 Huff Rd NW UNIT 102",Atlanta,GA,30318,609600,Townhouse,Other,1965,"Square Feet",1306,"Square Feet","2024-11-20 23:54:06",8610,354
+14466329,14466323,"1986 Hallman St NE",Atlanta,GA,30317,12500,Lot,Other,1820,"Square Feet",4356,"Square Feet","2024-11-20 23:54:06",5156,355
+14445862,14445864,"1420 Orange Blossom Ter",Atlanta,GA,30316,557100,"Single Family",Other,2332,"Square Feet",8712,"Square Feet","2024-11-20 23:54:06",5151,356
+92193324,92191854,"1199 Huff Rd NW UNIT 102",Atlanta,GA,30318,609600,Townhouse,Other,1965,"Square Feet",1306,"Square Feet","2024-11-20 22:18:43",8610,357
+35884082,35884081,"2667 Altaview Dr SE",Atlanta,GA,30354,164200,"Single Family",Other,1118,"Square Feet",0,Acres,"2024-11-20 23:54:06",5009,358
+35839311,35839310,"163 Moreland Ave SE",Atlanta,GA,30316,496400,"Single Family",Other,1550,"Square Feet",7248,"Square Feet","2024-11-20 22:18:43",5146,359
+2052960351,2054363453,"469 Emily Reed Ln",Atlanta,GA,30342,3900000,"Single Family","For Sale",9254,"Square Feet",0,Acres,"2024-11-20 22:18:43",8634,360
+35884082,35884091,"2668 Altaview Dr SE",Atlanta,GA,30354,225700,"Single Family",Other,1968,"Square Feet",0,Acres,"2024-11-20 23:54:06",5009,361
+69380923,69371103,"2277 Peachtree Rd NE UNIT 702",Atlanta,GA,30309,325000,Condo,"For Sale",1242,"Square Feet",1241,"Square Feet","2024-11-20 23:54:06",8602,362
+35839311,35839312,"175 Moreland Ave SE",Atlanta,GA,30316,753900,"Single Family",Other,1900,"Square Feet",7492,"Square Feet","2024-11-20 23:54:06",5146,363
+2052960351,2054363453,"469 Emily Reed Ln",Atlanta,GA,30342,3900000,"Single Family","For Sale",9254,"Square Feet",0,Acres,"2024-11-20 23:54:06",8634,364
+69380923,69378887,"2277 Peachtree Rd NE UNIT 709",Atlanta,GA,30309,270000,Condo,Sold,871,"Square Feet",871,"Square Feet","2024-11-20 22:18:43",8602,365
+35839311,35839312,"175 Moreland Ave SE",Atlanta,GA,30316,753900,"Single Family",Other,1900,"Square Feet",7492,"Square Feet","2024-11-20 22:18:43",5146,366
+2052960351,35933867,"3974 Whittington Dr NE",Atlanta,GA,30342,1163600,"Single Family",Other,2396,"Square Feet",0,Acres,"2024-11-20 23:54:06",8634,367
+69380923,69378887,"2277 Peachtree Rd NE UNIT 709",Atlanta,GA,30309,270000,Condo,Sold,871,"Square Feet",871,"Square Feet","2024-11-20 23:54:06",8602,368
+35839311,440873185,"183 Moreland Ave SE #101",Atlanta,GA,30316,530000,Townhouse,"For Sale",1994,"Square Feet",87,"Square Feet","2024-11-20 22:18:43",5146,369
+442743343,35888509,"20 Marietta St NW APT 9D",Atlanta,GA,30303,110000,Condo,"For Sale",442,"Square Feet",0,"Square Feet","2024-11-20 22:18:43",5660,370
+14469931,14469930,"150 Martha Ave",Atlanta,GA,30317,530600,"Single Family",Other,1360,"Square Feet",8712,"Square Feet","2024-11-20 22:18:43",5061,371
+249112337,35830513,"804 Erin Ave SW",Atlanta,GA,30310,213500,"Single Family",Other,1040,"Square Feet",6651,"Square Feet","2024-11-20 22:18:43",12045,372
+14469931,14469930,"150 Martha Ave",Atlanta,GA,30317,530600,"Single Family",Other,1360,"Square Feet",8712,"Square Feet","2024-11-20 23:54:06",5061,373
+442743343,35888519,"20 Marietta St NW APT 11B",Atlanta,GA,30303,195000,Condo,"Recently Sold",1156,"Square Feet",1154,"Square Feet","2024-11-20 23:54:06",5660,374
+35876948,35876947,"347 Elvira St SE",Atlanta,GA,30315,325400,"Single Family",Other,1394,"Square Feet",3484,"Square Feet","2024-11-20 22:18:43",5155,375
+14469931,14469943,"159 Sisson Ave",Atlanta,GA,30317,585000,"Single Family",Sold,1602,"Square Feet",4356,"Square Feet","2024-11-20 22:18:43",5061,376
+442743343,35888519,"20 Marietta St NW APT 11B",Atlanta,GA,30303,195000,Condo,"Recently Sold",1156,"Square Feet",1154,"Square Feet","2024-11-20 22:18:43",5660,377
+35918440,35918438,"1403 Lanier Pl NE",Atlanta,GA,30306,1140700,"Single Family",Other,2498,"Square Feet",10018,"Square Feet","2024-11-20 22:18:43",5668,378
+442743343,35888533,"20 Marietta St NW APT 13D",Atlanta,GA,30303,127000,Condo,Pending,442,"Square Feet",440,"Square Feet","2024-11-20 23:54:06",5660,379
+2053081150,2053641261,"1827 Gotham Ln #20",Atlanta,GA,30324,684995,Townhouse,"Recently Sold",1851,"Square Feet",0,Acres,"2024-11-20 22:18:43",5663,380
+442743343,35888533,"20 Marietta St NW APT 13D",Atlanta,GA,30303,127000,Condo,Pending,442,"Square Feet",440,"Square Feet","2024-11-20 22:18:43",5660,381
+35876948,35876947,"347 Elvira St SE",Atlanta,GA,30315,325400,"Single Family",Other,1394,"Square Feet",3484,"Square Feet","2024-11-20 23:54:06",5155,382
+65466425,65466381,"700 Park Regency Pl NE APT 904",Atlanta,GA,30326,459000,Condo,Sold,1680,"Square Feet",1681,"Square Feet","2024-11-20 23:54:06",8539,383
+35884082,35884092,"2658 Altaview Dr SE",Atlanta,GA,30354,215500,"Single Family",Other,1428,"Square Feet",0,Acres,"2024-11-20 23:54:06",5009,384
+249112337,35830511,"812 Erin Ave SW",Atlanta,GA,30310,251600,"Single Family",Other,1064,"Square Feet",7548,"Square Feet","2024-11-20 23:54:06",12045,385
+35918440,35918437,"1407 Lanier Pl NE",Atlanta,GA,30306,1247500,"Single Family","Recently Sold",3046,"Square Feet",10498,"Square Feet","2024-11-20 23:54:06",5668,386
+14520373,14519709,"1940 Edinburgh Ter NE",Atlanta,GA,30307,698800,"Single Family",Other,1865,"Square Feet",0,Acres,"2024-11-20 23:54:06",22636,387
+35876948,35876928,"352 Elvira St SE",Atlanta,GA,30315,308000,"Single Family",Other,1078,"Square Feet",9844,"Square Feet","2024-11-20 22:18:43",5155,388
+2053081150,2053641261,"1827 Gotham Ln #20",Atlanta,GA,30324,684995,Townhouse,"Recently Sold",1851,"Square Feet",0,Acres,"2024-11-20 23:54:06",5663,389
+35918440,35918437,"1407 Lanier Pl NE",Atlanta,GA,30306,1247500,"Single Family","Recently Sold",3046,"Square Feet",10498,"Square Feet","2024-11-20 22:18:43",5668,390
+14520373,14519709,"1940 Edinburgh Ter NE",Atlanta,GA,30307,698800,"Single Family",Other,1865,"Square Feet",0,Acres,"2024-11-20 22:18:43",22636,391
+2053081150,2053641268,"1828 Gotham Ln #34",Atlanta,GA,30324,738715,Townhouse,Sold,2094,"Square Feet",0,Acres,"2024-11-20 22:18:43",5663,392
+35918440,35918441,"1413 Lanier Pl NE",Atlanta,GA,30306,982200,"Multi Family",Other,600,"Square Feet",0,Acres,"2024-11-20 23:54:06",5668,393
+14520373,14519710,"1946 Edinburgh Ter NE",Atlanta,GA,30307,487300,"Single Family",Other,1638,"Square Feet",0,Acres,"2024-11-20 22:18:43",22636,394
+2053081150,2053641268,"1828 Gotham Ln #34",Atlanta,GA,30324,738715,Townhouse,Sold,2094,"Square Feet",0,Acres,"2024-11-20 23:54:06",5663,395
+35918440,35918441,"1413 Lanier Pl NE",Atlanta,GA,30306,982200,"Multi Family",Other,600,"Square Feet",0,Acres,"2024-11-20 22:18:43",5668,396
+14520373,14519710,"1946 Edinburgh Ter NE",Atlanta,GA,30307,487300,"Single Family",Other,1638,"Square Feet",0,Acres,"2024-11-20 23:54:06",22636,397
+2053081150,2053639125,"1830 Gotham Ln #33",Atlanta,GA,30324,728720,Townhouse,Sold,2094,"Square Feet",0,Acres,"2024-11-20 22:18:43",5663,398
+35918440,35918442,"1415 Lanier Pl NE",Atlanta,GA,30306,904100,"Single Family",Other,1703,"Square Feet",6621,"Square Feet","2024-11-20 23:54:06",5668,399
+14532408,14532410,"1125 Vista Trl",Atlanta,GA,30324,633200,"Single Family",Other,2000,"Square Feet",0,Acres,"2024-11-20 23:54:06",22641,400
+35918440,35918442,"1415 Lanier Pl NE",Atlanta,GA,30306,904100,"Single Family",Other,1703,"Square Feet",6621,"Square Feet","2024-11-20 22:18:43",5668,401
+2053081150,2053639125,"1830 Gotham Ln #33",Atlanta,GA,30324,728720,Townhouse,Sold,2094,"Square Feet",0,Acres,"2024-11-20 23:54:06",5663,402
+35876948,35876928,"352 Elvira St SE",Atlanta,GA,30315,308000,"Single Family",Other,1078,"Square Feet",9844,"Square Feet","2024-11-20 23:54:06",5155,403
+14532408,14532410,"1125 Vista Trl",Atlanta,GA,30324,633200,"Single Family",Other,2000,"Square Feet",0,Acres,"2024-11-20 22:18:43",22641,404
+35918440,35918436,"1423 High Point Pl NE",Atlanta,GA,30306,906900,"Single Family",Other,1540,"Square Feet",6577,"Square Feet","2024-11-20 23:54:06",5668,405
+2053081150,2053639063,"1762 Beckham Pl NE #51",Atlanta,GA,30324,834311,Townhouse,Sold,2064,"Square Feet",0,Acres,"2024-11-20 23:54:06",5663,406
+35876948,35876927,"360 Elvira St SE",Atlanta,GA,30315,615300,"Single Family",Other,1888,"Square Feet",10001,"Square Feet","2024-11-20 22:18:43",5155,407
+14532408,14532396,"1122 Shepherds Ln",Atlanta,GA,30324,496900,"Single Family",Other,1126,"Square Feet",0,Acres,"2024-11-20 22:18:43",22641,408
+35918440,35918436,"1423 High Point Pl NE",Atlanta,GA,30306,906900,"Single Family",Other,1540,"Square Feet",6577,"Square Feet","2024-11-20 22:18:43",5668,409
+2053081150,2053639063,"1762 Beckham Pl NE #51",Atlanta,GA,30324,834311,Townhouse,Sold,2064,"Square Feet",0,Acres,"2024-11-20 22:18:43",5663,410
+35876948,35876927,"360 Elvira St SE",Atlanta,GA,30315,615300,"Single Family",Other,1888,"Square Feet",10001,"Square Feet","2024-11-20 23:54:06",5155,411
+14532408,14532396,"1122 Shepherds Ln",Atlanta,GA,30324,496900,"Single Family",Other,1126,"Square Feet",0,Acres,"2024-11-20 23:54:06",22641,412
+35863145,35863176,"2464 Poole Rd SW",Atlanta,GA,30311,311000,"Single Family",Other,1709,"Square Feet",1,Acres,"2024-11-20 23:54:06",5588,413
+2053081150,2053641257,"1766 Beckham Pl NE #49",Atlanta,GA,30324,789736,Townhouse,Sold,2090,"Square Feet",0,Acres,"2024-11-20 23:54:06",5663,414
+35876948,35876925,"368 Elvira St SE",Atlanta,GA,30315,344700,"Single Family",Other,1093,"Square Feet",10018,"Square Feet","2024-11-20 23:54:06",5155,415
+14466329,14466323,"1986 Hallman St NE",Atlanta,GA,30317,12500,Lot,Other,1820,"Square Feet",4356,"Square Feet","2024-11-20 22:18:43",5156,416
+14445862,14445864,"1420 Orange Blossom Ter",Atlanta,GA,30316,557100,"Single Family",Other,2332,"Square Feet",8712,"Square Feet","2024-11-20 22:18:43",5151,417
+14532620,14532623,"1120 Janes Ln NE",Atlanta,GA,30324,395400,"Single Family",Other,1204,"Square Feet",1,Acres,"2024-11-20 22:18:43",22640,418
+35847449,35847450,"1670 S Olympian Way SW",Atlanta,GA,30310,177600,"Single Family",Other,1040,"Square Feet",6351,"Square Feet","2024-11-20 23:54:06",10502,419
+2052960351,35933867,"3974 Whittington Dr NE",Atlanta,GA,30342,1163600,"Single Family",Other,2396,"Square Feet",0,Acres,"2024-11-20 22:18:43",8634,420
+69380923,69377678,"2277 Peachtree Rd NE UNIT 811",Atlanta,GA,30309,250000,Condo,"For Sale",737,"Square Feet",736,"Square Feet","2024-11-20 23:54:06",8602,421
+35839311,440873185,"183 Moreland Ave SE #101",Atlanta,GA,30316,530000,Townhouse,"For Sale",1994,"Square Feet",87,"Square Feet","2024-11-20 23:54:06",5146,422
+35857765,35857730,"191 Florida Ave SW",Atlanta,GA,30310,211900,"Single Family",Other,987,"Square Feet",9748,"Square Feet","2024-11-20 22:18:43",5587,423
+69380923,69377678,"2277 Peachtree Rd NE UNIT 811",Atlanta,GA,30309,250000,Condo,"For Sale",737,"Square Feet",736,"Square Feet","2024-11-20 22:18:43",8602,424
+35839311,440924786,"183 Moreland Ave SE #105",Atlanta,GA,30316,520000,Townhouse,"For Sale",1991,"Square Feet",87,"Square Feet","2024-11-20 22:18:43",5146,425
+35857765,35857730,"191 Florida Ave SW",Atlanta,GA,30310,211900,"Single Family",Other,987,"Square Feet",9748,"Square Feet","2024-11-20 23:54:06",5587,426
+35839311,440924786,"183 Moreland Ave SE #105",Atlanta,GA,30316,520000,Townhouse,"For Sale",1991,"Square Feet",87,"Square Feet","2024-11-20 23:54:06",5146,427
+2054363453,35933847,"1 Emma Ln NE",Atlanta,GA,30342,30000,Lot,Sold,100,"Square Feet",7,Acres,"2024-11-20 23:54:06",8638,428
+35857765,35857731,"195 Florida Ave SW",Atlanta,GA,30310,153700,"Single Family",Other,1105,"Square Feet",9748,"Square Feet","2024-11-20 22:18:43",5587,429
+2054363453,35933847,"1 Emma Ln NE",Atlanta,GA,30342,30000,Lot,Sold,100,"Square Feet",7,Acres,"2024-11-20 22:18:43",8638,430
+35842129,35842132,"1350 Allegheny St SW",Atlanta,GA,30310,332500,"Single Family",Other,2406,"Square Feet",0,Acres,"2024-11-20 22:18:43",10500,431
+35863145,35863176,"2464 Poole Rd SW",Atlanta,GA,30311,311000,"Single Family",Other,1709,"Square Feet",1,Acres,"2024-11-20 22:18:43",5588,432
+2053081150,2053641257,"1766 Beckham Pl NE #49",Atlanta,GA,30324,789736,Townhouse,Sold,2090,"Square Feet",0,Acres,"2024-11-20 22:18:43",5663,433
+35876948,35876925,"368 Elvira St SE",Atlanta,GA,30315,344700,"Single Family",Other,1093,"Square Feet",10018,"Square Feet","2024-11-20 22:18:43",5155,434
+35863145,35863187,"2463 Ovidia Cir SW",Atlanta,GA,30311,192100,"Single Family",Other,1552,"Square Feet",1,Acres,"2024-11-20 22:18:43",5588,435
+348774978,35909079,"546 Trabert Ave NW",Atlanta,GA,30309,454700,"Single Family",Other,1036,"Square Feet",8250,"Square Feet","2024-11-20 22:18:43",8614,436
+65466425,65466385,"700 Park Regency Pl NE APT 1001",Atlanta,GA,30326,200000,Condo,"Recently Sold",861,"Square Feet",0,"Square Feet","2024-11-20 23:54:06",8539,437
+35876948,35876949,"1381 Miller Reed Ave SE",Atlanta,GA,30315,514800,"Single Family",Other,1653,"Square Feet",10628,"Square Feet","2024-11-20 23:54:06",5155,438
+14532408,14532409,"1129 Vista Trl NE",Atlanta,GA,30324,517300,"Single Family",Other,1204,"Square Feet",0,Acres,"2024-11-20 22:18:43",22641,439
+65466425,65466385,"700 Park Regency Pl NE APT 1001",Atlanta,GA,30326,200000,Condo,"Recently Sold",861,"Square Feet",0,"Square Feet","2024-11-20 22:18:43",8539,440
+35863145,35863187,"2463 Ovidia Cir SW",Atlanta,GA,30311,192100,"Single Family",Other,1552,"Square Feet",1,Acres,"2024-11-20 23:54:06",5588,441
+14469931,14469943,"159 Sisson Ave",Atlanta,GA,30317,585000,"Single Family",Sold,1602,"Square Feet",4356,"Square Feet","2024-11-20 23:54:06",5061,442
+348774978,35909079,"546 Trabert Ave NW",Atlanta,GA,30309,454700,"Single Family",Other,1036,"Square Feet",8250,"Square Feet","2024-11-20 23:54:06",8614,443
+65466425,65466395,"700 Park Regency Pl NE APT 1103",Atlanta,GA,30326,600000,Condo,Pending,1703,"Square Feet",1703,"Square Feet","2024-11-20 23:54:06",8539,444
+35876948,35876949,"1381 Miller Reed Ave SE",Atlanta,GA,30315,514800,"Single Family",Other,1653,"Square Feet",10628,"Square Feet","2024-11-20 22:18:43",5155,445
+14469931,14469933,"166 Martha Ave",Atlanta,GA,30317,697900,"Single Family",Other,1778,"Square Feet",8712,"Square Feet","2024-11-20 23:54:06",5061,446
+65466425,65466395,"700 Park Regency Pl NE APT 1103",Atlanta,GA,30326,600000,Condo,Pending,1703,"Square Feet",1703,"Square Feet","2024-11-20 22:18:43",8539,447
+14532408,14532409,"1129 Vista Trl NE",Atlanta,GA,30324,517300,"Single Family",Other,1204,"Square Feet",0,Acres,"2024-11-20 23:54:06",22641,448
+14469931,14469933,"166 Martha Ave",Atlanta,GA,30317,697900,"Single Family",Other,1778,"Square Feet",8712,"Square Feet","2024-11-20 22:18:43",5061,449
+65466425,65466398,"700 Park Regency Pl NE APT 1106",Atlanta,GA,30326,575000,Condo,"Recently Sold",1667,"Square Feet",1668,"Square Feet","2024-11-20 22:18:43",8539,450
+14469931,14469945,"151 Sisson Ave NE",Atlanta,GA,30317,388000,"Single Family",Other,998,"Square Feet",4356,"Square Feet","2024-11-20 23:54:06",5061,451
+442742092,35932646,"430 Lindbergh Dr NE APT B3",Atlanta,GA,30305,225700,Condo,Other,1188,"Square Feet",1189,"Square Feet","2024-11-20 23:54:06",8618,452
+35863145,35863188,"2471 Ovidia Cir SW",Atlanta,GA,30311,205000,"Single Family",Other,1388,"Square Feet",0,Acres,"2024-11-20 22:18:43",5588,453
+348774978,35909078,"550 Trabert Ave NW",Atlanta,GA,30309,559700,"Single Family",Other,1373,"Square Feet",8250,"Square Feet","2024-11-20 22:18:43",8614,454
+35876948,35876950,"1385 Miller Reed Ave SE",Atlanta,GA,30315,370400,"Single Family",Other,1372,"Square Feet",10598,"Square Feet","2024-11-20 23:54:06",5155,455
+14532408,14532407,"1139 Vista Trl NE",Atlanta,GA,30324,745000,"Single Family","Recently Sold",1955,"Square Feet",1,Acres,"2024-11-20 23:54:06",22641,456
+35863145,35863188,"2471 Ovidia Cir SW",Atlanta,GA,30311,205000,"Single Family",Other,1388,"Square Feet",0,Acres,"2024-11-20 23:54:06",5588,457
+348774978,35909078,"550 Trabert Ave NW",Atlanta,GA,30309,559700,"Single Family",Other,1373,"Square Feet",8250,"Square Feet","2024-11-20 23:54:06",8614,458
+35876948,35876950,"1385 Miller Reed Ave SE",Atlanta,GA,30315,370400,"Single Family",Other,1372,"Square Feet",10598,"Square Feet","2024-11-20 22:18:43",5155,459
+14532408,14532407,"1139 Vista Trl NE",Atlanta,GA,30324,745000,"Single Family","Recently Sold",1955,"Square Feet",1,Acres,"2024-11-20 22:18:43",22641,460
+35863145,35863138,"1342 Willis Mill Rd SW",Atlanta,GA,30311,184239,"Single Family","Recently Sold",2497,"Square Feet",0,Acres,"2024-11-20 23:54:06",5588,461
+348774978,35909077,"556 Trabert Ave NW",Atlanta,GA,30309,679400,"Single Family",Other,1354,"Square Feet",8250,"Square Feet","2024-11-20 22:18:43",8614,462
+35911508,35911486,"3460 Paces Valley Rd NW",Atlanta,GA,30327,2946300,"Single Family",Other,7619,"Square Feet",2,Acres,"2024-11-20 23:54:06",8640,463
+35863145,35863138,"1342 Willis Mill Rd SW",Atlanta,GA,30311,184239,"Single Family","Recently Sold",2497,"Square Feet",0,Acres,"2024-11-20 22:18:43",5588,464
+348774978,35909077,"556 Trabert Ave NW",Atlanta,GA,30309,679400,"Single Family",Other,1354,"Square Feet",8250,"Square Feet","2024-11-20 23:54:06",8614,465
+35911508,35911486,"3460 Paces Valley Rd NW",Atlanta,GA,30327,2946300,"Single Family",Other,7619,"Square Feet",2,Acres,"2024-11-20 22:18:43",8640,466
+35863145,35863139,"1350 Willis Mill Rd SW",Atlanta,GA,30311,320500,"Single Family",Other,1817,"Square Feet",0,Acres,"2024-11-20 22:18:43",5588,467
+348774978,35909076,"560 Trabert Ave NW",Atlanta,GA,30309,241100,"Single Family",Other,1058,"Square Feet",1,Acres,"2024-11-20 23:54:06",8614,468
+35911508,35911485,"3480 Paces Valley Rd NW",Atlanta,GA,30327,1796700,"Single Family",Other,3704,"Square Feet",2,Acres,"2024-11-20 23:54:06",8640,469
+35863145,35863139,"1350 Willis Mill Rd SW",Atlanta,GA,30311,320500,"Single Family",Other,1817,"Square Feet",0,Acres,"2024-11-20 23:54:06",5588,470
+14532408,14532406,"1143 Vista Trl NE",Atlanta,GA,30324,540000,"Single Family",Other,1972,"Square Feet",0,Acres,"2024-11-20 23:54:06",22641,471
+348774978,35909076,"560 Trabert Ave NW",Atlanta,GA,30309,241100,"Single Family",Other,1058,"Square Feet",1,Acres,"2024-11-20 22:18:43",8614,472
+35911508,35911485,"3480 Paces Valley Rd NW",Atlanta,GA,30327,1796700,"Single Family",Other,3704,"Square Feet",2,Acres,"2024-11-20 22:18:43",8640,473
+35863145,35863140,"1356 Willis Mill Rd SW",Atlanta,GA,30311,234100,"Single Family",Other,1530,"Square Feet",0,Acres,"2024-11-20 23:54:06",5588,474
+14532408,14532406,"1143 Vista Trl NE",Atlanta,GA,30324,540000,"Single Family",Other,1972,"Square Feet",0,Acres,"2024-11-20 22:18:43",22641,475
+35911508,35911507,"3481 Paces Valley Rd NW",Atlanta,GA,30327,2324100,"Single Family",Other,6545,"Square Feet",1,Acres,"2024-11-20 23:54:06",8640,476
+35863145,35863140,"1356 Willis Mill Rd SW",Atlanta,GA,30311,234100,"Single Family",Other,1530,"Square Feet",0,Acres,"2024-11-20 22:18:43",5588,477
+14532408,14532394,"1112 Shepherds Ln NE",Atlanta,GA,30324,911800,"Single Family",Other,1112,"Square Feet",8712,"Square Feet","2024-11-20 22:18:43",22641,478
+35911508,35911507,"3481 Paces Valley Rd NW",Atlanta,GA,30327,2324100,"Single Family",Other,6545,"Square Feet",1,Acres,"2024-11-20 22:18:43",8640,479
+35863145,35863144,"1372 Willis Mill Rd SW",Atlanta,GA,30311,181400,Townhouse,Other,1401,"Square Feet",0,Acres,"2024-11-20 22:18:43",5588,480
+14532408,14532394,"1112 Shepherds Ln NE",Atlanta,GA,30324,911800,"Single Family",Other,1112,"Square Feet",8712,"Square Feet","2024-11-20 23:54:06",22641,481
+35911508,35911506,"3497 Paces Valley Rd NW",Atlanta,GA,30327,2930000,"Single Family",Sold,7400,"Square Feet",1,Acres,"2024-11-20 23:54:06",8640,482
+35863145,35863144,"1372 Willis Mill Rd SW",Atlanta,GA,30311,181400,Townhouse,Other,1401,"Square Feet",0,Acres,"2024-11-20 23:54:06",5588,483
+14532408,14532395,"1116 Shepherds Ln NE",Atlanta,GA,30324,404800,"Single Family",Other,1170,"Square Feet",8712,"Square Feet","2024-11-20 22:18:43",22641,484
+35911508,35911506,"3497 Paces Valley Rd NW",Atlanta,GA,30327,2930000,"Single Family",Sold,7400,"Square Feet",1,Acres,"2024-11-20 22:18:43",8640,485
+348774978,108602501,"568 Trabert Ave NW",Atlanta,GA,30309,1297516,"Single Family",Sold,7441,"Square Feet",2,Acres,"2024-11-20 23:54:06",8614,486
+35863145,35863195,"1376 Willis Mill Rd SW",Atlanta,GA,30311,330000,"Single Family",Sold,3254,"Square Feet",1,Acres,"2024-11-20 22:18:43",5588,487
+14532408,14532395,"1116 Shepherds Ln NE",Atlanta,GA,30324,404800,"Single Family",Other,1170,"Square Feet",8712,"Square Feet","2024-11-20 23:54:06",22641,488
+35911508,35911509,"701 W Paces Ferry Rd NW",Atlanta,GA,30327,2529300,"Single Family",Other,5725,"Square Feet",1,Acres,"2024-11-20 23:54:06",8640,489
+348774978,108602501,"568 Trabert Ave NW",Atlanta,GA,30309,1297516,"Single Family",Sold,7441,"Square Feet",2,Acres,"2024-11-20 22:18:43",8614,490
+35863145,35863195,"1376 Willis Mill Rd SW",Atlanta,GA,30311,330000,"Single Family",Sold,3254,"Square Feet",1,Acres,"2024-11-20 23:54:06",5588,491
+35911508,35911509,"701 W Paces Ferry Rd NW",Atlanta,GA,30327,2529300,"Single Family",Other,5725,"Square Feet",1,Acres,"2024-11-20 22:18:43",8640,492
+35872067,35872064,"3441 Adkins Rd NW",Atlanta,GA,30331,147200,"Single Family",Other,1000,"Square Feet",10798,"Square Feet","2024-11-20 22:18:43",3707,493
+171478121,97992872,"2910 Ridgeview Dr",Atlanta,GA,30331,237500,Townhouse,Other,1792,"Square Feet",2613,"Square Feet","2024-11-20 23:54:06",10444,494
+65466425,65466349,"700 Park Regency Pl NE APT 501",Atlanta,GA,30326,300501,Condo,Sold,1145,"Square Feet",1133,"Square Feet","2024-11-20 22:18:43",8539,495
+35911508,35911418,"738 W Paces Ferry Rd NW",Atlanta,GA,30327,1848000,"Single Family",Other,4500,"Square Feet",1,Acres,"2024-11-20 23:54:06",8640,496
+35872067,35872064,"3441 Adkins Rd NW",Atlanta,GA,30331,147200,"Single Family",Other,1000,"Square Feet",10798,"Square Feet","2024-11-20 23:54:06",3707,497
+171478121,97992872,"2910 Ridgeview Dr",Atlanta,GA,30331,237500,Townhouse,Other,1792,"Square Feet",2613,"Square Feet","2024-11-20 22:18:43",10444,498
+65466425,65466349,"700 Park Regency Pl NE APT 501",Atlanta,GA,30326,300501,Condo,Sold,1145,"Square Feet",1133,"Square Feet","2024-11-20 23:54:06",8539,499
+35911508,35911418,"738 W Paces Ferry Rd NW",Atlanta,GA,30327,1848000,"Single Family",Other,4500,"Square Feet",1,Acres,"2024-11-20 22:18:43",8640,500
+35872067,35872065,"3447 Adkins Rd NW",Atlanta,GA,30331,235000,"Single Family","For Sale",1560,"Square Feet",10193,"Square Feet","2024-11-20 23:54:06",3707,501
+171478121,171478123,"2905 Ridgeview Dr SW",Atlanta,GA,30331,288000,Townhouse,Other,1544,"Square Feet",2178,"Square Feet","2024-11-20 23:54:06",10444,502
+35901782,402683761,"2660 Peachtree Rd NW #26AB",Atlanta,GA,30305,1500000,Condo,"Recently Sold",4806,"Square Feet",4805,"Square Feet","2024-11-20 22:18:43",8525,503
+14532620,14532623,"1120 Janes Ln NE",Atlanta,GA,30324,395400,"Single Family",Other,1204,"Square Feet",1,Acres,"2024-11-20 23:54:06",22640,504
+35872042,35871906,"965 Fairburn Rd NW",Atlanta,GA,30331,135200,"Single Family",Other,1000,"Square Feet",9099,"Square Feet","2024-11-20 23:54:06",3705,505
+35847449,35847450,"1670 S Olympian Way SW",Atlanta,GA,30310,177600,"Single Family",Other,1040,"Square Feet",6351,"Square Feet","2024-11-20 22:18:43",10502,506
+14532620,14532639,"1111 Palafox Dr NE",Atlanta,GA,30324,340000,"Single Family",Sold,1026,"Square Feet",8712,"Square Feet","2024-11-20 22:18:43",22640,507
+35872042,35871906,"965 Fairburn Rd NW",Atlanta,GA,30331,135200,"Single Family",Other,1000,"Square Feet",9099,"Square Feet","2024-11-20 22:18:43",3705,508
+35857765,35857731,"195 Florida Ave SW",Atlanta,GA,30310,153700,"Single Family",Other,1105,"Square Feet",9748,"Square Feet","2024-11-20 23:54:06",5587,509
+35847449,35847448,"1680 S Olympian Way SW",Atlanta,GA,30310,266300,"Single Family",Other,1044,"Square Feet",7405,"Square Feet","2024-11-20 22:18:43",10502,510
+92193324,92191577,"1199 Huff Rd NW UNIT 110",Atlanta,GA,30318,572200,Townhouse,Other,1806,"Square Feet",1306,"Square Feet","2024-11-20 22:18:43",8610,511
+35884082,35884091,"2668 Altaview Dr SE",Atlanta,GA,30354,225700,"Single Family",Other,1968,"Square Feet",0,Acres,"2024-11-20 22:18:43",5009,512
+2054363453,35933837,"2 Emma Ln NE",Atlanta,GA,30342,1510000,"Single Family",Sold,3039,"Square Feet",2,Acres,"2024-11-20 22:18:43",8638,513
+14532620,14532639,"1111 Palafox Dr NE",Atlanta,GA,30324,340000,"Single Family",Sold,1026,"Square Feet",8712,"Square Feet","2024-11-20 23:54:06",22640,514
+35872042,35872041,"980 Fairburn Rd NW",Atlanta,GA,30331,249000,"Single Family",Sold,900,"Square Feet",7810,"Square Feet","2024-11-20 23:54:06",3705,515
+92193324,92191577,"1199 Huff Rd NW UNIT 110",Atlanta,GA,30318,572200,Townhouse,Other,1806,"Square Feet",1306,"Square Feet","2024-11-20 23:54:06",8610,516
+35847449,35847448,"1680 S Olympian Way SW",Atlanta,GA,30310,266300,"Single Family",Other,1044,"Square Feet",7405,"Square Feet","2024-11-20 23:54:06",10502,517
+65469455,65469421,"195 14th St NE #304",Atlanta,GA,30309,243000,Condo,"Recently Sold",693,"Square Feet",0,"Square Feet","2024-11-20 23:54:06",5655,518
+35872067,35872065,"3447 Adkins Rd NW",Atlanta,GA,30331,235000,"Single Family","For Sale",1560,"Square Feet",10193,"Square Feet","2024-11-20 22:18:43",3707,519
+171478121,171478123,"2905 Ridgeview Dr SW",Atlanta,GA,30331,288000,Townhouse,Other,1544,"Square Feet",2178,"Square Feet","2024-11-20 22:18:43",10444,520
+35901782,402683761,"2660 Peachtree Rd NW #26AB",Atlanta,GA,30305,1500000,Condo,"Recently Sold",4806,"Square Feet",4805,"Square Feet","2024-11-20 23:54:06",8525,521
+35872067,35872080,"3450 Adkins Rd NW",Atlanta,GA,30331,202600,"Single Family",Other,1480,"Square Feet",0,Acres,"2024-11-20 23:54:06",3707,522
+171478121,171478122,"2907 Ridgeview Dr SW",Atlanta,GA,30331,287400,Townhouse,Other,1536,"Square Feet",2178,"Square Feet","2024-11-20 22:18:43",10444,523
+35901782,35901857,"2660 Peachtree Rd NW APT 18G",Atlanta,GA,30305,630000,Condo,"For Sale",1600,"Square Feet",1599,"Square Feet","2024-11-20 23:54:06",8525,524
+35872067,35872080,"3450 Adkins Rd NW",Atlanta,GA,30331,202600,"Single Family",Other,1480,"Square Feet",0,Acres,"2024-11-20 22:18:43",3707,525
+65466425,65466357,"700 Park Regency Pl NE APT 603",Atlanta,GA,30326,650000,Condo,"For Sale",1703,"Square Feet",1699,"Square Feet","2024-11-20 23:54:06",8539,526
+171478121,171478122,"2907 Ridgeview Dr SW",Atlanta,GA,30331,287400,Townhouse,Other,1536,"Square Feet",2178,"Square Feet","2024-11-20 23:54:06",10444,527
+35901782,35901857,"2660 Peachtree Rd NW APT 18G",Atlanta,GA,30305,630000,Condo,"For Sale",1600,"Square Feet",1599,"Square Feet","2024-11-20 22:18:43",8525,528
+35872067,35872066,"3453 Adkins Rd NW",Atlanta,GA,30331,144500,"Single Family",Other,1000,"Square Feet",9099,"Square Feet","2024-11-20 22:18:43",3707,529
+65466425,65466357,"700 Park Regency Pl NE APT 603",Atlanta,GA,30326,650000,Condo,"For Sale",1703,"Square Feet",1699,"Square Feet","2024-11-20 22:18:43",8539,530
+35901782,35901796,"2660 Peachtree Rd NW APT 21E",Atlanta,GA,30305,1249000,Condo,"For Sale",2951,"Square Feet",2949,"Square Feet","2024-11-20 23:54:06",8525,531
+35872067,35872066,"3453 Adkins Rd NW",Atlanta,GA,30331,144500,"Single Family",Other,1000,"Square Feet",9099,"Square Feet","2024-11-20 23:54:06",3707,532
+65466425,65466368,"700 Park Regency Pl NE APT 706",Atlanta,GA,30326,575000,Condo,"For Sale",1667,"Square Feet",1668,"Square Feet","2024-11-20 23:54:06",8539,533
+35872067,35872079,"3456 Adkins Rd NW",Atlanta,GA,30331,187800,"Single Family",Other,1560,"Square Feet",10075,"Square Feet","2024-11-20 23:54:06",3707,534
+35872067,35872079,"3456 Adkins Rd NW",Atlanta,GA,30331,187800,"Single Family",Other,1560,"Square Feet",10075,"Square Feet","2024-11-20 22:18:43",3707,535
+65466425,65466368,"700 Park Regency Pl NE APT 706",Atlanta,GA,30326,575000,Condo,"For Sale",1667,"Square Feet",1668,"Square Feet","2024-11-20 22:18:43",8539,536
+171478121,171478119,"2913 Ridgeview Dr SW",Atlanta,GA,30331,287700,Townhouse,Other,1536,"Square Feet",2178,"Square Feet","2024-11-20 23:54:06",10444,537
+35872067,35872068,"3465 Adkins Rd NW",Atlanta,GA,30331,170800,"Single Family",Other,1120,"Square Feet",0,Acres,"2024-11-20 22:18:43",3707,538
+171478121,171478119,"2913 Ridgeview Dr SW",Atlanta,GA,30331,287700,Townhouse,Other,1536,"Square Feet",2178,"Square Feet","2024-11-20 22:18:43",10444,539
+35901782,35901796,"2660 Peachtree Rd NW APT 21E",Atlanta,GA,30305,1249000,Condo,"For Sale",2951,"Square Feet",2949,"Square Feet","2024-11-20 22:18:43",8525,540
+442725227,69381366,"1150 Collier Rd NW APT A3",Atlanta,GA,30318,265400,Condo,"Recently Sold",1073,"Square Feet",1072,"Square Feet","2024-11-20 22:18:43",8628,541
+35901782,35901750,"2660 Peachtree Rd NW APT 28C",Atlanta,GA,30305,860000,Condo,"Recently Sold",2403,"Square Feet",2405,"Square Feet","2024-11-20 22:18:43",8525,542
+442725227,69381366,"1150 Collier Rd NW APT A3",Atlanta,GA,30318,265400,Condo,"Recently Sold",1073,"Square Feet",1072,"Square Feet","2024-11-20 23:54:06",8628,543
+35901782,35901750,"2660 Peachtree Rd NW APT 28C",Atlanta,GA,30305,860000,Condo,"Recently Sold",2403,"Square Feet",2405,"Square Feet","2024-11-20 23:54:06",8525,544
+442725227,69380018,"1150 Collier Rd NW APT A5",Atlanta,GA,30318,220000,Condo,"Recently Sold",1073,"Square Feet",0,"Square Feet","2024-11-20 22:18:43",8628,545
+65466425,65466375,"700 Park Regency Pl NE APT 805",Atlanta,GA,30326,876000,Condo,Sold,2495,"Square Feet",2483,"Square Feet","2024-11-20 23:54:06",8539,546
+35901782,35901891,"2660 Peachtree Rd NW APT 28H",Atlanta,GA,30305,450000,Condo,"Recently Sold",1600,"Square Feet",1612,"Square Feet","2024-11-20 22:18:43",8525,547
+35872067,35872068,"3465 Adkins Rd NW",Atlanta,GA,30331,170800,"Single Family",Other,1120,"Square Feet",0,Acres,"2024-11-20 23:54:06",3707,548
+442725227,69380018,"1150 Collier Rd NW APT A5",Atlanta,GA,30318,220000,Condo,"Recently Sold",1073,"Square Feet",0,"Square Feet","2024-11-20 23:54:06",8628,549
+65466425,65466375,"700 Park Regency Pl NE APT 805",Atlanta,GA,30326,876000,Condo,Sold,2495,"Square Feet",2483,"Square Feet","2024-11-20 22:18:43",8539,550
+35901782,35901891,"2660 Peachtree Rd NW APT 28H",Atlanta,GA,30305,450000,Condo,"Recently Sold",1600,"Square Feet",1612,"Square Feet","2024-11-20 23:54:06",8525,551
+35872067,35872069,"3471 Adkins Rd NW",Atlanta,GA,30331,279200,"Single Family",Other,1450,"Square Feet",0,Acres,"2024-11-20 23:54:06",3707,552
+442725227,69372744,"1150 Collier Rd NW APT B4",Atlanta,GA,30318,239995,Condo,"For Sale",775,"Square Feet",436,"Square Feet","2024-11-20 22:18:43",8628,553
+65466425,65466381,"700 Park Regency Pl NE APT 904",Atlanta,GA,30326,459000,Condo,Sold,1680,"Square Feet",1681,"Square Feet","2024-11-20 22:18:43",8539,554
+35901782,35901866,"2660 Peachtree Rd NW APT 30G",Atlanta,GA,30305,1050000,Condo,"For Sale",2403,"Square Feet",2405,"Square Feet","2024-11-20 23:54:06",8525,555
+35872067,35872069,"3471 Adkins Rd NW",Atlanta,GA,30331,279200,"Single Family",Other,1450,"Square Feet",0,Acres,"2024-11-20 22:18:43",3707,556
+442725227,69372744,"1150 Collier Rd NW APT B4",Atlanta,GA,30318,239995,Condo,"For Sale",775,"Square Feet",436,"Square Feet","2024-11-20 23:54:06",8628,557
+35901782,35901866,"2660 Peachtree Rd NW APT 30G",Atlanta,GA,30305,1050000,Condo,"For Sale",2403,"Square Feet",2405,"Square Feet","2024-11-20 22:18:43",8525,558
+35879500,35879554,"362 McGill Pl NE",Atlanta,GA,30312,213900,Condo,Pending,813,"Square Feet",815,"Square Feet","2024-11-20 22:18:43",5666,559
+442725227,69368597,"1150 Collier Rd NW APT B9",Atlanta,GA,30318,209000,Condo,Sold,775,"Square Feet",775,"Square Feet","2024-11-20 22:18:43",8628,560
+35901782,35901752,"2660 Peachtree Rd NW APT 31C",Atlanta,GA,30305,975000,Condo,"Recently Sold",2403,"Square Feet",2396,"Square Feet","2024-11-20 22:18:43",8525,561
+35879500,35879554,"362 McGill Pl NE",Atlanta,GA,30312,213900,Condo,Pending,813,"Square Feet",815,"Square Feet","2024-11-20 23:54:06",5666,562
+442725227,69368597,"1150 Collier Rd NW APT B9",Atlanta,GA,30318,209000,Condo,Sold,775,"Square Feet",775,"Square Feet","2024-11-20 23:54:06",8628,563
+35901782,35901752,"2660 Peachtree Rd NW APT 31C",Atlanta,GA,30305,975000,Condo,"Recently Sold",2403,"Square Feet",2396,"Square Feet","2024-11-20 23:54:06",8525,564
+35879500,35879532,"386 McGill Pl NE",Atlanta,GA,30312,265000,Condo,"Recently Sold",1266,"Square Feet",1268,"Square Feet","2024-11-20 23:54:06",5666,565
+442725227,69365329,"1150 Collier Rd NW APT M2",Atlanta,GA,30318,255900,Condo,"For Sale",775,"Square Feet",741,"Square Feet","2024-11-20 23:54:06",8628,566
+35901782,35901867,"2660 Peachtree Rd NW APT 32G",Atlanta,GA,30305,1099000,Condo,"For Sale",2403,"Square Feet",2396,"Square Feet","2024-11-20 23:54:06",8525,567
+35879500,35879532,"386 McGill Pl NE",Atlanta,GA,30312,265000,Condo,"Recently Sold",1266,"Square Feet",1268,"Square Feet","2024-11-20 22:18:43",5666,568
+442725227,69365329,"1150 Collier Rd NW APT M2",Atlanta,GA,30318,255900,Condo,"For Sale",775,"Square Feet",741,"Square Feet","2024-11-20 22:18:43",8628,569
+35885165,65450689,"4700 Heatherwood Dr SW",Atlanta,GA,30331,455800,"Single Family",Other,2763,"Square Feet",1,Acres,"2024-11-20 23:54:06",10406,570
+35901782,35901867,"2660 Peachtree Rd NW APT 32G",Atlanta,GA,30305,1099000,Condo,"For Sale",2403,"Square Feet",2396,"Square Feet","2024-11-20 22:18:43",8525,571
+35879500,35879501,"424 McGill Pl NE",Atlanta,GA,30312,249900,Condo,Sold,960,"Square Feet",871,"Square Feet","2024-11-20 22:18:43",5666,572
+35885165,35885163,"4720 Heatherwood Dr SW",Atlanta,GA,30331,344300,"Single Family",Other,1876,"Square Feet",1,Acres,"2024-11-20 23:54:06",10406,573
+35879500,35879501,"424 McGill Pl NE",Atlanta,GA,30312,249900,Condo,Sold,960,"Square Feet",871,"Square Feet","2024-11-20 23:54:06",5666,574
+35901019,35900971,"2214 Peachtree Rd NW APT A3",Atlanta,GA,30309,265000,Condo,"Recently Sold",1151,"Square Feet",1149,"Square Feet","2024-11-20 22:18:43",8604,575
+35885165,35885163,"4720 Heatherwood Dr SW",Atlanta,GA,30331,344300,"Single Family",Other,1876,"Square Feet",1,Acres,"2024-11-20 22:18:43",10406,576
+35879500,35879516,"454 McGill Pl NE",Atlanta,GA,30312,298000,Condo,Sold,1266,"Square Feet",1268,"Square Feet","2024-11-20 22:18:43",5666,577
+35901019,35900971,"2214 Peachtree Rd NW APT A3",Atlanta,GA,30309,265000,Condo,"Recently Sold",1151,"Square Feet",1149,"Square Feet","2024-11-20 23:54:06",8604,578
+2053641329,35914824,"2995 Devonshire Pl NW",Atlanta,GA,30327,1409700,"Single Family",Other,4282,"Square Feet",0,Acres,"2024-11-20 22:18:43",8608,579
+35879500,35879516,"454 McGill Pl NE",Atlanta,GA,30312,298000,Condo,Sold,1266,"Square Feet",1268,"Square Feet","2024-11-20 23:54:06",5666,580
+2053641329,35914824,"2995 Devonshire Pl NW",Atlanta,GA,30327,1409700,"Single Family",Other,4282,"Square Feet",0,Acres,"2024-11-20 23:54:06",8608,581
+35879500,35879569,"564 McGill Pl NE",Atlanta,GA,30312,235000,Condo,Pending,813,"Square Feet",815,"Square Feet","2024-11-20 23:54:06",5666,582
+2053641329,35914825,"2999 Devonshire Pl NW",Atlanta,GA,30327,1202200,"Single Family",Other,3969,"Square Feet",0,Acres,"2024-11-20 23:54:06",8608,583
+35879500,35879569,"564 McGill Pl NE",Atlanta,GA,30312,235000,Condo,Pending,813,"Square Feet",815,"Square Feet","2024-11-20 22:18:43",5666,584
+2053641329,35914825,"2999 Devonshire Pl NW",Atlanta,GA,30327,1202200,"Single Family",Other,3969,"Square Feet",0,Acres,"2024-11-20 22:18:43",8608,585
+2053641329,69347317,"3044 Howell Mill Rd NW",Atlanta,GA,30327,3950000,"Single Family",Pending,9357,"Square Feet",1,Acres,"2024-11-20 23:54:06",8608,586
+442725227,71752346,"1150 Collier Rd NW APT A12",Atlanta,GA,30318,200000,Condo,"Recently Sold",775,"Square Feet",549,"Square Feet","2024-11-20 22:18:43",8628,587
+35901019,35900977,"2214 Peachtree Rd NW APT B3",Atlanta,GA,30309,280000,Condo,Other,1076,"Square Feet",1075,"Square Feet","2024-11-20 23:54:06",8604,588
+2053641329,69347317,"3044 Howell Mill Rd NW",Atlanta,GA,30327,3950000,"Single Family",Pending,9357,"Square Feet",1,Acres,"2024-11-20 22:18:43",8608,589
+442725227,71752346,"1150 Collier Rd NW APT A12",Atlanta,GA,30318,200000,Condo,"Recently Sold",775,"Square Feet",549,"Square Feet","2024-11-20 23:54:06",8628,590
+35901019,35900977,"2214 Peachtree Rd NW APT B3",Atlanta,GA,30309,280000,Condo,Other,1076,"Square Feet",1075,"Square Feet","2024-11-20 22:18:43",8604,591
+2053641329,125809896,"3058 Howell Mill Rd NW",Atlanta,GA,30327,1212000,"Single Family",Sold,4825,"Square Feet",0,Acres,"2024-11-20 22:18:43",8608,592
+442725227,69381942,"1150 Collier Rd NW APT B14",Atlanta,GA,30318,280200,Condo,"Recently Sold",1073,"Square Feet",1072,"Square Feet","2024-11-20 22:18:43",8628,593
+35901019,35900978,"2214 Peachtree Rd NW APT B4",Atlanta,GA,30309,281100,Condo,Sold,1151,"Square Feet",1149,"Square Feet","2024-11-20 23:54:06",8604,594
+35879500,35879577,"580 McGill Pl NE",Atlanta,GA,30312,320000,Condo,"Recently Sold",1266,"Square Feet",828,"Square Feet","2024-11-20 23:54:06",5666,595
+2053641329,125809896,"3058 Howell Mill Rd NW",Atlanta,GA,30327,1212000,"Single Family",Sold,4825,"Square Feet",0,Acres,"2024-11-20 23:54:06",8608,596
+442725227,69381942,"1150 Collier Rd NW APT B14",Atlanta,GA,30318,280200,Condo,"Recently Sold",1073,"Square Feet",1072,"Square Feet","2024-11-20 23:54:06",8628,597
+35901019,35900978,"2214 Peachtree Rd NW APT B4",Atlanta,GA,30309,281100,Condo,Sold,1151,"Square Feet",1149,"Square Feet","2024-11-20 22:18:43",8604,598
+35879500,35879577,"580 McGill Pl NE",Atlanta,GA,30312,320000,Condo,"Recently Sold",1266,"Square Feet",828,"Square Feet","2024-11-20 22:18:43",5666,599
+2053641329,35914536,"3065 Westminster Cir NW",Atlanta,GA,30327,689200,"Single Family",Other,1558,"Square Feet",0,Acres,"2024-11-20 22:18:43",8608,600
+442725227,69375672,"1150 Collier Rd NW APT C10",Atlanta,GA,30318,255000,Condo,"For Sale",1073,"Square Feet",1089,"Square Feet","2024-11-20 23:54:06",8628,601
+35901019,35900979,"2214 Peachtree Rd NW APT B5",Atlanta,GA,30309,286100,Condo,Other,1076,"Square Feet",1075,"Square Feet","2024-11-20 23:54:06",8604,602
+35879500,35879506,"434 Mc Gill Pl NE",Atlanta,GA,30312,215000,Condo,"For Sale",813,"Square Feet",784,"Square Feet","2024-11-20 23:54:06",5666,603
+2053641329,35914536,"3065 Westminster Cir NW",Atlanta,GA,30327,689200,"Single Family",Other,1558,"Square Feet",0,Acres,"2024-11-20 23:54:06",8608,604
+442725227,69375672,"1150 Collier Rd NW APT C10",Atlanta,GA,30318,255000,Condo,"For Sale",1073,"Square Feet",1089,"Square Feet","2024-11-20 22:18:43",8628,605
+35901019,35900979,"2214 Peachtree Rd NW APT B5",Atlanta,GA,30309,286100,Condo,Other,1076,"Square Feet",1075,"Square Feet","2024-11-20 22:18:43",8604,606
+35879500,35879506,"434 Mc Gill Pl NE",Atlanta,GA,30312,215000,Condo,"For Sale",813,"Square Feet",784,"Square Feet","2024-11-20 22:18:43",5666,607
+2053641329,35914537,"3071 Westminster Cir NW",Atlanta,GA,30327,1520000,"Single Family","Recently Sold",4705,"Square Feet",0,Acres,"2024-11-20 23:54:06",8608,608
+442725227,69370571,"1150 Collier Rd NW APT H12",Atlanta,GA,30318,247260,Condo,Sold,1073,"Square Feet",1072,"Square Feet","2024-11-20 22:18:43",8628,609
+35901019,35900981,"2222 Peachtree Rd NW APT A1",Atlanta,GA,30309,220100,Condo,Other,852,"Square Feet",853,"Square Feet","2024-11-20 23:54:06",8604,610
+35879500,35879563,"330 Ralph McGill Blvd NE",Atlanta,GA,30312,260700,Condo,Other,960,"Square Feet",958,"Square Feet","2024-11-20 23:54:06",5666,611
+2053641329,35914537,"3071 Westminster Cir NW",Atlanta,GA,30327,1520000,"Single Family","Recently Sold",4705,"Square Feet",0,Acres,"2024-11-20 22:18:43",8608,612
+442725227,69370571,"1150 Collier Rd NW APT H12",Atlanta,GA,30318,247260,Condo,Sold,1073,"Square Feet",1072,"Square Feet","2024-11-20 23:54:06",8628,613
+35901019,35900981,"2222 Peachtree Rd NW APT A1",Atlanta,GA,30309,220100,Condo,Other,852,"Square Feet",853,"Square Feet","2024-11-20 22:18:43",8604,614
+35879500,35879563,"330 Ralph McGill Blvd NE",Atlanta,GA,30312,260700,Condo,Other,960,"Square Feet",958,"Square Feet","2024-11-20 22:18:43",5666,615
+171603062,171603057,"4042 Princeton Lakes Way SW",Atlanta,GA,30331,303700,Townhouse,Other,2118,"Square Feet",3489,"Square Feet","2024-11-20 22:18:43",10442,616
+35901019,35900983,"2222 Peachtree Rd NW APT A3",Atlanta,GA,30309,223300,Apartment,Other,875,"Square Feet",814,"Square Feet","2024-11-20 23:54:06",8604,617
+35872042,35872041,"980 Fairburn Rd NW",Atlanta,GA,30331,249000,"Single Family",Sold,900,"Square Feet",7810,"Square Feet","2024-11-20 22:18:43",3705,618
+69375258,69373268,"2808 Brookford Ln SW",Atlanta,GA,30331,386400,"Single Family",Other,3417,"Square Feet",9147,"Square Feet","2024-11-20 23:54:06",16980,619
+65469455,65469421,"195 14th St NE #304",Atlanta,GA,30309,243000,Condo,"Recently Sold",693,"Square Feet",0,"Square Feet","2024-11-20 22:18:43",5655,620
+92193324,92191510,"1199 Huff Rd NW UNIT 111",Atlanta,GA,30318,563200,Townhouse,Other,1920,"Square Feet",2613,"Square Feet","2024-11-20 23:54:06",8610,621
+69375258,69373268,"2808 Brookford Ln SW",Atlanta,GA,30331,386400,"Single Family",Other,3417,"Square Feet",9147,"Square Feet","2024-11-20 22:18:43",16980,622
+14532203,14532205,"1121 Weatherstone Dr NE",Atlanta,GA,30324,325000,Condo,Sold,1360,"Square Feet",828,"Square Feet","2024-11-20 22:18:43",22637,623
+35872042,35872040,"986 Fairburn Rd NW",Atlanta,GA,30331,133900,"Single Family",Other,1150,"Square Feet",8028,"Square Feet","2024-11-20 23:54:06",3705,624
+442742092,35932687,"430 Lindbergh Dr NE #1",Atlanta,GA,30305,238000,Apartment,Sold,1200,"Square Feet",1189,"Square Feet","2024-11-20 23:54:06",8618,625
+92193324,92191510,"1199 Huff Rd NW UNIT 111",Atlanta,GA,30318,563200,Townhouse,Other,1920,"Square Feet",2613,"Square Feet","2024-11-20 22:18:43",8610,626
+35872042,35872040,"986 Fairburn Rd NW",Atlanta,GA,30331,133900,"Single Family",Other,1150,"Square Feet",8028,"Square Feet","2024-11-20 22:18:43",3705,627
+92193324,92191773,"1199 Huff Rd NW UNIT 116",Atlanta,GA,30318,735000,Townhouse,"Recently Sold",2871,"Square Feet",2613,"Square Feet","2024-11-20 23:54:06",8610,628
+171603062,171603057,"4042 Princeton Lakes Way SW",Atlanta,GA,30331,303700,Townhouse,Other,2118,"Square Feet",3489,"Square Feet","2024-11-20 23:54:06",10442,629
+14532203,14532205,"1121 Weatherstone Dr NE",Atlanta,GA,30324,325000,Condo,Sold,1360,"Square Feet",828,"Square Feet","2024-11-20 23:54:06",22637,630
+35901019,35900983,"2222 Peachtree Rd NW APT A3",Atlanta,GA,30309,223300,Apartment,Other,875,"Square Feet",814,"Square Feet","2024-11-20 22:18:43",8604,631
+442742092,35932687,"430 Lindbergh Dr NE #1",Atlanta,GA,30305,238000,Apartment,Sold,1200,"Square Feet",1189,"Square Feet","2024-11-20 22:18:43",8618,632
+171603062,171603063,"4053 Princeton Lakes Way SW",Atlanta,GA,30331,311800,Townhouse,Other,2118,"Square Feet",3057,"Square Feet","2024-11-20 22:18:43",10442,633
+14532203,14532204,"1123 Weatherstone Dr NE",Atlanta,GA,30324,330700,Condo,Other,1377,"Square Feet",784,"Square Feet","2024-11-20 22:18:43",22637,634
+35901019,35900991,"2222 Peachtree Rd NW APT B2",Atlanta,GA,30309,233300,Condo,Other,878,"Square Feet",879,"Square Feet","2024-11-20 22:18:43",8604,635
+442742092,35932639,"430 Lindbergh Dr NE APT A2",Atlanta,GA,30305,264900,Apartment,Other,1188,"Square Feet",1189,"Square Feet","2024-11-20 22:18:43",8618,636
+171603062,171603063,"4053 Princeton Lakes Way SW",Atlanta,GA,30331,311800,Townhouse,Other,2118,"Square Feet",3057,"Square Feet","2024-11-20 23:54:06",10442,637
+14532203,14532204,"1123 Weatherstone Dr NE",Atlanta,GA,30324,330700,Condo,Other,1377,"Square Feet",784,"Square Feet","2024-11-20 23:54:06",22637,638
+35901019,35900991,"2222 Peachtree Rd NW APT B2",Atlanta,GA,30309,233300,Condo,Other,878,"Square Feet",879,"Square Feet","2024-11-20 23:54:06",8604,639
+442742092,35932639,"430 Lindbergh Dr NE APT A2",Atlanta,GA,30305,264900,Apartment,Other,1188,"Square Feet",1189,"Square Feet","2024-11-20 23:54:06",8618,640
+171603062,171603059,"4054 Princeton Lakes Way SW",Atlanta,GA,30331,342000,Townhouse,"Recently Sold",0,"Square Feet",2788,"Square Feet","2024-11-20 22:18:43",10442,641
+35901019,35900992,"2222 Peachtree Rd NW APT B3",Atlanta,GA,30309,224500,Condo,Other,878,"Square Feet",879,"Square Feet","2024-11-20 23:54:06",8604,642
+442742092,35932640,"430 Lindbergh Dr NE APT A3",Atlanta,GA,30305,236000,Condo,Other,1188,"Square Feet",1189,"Square Feet","2024-11-20 23:54:06",8618,643
+171603062,171603059,"4054 Princeton Lakes Way SW",Atlanta,GA,30331,342000,Townhouse,"Recently Sold",0,"Square Feet",2788,"Square Feet","2024-11-20 23:54:06",10442,644
+442742092,35932640,"430 Lindbergh Dr NE APT A3",Atlanta,GA,30305,236000,Condo,Other,1188,"Square Feet",1189,"Square Feet","2024-11-20 22:18:43",8618,645
+171603062,171603061,"4061 Princeton Lakes Way SW",Atlanta,GA,30331,295100,Townhouse,Other,2118,"Square Feet",1785,"Square Feet","2024-11-20 23:54:06",10442,646
+442742092,35932641,"430 Lindbergh Dr NE APT A4",Atlanta,GA,30305,231700,Condo,Other,1188,"Square Feet",1189,"Square Feet","2024-11-20 23:54:06",8618,647
+171603062,171603061,"4061 Princeton Lakes Way SW",Atlanta,GA,30331,295100,Townhouse,Other,2118,"Square Feet",1785,"Square Feet","2024-11-20 22:18:43",10442,648
+14532203,14532202,"1157 Weatherstone Dr NE",Atlanta,GA,30324,300000,Condo,Sold,1360,"Square Feet",0,"Square Feet","2024-11-20 23:54:06",22637,649
+35842129,35842132,"1350 Allegheny St SW",Atlanta,GA,30310,332500,"Single Family",Other,2406,"Square Feet",0,Acres,"2024-11-20 23:54:06",10500,650
+171603062,171603060,"4065 Princeton Lakes Way SW",Atlanta,GA,30331,311200,Townhouse,Other,2118,"Square Feet",3345,"Square Feet","2024-11-20 23:54:06",10442,651
+35857765,35857768,"174 Silver Springs Cir SW",Atlanta,GA,30310,211900,"Single Family",Other,1685,"Square Feet",0,Acres,"2024-11-20 23:54:06",5587,652
+14532203,14532202,"1157 Weatherstone Dr NE",Atlanta,GA,30324,300000,Condo,Sold,1360,"Square Feet",0,"Square Feet","2024-11-20 22:18:43",22637,653
+35884082,35884083,"2679 Altaview Dr SE",Atlanta,GA,30354,195000,"Single Family",Other,1526,"Square Feet",1,Acres,"2024-11-20 23:54:06",5009,654
+171603062,171603060,"4065 Princeton Lakes Way SW",Atlanta,GA,30331,311200,Townhouse,Other,2118,"Square Feet",3345,"Square Feet","2024-11-20 22:18:43",10442,655
+2054363453,35933837,"2 Emma Ln NE",Atlanta,GA,30342,1510000,"Single Family",Sold,3039,"Square Feet",2,Acres,"2024-11-20 23:54:06",8638,656
+35901019,35900992,"2222 Peachtree Rd NW APT B3",Atlanta,GA,30309,224500,Condo,Other,878,"Square Feet",879,"Square Feet","2024-11-20 22:18:43",8604,657
+35857765,35857768,"174 Silver Springs Cir SW",Atlanta,GA,30310,211900,"Single Family",Other,1685,"Square Feet",0,Acres,"2024-11-20 22:18:43",5587,658
+171603062,249121655,"4049 Princeton Lakes Pass SW",Atlanta,GA,30331,315400,Townhouse,Other,1992,"Square Feet",3920,"Square Feet","2024-11-20 23:54:06",10442,659
+35884082,35884083,"2679 Altaview Dr SE",Atlanta,GA,30354,195000,"Single Family",Other,1526,"Square Feet",1,Acres,"2024-11-20 22:18:43",5009,660
+442742092,35932641,"430 Lindbergh Dr NE APT A4",Atlanta,GA,30305,231700,Condo,Other,1188,"Square Feet",1189,"Square Feet","2024-11-20 22:18:43",8618,661
+2054363453,35933838,"3994 Emma Ln NE",Atlanta,GA,30342,5300000,"Single Family",Sold,13359,"Square Feet",1,Acres,"2024-11-20 23:54:06",8638,662
+347955805,35872459,"235 Fairburn Rd NW",Atlanta,GA,30331,78400,Lot,Other,1312,"Square Feet",1,Acres,"2024-11-20 22:18:43",3704,663
+35857765,35857767,"186 Silver Springs Cir SW",Atlanta,GA,30310,231900,"Single Family",Other,1798,"Square Feet",0,Acres,"2024-11-20 23:54:06",5587,664
+171603062,249121655,"4049 Princeton Lakes Pass SW",Atlanta,GA,30331,315400,Townhouse,Other,1992,"Square Feet",3920,"Square Feet","2024-11-20 22:18:43",10442,665
+347955805,35872459,"235 Fairburn Rd NW",Atlanta,GA,30331,78400,Lot,Other,1312,"Square Feet",1,Acres,"2024-11-20 23:54:06",3704,666
+14465654,14465650,"98 2nd Ave SE",Atlanta,GA,30317,692700,"Single Family",Other,1940,"Square Feet",0,Acres,"2024-11-20 23:54:06",5056,667
+347955805,35872473,"255 Fairburn Rd NW",Atlanta,GA,30331,146800,"Single Family",Other,1197,"Square Feet",0,Acres,"2024-11-20 23:54:06",3704,668
+14532203,2078982045,"1123 Weatherstone Dr NE #1123",Atlanta,GA,30324,320000,Condo,"Recently Sold",1372,"Square Feet",784,"Square Feet","2024-11-20 22:18:43",22637,669
+14465654,14465650,"98 2nd Ave SE",Atlanta,GA,30317,692700,"Single Family",Other,1940,"Square Feet",0,Acres,"2024-11-20 22:18:43",5056,670
+347955805,35872473,"255 Fairburn Rd NW",Atlanta,GA,30331,146800,"Single Family",Other,1197,"Square Feet",0,Acres,"2024-11-20 22:18:43",3704,671
+65461409,65461202,"375 Ralph McGill Blvd NE APT 207",Atlanta,GA,30312,175000,Condo,Sold,882,"Square Feet",871,"Square Feet","2024-11-20 22:18:43",5657,672
+14532203,2078982045,"1123 Weatherstone Dr NE #1123",Atlanta,GA,30324,320000,Condo,"Recently Sold",1372,"Square Feet",784,"Square Feet","2024-11-20 23:54:06",22637,673
+345364870,65470652,"4254 River Green Dr NW APT 615",Atlanta,GA,30327,325000,Townhouse,Sold,1297,"Square Feet",1307,"Square Feet","2024-11-20 22:18:43",8630,674
+14465654,14465651,"110 2nd Ave SE",Atlanta,GA,30317,699000,"Single Family",Other,2189,"Square Feet",0,Acres,"2024-11-20 22:18:43",5056,675
+14556855,14557034,"2714 Foster Ridge Rd NE",Atlanta,GA,30345,491400,"Single Family",Other,1882,"Square Feet",1,Acres,"2024-11-20 23:54:06",15199,676
+347955805,35872463,"3490 Thompson Dr NW",Atlanta,GA,30331,186400,"Single Family",Other,1832,"Square Feet",10001,"Square Feet","2024-11-20 22:18:43",3704,677
+65461409,65461202,"375 Ralph McGill Blvd NE APT 207",Atlanta,GA,30312,175000,Condo,Sold,882,"Square Feet",871,"Square Feet","2024-11-20 23:54:06",5657,678
+14532203,2062658711,"1157 Weatherstone Dr NE #1157",Atlanta,GA,30324,300000,Condo,Sold,1360,"Square Feet",806,"Square Feet","2024-11-20 23:54:06",22637,679
+246522296,82614776,"3766 Ivy Rd NE",Atlanta,GA,30342,1700000,"Single Family",Sold,6474,"Square Feet",0,Acres,"2024-11-20 22:18:43",8632,680
+88827777,88810936,"390 17th St NW UNIT 5066",Atlanta,GA,30363,350000,Condo,Sold,1449,"Square Feet",1437,"Square Feet","2024-11-20 23:54:06",5673,681
+65461409,65461211,"375 Ralph McGill Blvd NE APT 308",Atlanta,GA,30312,135200,Condo,Sold,566,"Square Feet",0,"Square Feet","2024-11-20 23:54:06",5657,682
+14465654,14465651,"110 2nd Ave SE",Atlanta,GA,30317,699000,"Single Family",Other,2189,"Square Feet",0,Acres,"2024-11-20 23:54:06",5056,683
+246522296,82614776,"3766 Ivy Rd NE",Atlanta,GA,30342,1700000,"Single Family",Sold,6474,"Square Feet",0,Acres,"2024-11-20 23:54:06",8632,684
+347955805,35872463,"3490 Thompson Dr NW",Atlanta,GA,30331,186400,"Single Family",Other,1832,"Square Feet",10001,"Square Feet","2024-11-20 23:54:06",3704,685
+35910265,35910259,"30 Spring Lake Pl NW",Atlanta,GA,30318,425300,Condo,Other,1808,"Square Feet",1807,"Square Feet","2024-11-20 23:54:06",8646,686
+35919751,35919753,"4510 Sentinel Post Rd NW",Atlanta,GA,30327,949500,"Single Family",Sold,3800,"Square Feet",1,Acres,"2024-11-20 22:18:43",8527,687
+65461409,65461211,"375 Ralph McGill Blvd NE APT 308",Atlanta,GA,30312,135200,Condo,Sold,566,"Square Feet",0,"Square Feet","2024-11-20 22:18:43",5657,688
+246522296,35933681,"3770 Ivy Rd NE",Atlanta,GA,30342,2019500,"Single Family",Other,5960,"Square Feet",0,"Square Feet","2024-11-20 22:18:43",8632,689
+35910265,35910259,"30 Spring Lake Pl NW",Atlanta,GA,30318,425300,Condo,Other,1808,"Square Feet",1807,"Square Feet","2024-11-20 22:18:43",8646,690
+35919751,35919753,"4510 Sentinel Post Rd NW",Atlanta,GA,30327,949500,"Single Family",Sold,3800,"Square Feet",1,Acres,"2024-11-20 23:54:06",8527,691
+65461409,65461217,"375 Ralph McGill Blvd NE APT 406",Atlanta,GA,30312,214900,Condo,"For Sale",800,"Square Feet",784,"Square Feet","2024-11-20 23:54:06",5657,692
+246522296,35933681,"3770 Ivy Rd NE",Atlanta,GA,30342,2019500,"Single Family",Other,5960,"Square Feet",0,"Square Feet","2024-11-20 23:54:06",8632,693
+35910265,35910245,"2100 Howell Mill Rd NW #2",Atlanta,GA,30318,382700,Condo,Other,1808,"Square Feet",1807,"Square Feet","2024-11-20 23:54:06",8646,694
+35919751,35919745,"4035 Whitewater Creek Rd NW",Atlanta,GA,30327,1461100,"Single Family",Other,4400,"Square Feet",1,Acres,"2024-11-20 23:54:06",8527,695
+65461409,65461217,"375 Ralph McGill Blvd NE APT 406",Atlanta,GA,30312,214900,Condo,"For Sale",800,"Square Feet",784,"Square Feet","2024-11-20 22:18:43",5657,696
+246522296,35933688,"3784 Ivy Rd NE",Atlanta,GA,30342,1557900,"Single Family",Other,3000,"Square Feet",2,Acres,"2024-11-20 22:18:43",8632,697
+35910265,35910245,"2100 Howell Mill Rd NW #2",Atlanta,GA,30318,382700,Condo,Other,1808,"Square Feet",1807,"Square Feet","2024-11-20 22:18:43",8646,698
+35919751,35919745,"4035 Whitewater Creek Rd NW",Atlanta,GA,30327,1461100,"Single Family",Other,4400,"Square Feet",1,Acres,"2024-11-20 22:18:43",8527,699
+65461409,65461219,"375 Ralph McGill Blvd NE APT 408",Atlanta,GA,30312,175000,Condo,"Recently Sold",566,"Square Feet",566,"Square Feet","2024-11-20 23:54:06",5657,700
+246522296,35933688,"3784 Ivy Rd NE",Atlanta,GA,30342,1557900,"Single Family",Other,3000,"Square Feet",2,Acres,"2024-11-20 23:54:06",8632,701
+35910265,35910249,"2100 Howell Mill Rd NW #10",Atlanta,GA,30318,379800,Condo,Other,1808,"Square Feet",1807,"Square Feet","2024-11-20 23:54:06",8646,702
+35919751,35919740,"4040 Whitewater Creek Rd NW",Atlanta,GA,30327,1725300,"Single Family",Other,418,"Square Feet",2,Acres,"2024-11-20 23:54:06",8527,703
+65461409,65461219,"375 Ralph McGill Blvd NE APT 408",Atlanta,GA,30312,175000,Condo,"Recently Sold",566,"Square Feet",566,"Square Feet","2024-11-20 22:18:43",5657,704
+35910265,35910249,"2100 Howell Mill Rd NW #10",Atlanta,GA,30318,379800,Condo,Other,1808,"Square Feet",1807,"Square Feet","2024-11-20 22:18:43",8646,705
+246522296,35933689,"3800 Ivy Rd NE",Atlanta,GA,30342,913300,"Single Family",Other,2592,"Square Feet",0,Acres,"2024-11-20 23:54:06",8632,706
+35919751,35919740,"4040 Whitewater Creek Rd NW",Atlanta,GA,30327,1725300,"Single Family",Other,418,"Square Feet",2,Acres,"2024-11-20 22:18:43",8527,707
+65461409,65461221,"375 Ralph McGill Blvd NE APT 502",Atlanta,GA,30312,247000,Condo,"For Sale",800,"Square Feet",784,"Square Feet","2024-11-20 22:18:43",5657,708
+35910265,35910251,"2100 Howell Mill Rd NW #14",Atlanta,GA,30318,425000,Condo,Sold,1808,"Square Feet",1807,"Square Feet","2024-11-20 22:18:43",8646,709
+246522296,35933689,"3800 Ivy Rd NE",Atlanta,GA,30342,913300,"Single Family",Other,2592,"Square Feet",0,Acres,"2024-11-20 22:18:43",8632,710
+35919751,35919746,"4065 Whitewater Creek Rd NW",Atlanta,GA,30327,1200300,"Single Family",Other,4600,"Square Feet",1,Acres,"2024-11-20 23:54:06",8527,711
+65461409,65461221,"375 Ralph McGill Blvd NE APT 502",Atlanta,GA,30312,247000,Condo,"For Sale",800,"Square Feet",784,"Square Feet","2024-11-20 23:54:06",5657,712
+35910265,35910251,"2100 Howell Mill Rd NW #14",Atlanta,GA,30318,425000,Condo,Sold,1808,"Square Feet",1807,"Square Feet","2024-11-20 23:54:06",8646,713
+35919751,35919746,"4065 Whitewater Creek Rd NW",Atlanta,GA,30327,1200300,"Single Family",Other,4600,"Square Feet",1,Acres,"2024-11-20 22:18:43",8527,714
+246522296,35933527,"3805 Ivy Rd NE",Atlanta,GA,30342,108200,"Single Family",Other,3408,"Square Feet",1,Acres,"2024-11-20 22:18:43",8632,715
+65461409,65461224,"375 Ralph McGill Blvd NE APT 505",Atlanta,GA,30312,227500,Condo,"For Sale",1010,"Square Feet",871,"Square Feet","2024-11-20 22:18:43",5657,716
+35910265,35910254,"2100 Howell Mill Rd NW #20",Atlanta,GA,30318,398300,Condo,Other,2170,"Square Feet",2169,"Square Feet","2024-11-20 22:18:43",8646,717
+35919751,35919747,"4085 Whitewater Creek Rd NW",Atlanta,GA,30327,1046800,"Single Family",Other,3720,"Square Feet",1,Acres,"2024-11-20 23:54:06",8527,718
+246522296,35933527,"3805 Ivy Rd NE",Atlanta,GA,30342,108200,"Single Family",Other,3408,"Square Feet",1,Acres,"2024-11-20 23:54:06",8632,719
+65461409,65461224,"375 Ralph McGill Blvd NE APT 505",Atlanta,GA,30312,227500,Condo,"For Sale",1010,"Square Feet",871,"Square Feet","2024-11-20 23:54:06",5657,720
+35910265,35910254,"2100 Howell Mill Rd NW #20",Atlanta,GA,30318,398300,Condo,Other,2170,"Square Feet",2169,"Square Feet","2024-11-20 23:54:06",8646,721
+35919751,35919747,"4085 Whitewater Creek Rd NW",Atlanta,GA,30327,1046800,"Single Family",Other,3720,"Square Feet",1,Acres,"2024-11-20 22:18:43",8527,722
+246522296,125815419,"3812 Ivy Rd NE",Atlanta,GA,30342,2031700,"Single Family",Other,5432,"Square Feet",0,Acres,"2024-11-20 22:18:43",8632,723
+65461409,65461240,"375 Ralph McGill Blvd NE APT 705",Atlanta,GA,30312,245000,Condo,Sold,1014,"Square Feet",1002,"Square Feet","2024-11-20 22:18:43",5657,724
+35910265,35910256,"2100 Howell Mill Rd NW #24",Atlanta,GA,30318,369600,Condo,Other,1808,"Square Feet",1807,"Square Feet","2024-11-20 23:54:06",8646,725
+35919751,35919739,"4102 Whitewater Creek Rd NW",Atlanta,GA,30327,1514900,"Single Family",Other,5471,"Square Feet",2,Acres,"2024-11-20 23:54:06",8527,726
+246522296,125815419,"3812 Ivy Rd NE",Atlanta,GA,30342,2031700,"Single Family",Other,5432,"Square Feet",0,Acres,"2024-11-20 23:54:06",8632,727
+35910265,35910256,"2100 Howell Mill Rd NW #24",Atlanta,GA,30318,369600,Condo,Other,1808,"Square Feet",1807,"Square Feet","2024-11-20 22:18:43",8646,728
+65461409,65461240,"375 Ralph McGill Blvd NE APT 705",Atlanta,GA,30312,245000,Condo,Sold,1014,"Square Feet",1002,"Square Feet","2024-11-20 23:54:06",5657,729
+35919751,35919739,"4102 Whitewater Creek Rd NW",Atlanta,GA,30327,1514900,"Single Family",Other,5471,"Square Feet",2,Acres,"2024-11-20 22:18:43",8527,730
+246522296,35933526,"3815 Ivy Rd NE",Atlanta,GA,30342,107900,Lot,Other,3122,"Square Feet",1,Acres,"2024-11-20 22:18:43",8632,731
+442717349,418621858,"2030 Main St #102",Atlanta,GA,30318,449990,Townhouse,"For Sale",1829,"Square Feet",0,"Square Feet","2024-11-20 23:54:06",8606,732
+35919751,35919748,"4105 Whitewater Creek Rd NW",Atlanta,GA,30327,1719705,"Single Family","Recently Sold",4596,"Square Feet",1,Acres,"2024-11-20 23:54:06",8527,733
+246522296,35933526,"3815 Ivy Rd NE",Atlanta,GA,30342,107900,Lot,Other,3122,"Square Feet",1,Acres,"2024-11-20 23:54:06",8632,734
+442717349,418621858,"2030 Main St #102",Atlanta,GA,30318,449990,Townhouse,"For Sale",1829,"Square Feet",0,"Square Feet","2024-11-20 22:18:43",8606,735
+35919751,35919748,"4105 Whitewater Creek Rd NW",Atlanta,GA,30327,1719705,"Single Family","Recently Sold",4596,"Square Feet",1,Acres,"2024-11-20 22:18:43",8527,736
+35922874,35922880,"38 Hollywood Dr NW",Atlanta,GA,30318,135300,"Single Family",Other,1268,"Square Feet",6054,"Square Feet","2024-11-20 23:54:06",11789,737
+442717349,439249767,"2030 Main St #103",Atlanta,GA,30318,449990,Townhouse,"For Sale",1829,"Square Feet",0,"Square Feet","2024-11-20 22:18:43",8606,738
+442668167,14570515,"3404 Bayshore Dr",Atlanta,GA,30340,220500,Townhouse,Other,704,"Square Feet",704,"Square Feet","2024-11-20 23:54:06",7670,739
+35922874,35922880,"38 Hollywood Dr NW",Atlanta,GA,30318,135300,"Single Family",Other,1268,"Square Feet",6054,"Square Feet","2024-11-20 22:18:43",11789,740
+442717349,439249767,"2030 Main St #103",Atlanta,GA,30318,449990,Townhouse,"For Sale",1829,"Square Feet",0,"Square Feet","2024-11-20 23:54:06",8606,741
+442668167,14570515,"3404 Bayshore Dr",Atlanta,GA,30340,220500,Townhouse,Other,704,"Square Feet",704,"Square Feet","2024-11-20 22:18:43",7670,742
+442717349,440981881,"2030 Main St #104",Atlanta,GA,30318,449990,Townhouse,"For Sale",1829,"Square Feet",0,"Square Feet","2024-11-20 22:18:43",8606,743
+35922874,82623252,"1005 Gun Club Rd NW",Atlanta,GA,30318,289000,"Single Family",Other,1288,"Square Feet",0,Acres,"2024-11-20 22:18:43",11789,744
+442668167,14570514,"3406 Bayshore Dr",Atlanta,GA,30340,241000,Townhouse,Sold,0,"Square Feet",697,"Square Feet","2024-11-20 22:18:43",7670,745
+442717349,440981881,"2030 Main St #104",Atlanta,GA,30318,449990,Townhouse,"For Sale",1829,"Square Feet",0,"Square Feet","2024-11-20 23:54:06",8606,746
+35922874,82623252,"1005 Gun Club Rd NW",Atlanta,GA,30318,289000,"Single Family",Other,1288,"Square Feet",0,Acres,"2024-11-20 23:54:06",11789,747
+442668167,14570514,"3406 Bayshore Dr",Atlanta,GA,30340,241000,Townhouse,Sold,0,"Square Feet",697,"Square Feet","2024-11-20 23:54:06",7670,748
+442717349,335695497,"2030 Main St NW #305",Atlanta,GA,30318,455800,Townhouse,Other,2200,"Square Feet",914,"Square Feet","2024-11-20 22:18:43",8606,749
+35922874,35922878,"1040 Gun Club Rd NW",Atlanta,GA,30318,126600,"Single Family",Other,1055,"Square Feet",7405,"Square Feet","2024-11-20 23:54:06",11789,750
+442668167,14570512,"3980 Bayside Cir",Atlanta,GA,30340,228800,Townhouse,Other,1408,"Square Feet",704,"Square Feet","2024-11-20 23:54:06",7670,751
+442717349,335695497,"2030 Main St NW #305",Atlanta,GA,30318,455800,Townhouse,Other,2200,"Square Feet",914,"Square Feet","2024-11-20 23:54:06",8606,752
+35922874,35922878,"1040 Gun Club Rd NW",Atlanta,GA,30318,126600,"Single Family",Other,1055,"Square Feet",7405,"Square Feet","2024-11-20 22:18:43",11789,753
+442668167,14570512,"3980 Bayside Cir",Atlanta,GA,30340,228800,Townhouse,Other,1408,"Square Feet",704,"Square Feet","2024-11-20 22:18:43",7670,754
+442717349,2061621059,"2030 Main St NW #404",Atlanta,GA,30318,489990,Townhouse,Sold,2148,"Square Feet",1,Acres,"2024-11-20 22:18:43",8606,755
+35922874,35922876,"1041 Gun Club Rd NW",Atlanta,GA,30318,157600,"Single Family",Other,1280,"Square Feet",0,Acres,"2024-11-20 23:54:06",11789,756
+442668167,14570511,"3982 Bayside Cir",Atlanta,GA,30340,209200,Townhouse,Other,1152,"Square Feet",576,"Square Feet","2024-11-20 22:18:43",7670,757
+442740346,35862904,"265 Tye St SE",Atlanta,GA,30316,540300,"Single Family",Other,1492,"Square Feet",7840,"Square Feet","2024-11-20 23:54:06",5147,758
+442717349,2061621059,"2030 Main St NW #404",Atlanta,GA,30318,489990,Townhouse,Sold,2148,"Square Feet",1,Acres,"2024-11-20 23:54:06",8606,759
+35922874,35922876,"1041 Gun Club Rd NW",Atlanta,GA,30318,157600,"Single Family",Other,1280,"Square Feet",0,Acres,"2024-11-20 22:18:43",11789,760
+442668167,14570511,"3982 Bayside Cir",Atlanta,GA,30340,209200,Townhouse,Other,1152,"Square Feet",576,"Square Feet","2024-11-20 23:54:06",7670,761
+442740346,35862904,"265 Tye St SE",Atlanta,GA,30316,540300,"Single Family",Other,1492,"Square Feet",7840,"Square Feet","2024-11-20 22:18:43",5147,762
+442717349,2060788740,"2030 Main St NW #601",Atlanta,GA,30318,564990,Townhouse,"Recently Sold",2148,"Square Feet",1,Acres,"2024-11-20 22:18:43",8606,763
+35922874,71756207,"2115 Hollywood Dr NW",Atlanta,GA,30318,401300,"Multi Family",Other,3120,"Square Feet",5784,"Square Feet","2024-11-20 23:54:06",11789,764
+442668167,14570510,"3984 Bayside Cir",Doraville,GA,30340,240100,Townhouse,Other,1280,"Square Feet",574,"Square Feet","2024-11-20 22:18:43",7670,765
+442740346,35862905,"267 Tye St SE",Atlanta,GA,30316,577900,"Single Family",Other,1452,"Square Feet",1,Acres,"2024-11-20 23:54:06",5147,766
+442717349,2060788740,"2030 Main St NW #601",Atlanta,GA,30318,564990,Townhouse,"Recently Sold",2148,"Square Feet",1,Acres,"2024-11-20 23:54:06",8606,767
+35922874,71756207,"2115 Hollywood Dr NW",Atlanta,GA,30318,401300,"Multi Family",Other,3120,"Square Feet",5784,"Square Feet","2024-11-20 22:18:43",11789,768
+442668167,14570510,"3984 Bayside Cir",Doraville,GA,30340,240100,Townhouse,Other,1280,"Square Feet",574,"Square Feet","2024-11-20 23:54:06",7670,769
+442740346,35862905,"267 Tye St SE",Atlanta,GA,30316,577900,"Single Family",Other,1452,"Square Feet",1,Acres,"2024-11-20 22:18:43",5147,770
+442717349,2096699051,"2030 Main St NW APT 205",Atlanta,GA,30318,395000,Townhouse,"For Sale",1844,"Square Feet",4356,"Square Feet","2024-11-20 22:18:43",8606,771
+442668167,14570509,"3986 Bayside Cir",Doraville,GA,30340,199200,Townhouse,"Recently Sold",1037,"Square Feet",566,"Square Feet","2024-11-20 23:54:06",7670,772
+35922874,71757666,"2155 Hollywood Dr NW",Atlanta,GA,30318,369100,"Multi Family",Other,3120,"Square Feet",13,Acres,"2024-11-20 22:18:43",11789,773
+442740346,35862900,"256 Powell St SE",Atlanta,GA,30316,880100,"Single Family",Other,1630,"Square Feet",5575,"Square Feet","2024-11-20 22:18:43",5147,774
+442717349,2096699051,"2030 Main St NW APT 205",Atlanta,GA,30318,395000,Townhouse,"For Sale",1844,"Square Feet",4356,"Square Feet","2024-11-20 23:54:06",8606,775
+442668167,14570509,"3986 Bayside Cir",Doraville,GA,30340,199200,Townhouse,"Recently Sold",1037,"Square Feet",566,"Square Feet","2024-11-20 22:18:43",7670,776
+35922874,71757666,"2155 Hollywood Dr NW",Atlanta,GA,30318,369100,"Multi Family",Other,3120,"Square Feet",13,Acres,"2024-11-20 23:54:06",11789,777
+442740346,35862900,"256 Powell St SE",Atlanta,GA,30316,880100,"Single Family",Other,1630,"Square Feet",5575,"Square Feet","2024-11-20 23:54:06",5147,778
+442717349,2138603866,"2030 Main St NW APT 304",Atlanta,GA,30318,475000,Townhouse,"Recently Sold",1806,"Square Feet",915,"Square Feet","2024-11-20 22:18:43",8606,779
+35918781,35918785,"880 Kings Ct NE",Atlanta,GA,30306,2505900,"Single Family",Other,4856,"Square Feet",8799,"Square Feet","2024-11-20 22:18:43",5661,780
+442668167,14570513,"4072 Bayside Cir",Atlanta,GA,30340,0,"Single Family",Other,1408,"Square Feet",1,Acres,"2024-11-20 22:18:43",7670,781
+442740346,35862908,"260 Powell St SE",Atlanta,GA,30316,588500,"Single Family",Other,1078,"Square Feet",0,Acres,"2024-11-20 22:18:43",5147,782
+442717349,2138603866,"2030 Main St NW APT 304",Atlanta,GA,30318,475000,Townhouse,"Recently Sold",1806,"Square Feet",915,"Square Feet","2024-11-20 23:54:06",8606,783
+35918781,35918785,"880 Kings Ct NE",Atlanta,GA,30306,2505900,"Single Family",Other,4856,"Square Feet",8799,"Square Feet","2024-11-20 23:54:06",5661,784
+442668167,14570513,"4072 Bayside Cir",Atlanta,GA,30340,0,"Single Family",Other,1408,"Square Feet",1,Acres,"2024-11-20 23:54:06",7670,785
+442740346,35862908,"260 Powell St SE",Atlanta,GA,30316,588500,"Single Family",Other,1078,"Square Feet",0,Acres,"2024-11-20 23:54:06",5147,786
+442676133,35879250,"333 Pine St NE",Atlanta,GA,30308,480400,"Single Family",Other,1298,"Square Feet",5488,"Square Feet","2024-11-20 22:18:43",5611,787
+35918781,35918784,"888 Kings Ct NE",Atlanta,GA,30306,1108300,"Single Family",Other,2636,"Square Feet",7405,"Square Feet","2024-11-20 22:18:43",5661,788
+442668167,2133079991,"3984 Bayside Cirlce",Doraville,GA,30340,223800,Townhouse,Other,1200,"Square Feet",574,"Square Feet","2024-11-20 22:18:43",7670,789
+442740346,171412421,"670 Memorial Dr SE",Atlanta,GA,30316,1531800,"Single Family",Other,1050,"Square Feet",0,Acres,"2024-11-20 22:18:43",5147,790
+35918781,35918784,"888 Kings Ct NE",Atlanta,GA,30306,1108300,"Single Family",Other,2636,"Square Feet",7405,"Square Feet","2024-11-20 23:54:06",5661,791
+442668167,2133079991,"3984 Bayside Cirlce",Doraville,GA,30340,223800,Townhouse,Other,1200,"Square Feet",574,"Square Feet","2024-11-20 23:54:06",7670,792
+442676133,35879250,"333 Pine St NE",Atlanta,GA,30308,480400,"Single Family",Other,1298,"Square Feet",5488,"Square Feet","2024-11-20 23:54:06",5611,793
+442740346,171412421,"670 Memorial Dr SE",Atlanta,GA,30316,1531800,"Single Family",Other,1050,"Square Feet",0,Acres,"2024-11-20 23:54:06",5147,794
+35918781,35918783,"894 Kings Ct NE",Atlanta,GA,30306,948400,"Single Family",Other,1758,"Square Feet",8904,"Square Feet","2024-11-20 23:54:06",5661,795
+14445961,14445980,"1144 Powell Ct",Atlanta,GA,30316,520200,"Single Family",Other,1476,"Square Feet",3,Acres,"2024-11-20 22:18:43",9136,796
+442740346,35862840,"686 Memorial Dr SE",Atlanta,GA,30316,193900,"Single Family",Other,1608,"Square Feet",7392,"Square Feet","2024-11-20 22:18:43",5147,797
+442676133,35879251,"337 Pine St NE",Atlanta,GA,30312,739600,"Single Family",Other,2965,"Square Feet",6599,"Square Feet","2024-11-20 22:18:43",5611,798
+35918781,35918783,"894 Kings Ct NE",Atlanta,GA,30306,948400,"Single Family",Other,1758,"Square Feet",8904,"Square Feet","2024-11-20 22:18:43",5661,799
+442740346,35862840,"686 Memorial Dr SE",Atlanta,GA,30316,193900,"Single Family",Other,1608,"Square Feet",7392,"Square Feet","2024-11-20 23:54:06",5147,800
+442676133,35879251,"337 Pine St NE",Atlanta,GA,30312,739600,"Single Family",Other,2965,"Square Feet",6599,"Square Feet","2024-11-20 23:54:06",5611,801
+35918781,35918782,"898 Kings Ct NE",Atlanta,GA,30306,1733100,"Single Family",Other,4275,"Square Feet",9500,"Square Feet","2024-11-20 23:54:06",5661,802
+442676133,35879252,"343 Pine St NE",Atlanta,GA,30308,615800,"Single Family",Other,1744,"Square Feet",6952,"Square Feet","2024-11-20 23:54:06",5611,803
+35918781,35918782,"898 Kings Ct NE",Atlanta,GA,30306,1733100,"Single Family",Other,4275,"Square Feet",9500,"Square Feet","2024-11-20 22:18:43",5661,804
+442676133,35879252,"343 Pine St NE",Atlanta,GA,30308,615800,"Single Family",Other,1744,"Square Feet",6952,"Square Feet","2024-11-20 22:18:43",5611,805
+35918781,35918780,"908 Kings Ct NE",Atlanta,GA,30306,2318800,"Single Family",Other,3970,"Square Feet",9552,"Square Feet","2024-11-20 23:54:06",5661,806
+35884082,35884084,"2687 Altaview Dr SE",Atlanta,GA,30354,220800,"Single Family",Other,1295,"Square Feet",0,Acres,"2024-11-20 23:54:06",5009,807
+14445961,14445980,"1144 Powell Ct",Atlanta,GA,30316,520200,"Single Family",Other,1476,"Square Feet",3,Acres,"2024-11-20 23:54:06",9136,808
+442676133,35879253,"347 Pine St NE",Atlanta,GA,30308,667400,"Single Family",Other,2398,"Square Feet",7013,"Square Feet","2024-11-20 22:18:43",5611,809
+2054363453,35933838,"3994 Emma Ln NE",Atlanta,GA,30342,5300000,"Single Family",Sold,13359,"Square Feet",1,Acres,"2024-11-20 22:18:43",8638,810
+35918781,35918780,"908 Kings Ct NE",Atlanta,GA,30306,2318800,"Single Family",Other,3970,"Square Feet",9552,"Square Feet","2024-11-20 22:18:43",5661,811
+35857765,35857767,"186 Silver Springs Cir SW",Atlanta,GA,30310,231900,"Single Family",Other,1798,"Square Feet",0,Acres,"2024-11-20 22:18:43",5587,812
+14445961,14445981,"1152 Powell Ct",Atlanta,GA,30316,555000,"Single Family",Sold,1420,"Square Feet",0,Acres,"2024-11-20 23:54:06",9136,813
+35884082,35884084,"2687 Altaview Dr SE",Atlanta,GA,30354,220800,"Single Family",Other,1295,"Square Feet",0,Acres,"2024-11-20 22:18:43",5009,814
+442676133,35879253,"347 Pine St NE",Atlanta,GA,30308,667400,"Single Family",Other,2398,"Square Feet",7013,"Square Feet","2024-11-20 23:54:06",5611,815
+35918781,35918779,"916 Kings Ct NE",Atlanta,GA,30306,1732000,"Single Family","Recently Sold",4200,"Square Feet",9583,"Square Feet","2024-11-20 22:18:43",5661,816
+35842129,35842131,"1356 Allegheny St SW",Atlanta,GA,30310,431500,"Single Family",Other,1800,"Square Feet",9347,"Square Feet","2024-11-20 23:54:06",10500,817
+88827777,88063367,"390 17th St NW UNIT 3048",Atlanta,GA,30363,320000,Condo,Sold,0,"Square Feet",1133,"Square Feet","2024-11-20 23:54:06",5673,818
+2054363453,2052960351,"500 Emily Reed Ln",Atlanta,GA,30342,4100000,"Single Family","For Sale",6170,"Square Feet",1,Acres,"2024-11-20 22:18:43",8638,819
+14445961,14445981,"1152 Powell Ct",Atlanta,GA,30316,555000,"Single Family",Sold,1420,"Square Feet",0,Acres,"2024-11-20 22:18:43",9136,820
+35857765,35857766,"200 Silver Springs Cir SW",Atlanta,GA,30310,168300,"Single Family",Other,1180,"Square Feet",0,Acres,"2024-11-20 22:18:43",5587,821
+442676133,35879275,"330 Angier Ave NE",Atlanta,GA,30312,461000,"Single Family",Other,1189,"Square Feet",4451,"Square Feet","2024-11-20 23:54:06",5611,822
+35842129,35842131,"1356 Allegheny St SW",Atlanta,GA,30310,431500,"Single Family",Other,1800,"Square Feet",9347,"Square Feet","2024-11-20 22:18:43",10500,823
+88827777,88063367,"390 17th St NW UNIT 3048",Atlanta,GA,30363,320000,Condo,Sold,0,"Square Feet",1133,"Square Feet","2024-11-20 22:18:43",5673,824
+2054363453,2052960351,"500 Emily Reed Ln",Atlanta,GA,30342,4100000,"Single Family","For Sale",6170,"Square Feet",1,Acres,"2024-11-20 23:54:06",8638,825
+14445961,14445983,"1166 Powell Ct",Atlanta,GA,30316,540000,"Single Family",Sold,1754,"Square Feet",0,Acres,"2024-11-20 23:54:06",9136,826
+35884082,35884121,"2636 Browns Mill Rd SE",Atlanta,GA,30354,249400,"Single Family",Other,1836,"Square Feet",1,Acres,"2024-11-20 22:18:43",5009,827
+442676133,35879275,"330 Angier Ave NE",Atlanta,GA,30312,461000,"Single Family",Other,1189,"Square Feet",4451,"Square Feet","2024-11-20 22:18:43",5611,828
+35857765,35857766,"200 Silver Springs Cir SW",Atlanta,GA,30310,168300,"Single Family",Other,1180,"Square Feet",0,Acres,"2024-11-20 23:54:06",5587,829
+88827777,88815341,"390 17th St NW UNIT 3052",Atlanta,GA,30363,257000,Condo,Sold,0,"Square Feet",871,"Square Feet","2024-11-20 23:54:06",5673,830
+35842129,35842130,"1362 Allegheny St SW",Atlanta,GA,30310,540000,"Single Family",Sold,0,"Square Feet",9496,"Square Feet","2024-11-20 22:18:43",10500,831
+14445961,14445983,"1166 Powell Ct",Atlanta,GA,30316,540000,"Single Family",Sold,1754,"Square Feet",0,Acres,"2024-11-20 22:18:43",9136,832
+442676133,35879274,"336 Angier Ave NE",Atlanta,GA,30312,450700,"Single Family",Other,1433,"Square Feet",3898,"Square Feet","2024-11-20 23:54:06",5611,833
+88827777,88815341,"390 17th St NW UNIT 3052",Atlanta,GA,30363,257000,Condo,Sold,0,"Square Feet",871,"Square Feet","2024-11-20 22:18:43",5673,834
+14445961,14445982,"1158 Powell Ct SE",Atlanta,GA,30316,481600,"Single Family",Other,1597,"Square Feet",0,Acres,"2024-11-20 22:18:43",9136,835
+442676133,35879274,"336 Angier Ave NE",Atlanta,GA,30312,450700,"Single Family",Other,1433,"Square Feet",3898,"Square Feet","2024-11-20 22:18:43",5611,836
+88827777,88810326,"390 17th St NW UNIT 4041",Atlanta,GA,30363,232500,Condo,Sold,868,"Square Feet",871,"Square Feet","2024-11-20 22:18:43",5673,837
+14445961,14445982,"1158 Powell Ct SE",Atlanta,GA,30316,481600,"Single Family",Other,1597,"Square Feet",0,Acres,"2024-11-20 23:54:06",9136,838
+35918781,35918779,"916 Kings Ct NE",Atlanta,GA,30306,1732000,"Single Family","Recently Sold",4200,"Square Feet",9583,"Square Feet","2024-11-20 23:54:06",5661,839
+442676133,35879273,"346 Angier Ave NE",Atlanta,GA,30312,406200,"Single Family",Other,1173,"Square Feet",5227,"Square Feet","2024-11-20 23:54:06",5611,840
+88827777,88810326,"390 17th St NW UNIT 4041",Atlanta,GA,30363,232500,Condo,Sold,868,"Square Feet",871,"Square Feet","2024-11-20 23:54:06",5673,841
+14445961,14445984,"1174 Powell Ct SE",Atlanta,GA,30316,415100,"Single Family",Other,1330,"Square Feet",0,Acres,"2024-11-20 22:18:43",9136,842
+35918781,35918778,"920 Kings Ct NE",Atlanta,GA,30306,701100,"Single Family",Other,1866,"Square Feet",8276,"Square Feet","2024-11-20 22:18:43",5661,843
+88827777,88814826,"390 17th St NW UNIT 4042",Atlanta,GA,30363,313000,Condo,"Recently Sold",1117,"Square Feet",1133,"Square Feet","2024-11-20 23:54:06",5673,844
+14445961,14445984,"1174 Powell Ct SE",Atlanta,GA,30316,415100,"Single Family",Other,1330,"Square Feet",0,Acres,"2024-11-20 23:54:06",9136,845
+35918781,35918778,"920 Kings Ct NE",Atlanta,GA,30306,701100,"Single Family",Other,1866,"Square Feet",8276,"Square Feet","2024-11-20 23:54:06",5661,846
+88827777,88814826,"390 17th St NW UNIT 4042",Atlanta,GA,30363,313000,Condo,"Recently Sold",1117,"Square Feet",1133,"Square Feet","2024-11-20 22:18:43",5673,847
+14445961,14445962,"1373 Skyhaven Rd SE",Atlanta,GA,30316,498300,"Single Family",Other,1410,"Square Feet",1,Acres,"2024-11-20 23:54:06",9136,848
+35876294,35876296,"334 Schoen St SE",Atlanta,GA,30315,133300,"Single Family",Other,831,"Square Feet",13,"Square Feet","2024-11-20 22:18:43",5007,849
+88827777,82623861,"390 17th St NW UNIT 5016",Atlanta,GA,30363,216000,Condo,"Recently Sold",770,"Square Feet",784,"Square Feet","2024-11-20 22:18:43",5673,850
+14445961,14445962,"1373 Skyhaven Rd SE",Atlanta,GA,30316,498300,"Single Family",Other,1410,"Square Feet",1,Acres,"2024-11-20 22:18:43",9136,851
+35876294,35876296,"334 Schoen St SE",Atlanta,GA,30315,133300,"Single Family",Other,831,"Square Feet",13,"Square Feet","2024-11-20 23:54:06",5007,852
+88827777,82623861,"390 17th St NW UNIT 5016",Atlanta,GA,30363,216000,Condo,"Recently Sold",770,"Square Feet",784,"Square Feet","2024-11-20 23:54:06",5673,853
+442676133,35879273,"346 Angier Ave NE",Atlanta,GA,30312,406200,"Single Family",Other,1173,"Square Feet",5227,"Square Feet","2024-11-20 22:18:43",5611,854
+14445961,14445965,"1391 Skyhaven Rd SE",Atlanta,GA,30316,353400,"Single Family",Other,1500,"Square Feet",1,Acres,"2024-11-20 23:54:06",9136,855
+35876294,35876292,"1858 Jonesboro Rd SE",Atlanta,GA,30315,158000,"Single Family",Other,1197,"Square Feet",0,Acres,"2024-11-20 22:18:43",5007,856
+88827777,82618583,"390 17th St NW UNIT 5030",Atlanta,GA,30363,220000,Condo,"Recently Sold",0,"Square Feet",871,"Square Feet","2024-11-20 22:18:43",5673,857
+442713008,2053637502,"1642 Florence Run NW #70",Atlanta,GA,30318,421985,Townhouse,Sold,1362,"Square Feet",1307,"Square Feet","2024-11-20 22:18:43",11783,858
+14445961,14445965,"1391 Skyhaven Rd SE",Atlanta,GA,30316,353400,"Single Family",Other,1500,"Square Feet",1,Acres,"2024-11-20 22:18:43",9136,859
+35876294,35876292,"1858 Jonesboro Rd SE",Atlanta,GA,30315,158000,"Single Family",Other,1197,"Square Feet",0,Acres,"2024-11-20 23:54:06",5007,860
+88827777,82618583,"390 17th St NW UNIT 5030",Atlanta,GA,30363,220000,Condo,"Recently Sold",0,"Square Feet",871,"Square Feet","2024-11-20 23:54:06",5673,861
+442713008,2053637502,"1642 Florence Run NW #70",Atlanta,GA,30318,421985,Townhouse,Sold,1362,"Square Feet",1307,"Square Feet","2024-11-20 23:54:06",11783,862
+35876294,171415541,"2372 Browns Mill Rd SE",Atlanta,GA,30315,482900,"Single Family",Sold,2462,"Square Feet",0,Acres,"2024-11-20 22:18:43",5007,863
+442713008,2060862339,"1668 Florence Run NW #81",Atlanta,GA,30318,441135,Townhouse,Sold,1362,"Square Feet",1307,"Square Feet","2024-11-20 22:18:43",11783,864
+35876294,171415541,"2372 Browns Mill Rd SE",Atlanta,GA,30315,482900,"Single Family",Sold,2462,"Square Feet",0,Acres,"2024-11-20 23:54:06",5007,865
+442713008,2060862339,"1668 Florence Run NW #81",Atlanta,GA,30318,441135,Townhouse,Sold,1362,"Square Feet",1307,"Square Feet","2024-11-20 23:54:06",11783,866
+35872460,35872459,"235 Fairburn Rd NW",Atlanta,GA,30331,78400,Lot,Other,1312,"Square Feet",1,Acres,"2024-11-20 23:54:06",3706,867
+442713008,2058221184,"1522 Parks Edge Ln NW #93",Atlanta,GA,30318,443470,Townhouse,Sold,1362,"Square Feet",1307,"Square Feet","2024-11-20 22:18:43",11783,868
+35872460,35872459,"235 Fairburn Rd NW",Atlanta,GA,30331,78400,Lot,Other,1312,"Square Feet",1,Acres,"2024-11-20 22:18:43",3706,869
+88827777,88811065,"390 17th St NW UNIT 5058",Atlanta,GA,30363,335000,Condo,"Recently Sold",1253,"Square Feet",1263,"Square Feet","2024-11-20 23:54:06",5673,870
+442713008,2058221184,"1522 Parks Edge Ln NW #93",Atlanta,GA,30318,443470,Townhouse,Sold,1362,"Square Feet",1307,"Square Feet","2024-11-20 23:54:06",11783,871
+35872460,35872473,"255 Fairburn Rd NW",Atlanta,GA,30331,146800,"Single Family",Other,1197,"Square Feet",0,Acres,"2024-11-20 23:54:06",3706,872
+442713008,2053640055,"1493 Pinedale Crst NW #121",Atlanta,GA,30318,478310,Townhouse,Sold,1507,"Square Feet",1307,"Square Feet","2024-11-20 22:18:43",11783,873
+14532203,2062658711,"1157 Weatherstone Dr NE #1157",Atlanta,GA,30324,300000,Condo,Sold,1360,"Square Feet",806,"Square Feet","2024-11-20 22:18:43",22637,874
+14445961,14445964,"1405 Skyhaven Rd SE",Atlanta,GA,30316,493100,"Single Family",Other,2065,"Square Feet",1,Acres,"2024-11-20 23:54:06",9136,875
+442713008,2053640055,"1493 Pinedale Crst NW #121",Atlanta,GA,30318,478310,Townhouse,Sold,1507,"Square Feet",1307,"Square Feet","2024-11-20 23:54:06",11783,876
+14445961,14445964,"1405 Skyhaven Rd SE",Atlanta,GA,30316,493100,"Single Family",Other,2065,"Square Feet",1,Acres,"2024-11-20 22:18:43",9136,877
+2087626931,119315651,"653 N Highland Ave NE",Atlanta,GA,30306,332500,Condo,Other,973,"Square Feet",971,"Square Feet","2024-11-20 22:18:43",5612,878
+88827777,88811065,"390 17th St NW UNIT 5058",Atlanta,GA,30363,335000,Condo,"Recently Sold",1253,"Square Feet",1263,"Square Feet","2024-11-20 22:18:43",5673,879
+442721167,69347911,"2432 2nd St NW",Atlanta,GA,30318,355100,"Single Family",Other,2256,"Square Feet",13,"Square Feet","2024-11-20 23:54:06",11787,880
+2087626931,119315357,"653 N Highland Ave NE",Atlanta,GA,30306,280800,Condo,Other,745,"Square Feet",744,"Square Feet","2024-11-20 23:54:06",5612,881
+35872042,35872011,"860 Bonneville Ter NW",Atlanta,GA,30331,143100,"Single Family",Other,1000,"Square Feet",7562,"Square Feet","2024-11-20 22:18:43",3705,882
+88827777,88810936,"390 17th St NW UNIT 5066",Atlanta,GA,30363,350000,Condo,Sold,1449,"Square Feet",1437,"Square Feet","2024-11-20 22:18:43",5673,883
+92193324,92191773,"1199 Huff Rd NW UNIT 116",Atlanta,GA,30318,735000,Townhouse,"Recently Sold",2871,"Square Feet",2613,"Square Feet","2024-11-20 22:18:43",8610,884
+442721167,69347911,"2432 2nd St NW",Atlanta,GA,30318,355100,"Single Family",Other,2256,"Square Feet",13,"Square Feet","2024-11-20 22:18:43",11787,885
+35872460,35872473,"255 Fairburn Rd NW",Atlanta,GA,30331,146800,"Single Family",Other,1197,"Square Feet",0,Acres,"2024-11-20 22:18:43",3706,886
+2087626931,119315305,"653 N Highland Ave NE",Atlanta,GA,30306,315000,Condo,Sold,862,"Square Feet",862,"Square Feet","2024-11-20 22:18:43",5612,887
+442721167,65442372,"2446 2nd St NW",Atlanta,GA,30318,513100,Townhouse,Other,2800,"Square Feet",0,Acres,"2024-11-20 23:54:06",11787,888
+14532413,14532415,"1099 Vista Trl NE",Atlanta,GA,30324,1358000,"Single Family",Other,5100,"Square Feet",0,Acres,"2024-11-20 22:18:43",22639,889
+35884082,35884121,"2636 Browns Mill Rd SE",Atlanta,GA,30354,249400,"Single Family",Other,1836,"Square Feet",1,Acres,"2024-11-20 23:54:06",5009,890
+35857765,35857764,"212 Silver Springs Cir SW",Atlanta,GA,30310,167200,"Single Family",Other,1052,"Square Feet",0,Acres,"2024-11-20 22:18:43",5587,891
+35842129,35842130,"1362 Allegheny St SW",Atlanta,GA,30310,540000,"Single Family",Sold,0,"Square Feet",9496,"Square Feet","2024-11-20 23:54:06",10500,892
+14532413,14532415,"1099 Vista Trl NE",Atlanta,GA,30324,1358000,"Single Family",Other,5100,"Square Feet",0,Acres,"2024-11-20 23:54:06",22639,893
+35857765,35857764,"212 Silver Springs Cir SW",Atlanta,GA,30310,167200,"Single Family",Other,1052,"Square Feet",0,Acres,"2024-11-20 23:54:06",5587,894
+88827777,88811975,"390 17th St NW UNIT 6038",Atlanta,GA,30363,285000,Condo,Sold,1107,"Square Feet",1307,"Square Feet","2024-11-20 23:54:06",5673,895
+14465654,14465652,"116 2nd Ave SE",Atlanta,GA,30317,685000,"Single Family",Sold,0,"Square Feet",0,Acres,"2024-11-20 22:18:43",5056,896
+347955805,35872462,"3494 Thompson Dr NW",Atlanta,GA,30331,157900,"Single Family","For Sale",980,"Square Feet",0,Acres,"2024-11-20 22:18:43",3704,897
+35885165,35885139,"1405 Heatherland Dr SW",Atlanta,GA,30331,312400,"Single Family",Other,2487,"Square Feet",1,Acres,"2024-11-20 23:54:06",10406,898
+88827777,88811975,"390 17th St NW UNIT 6038",Atlanta,GA,30363,285000,Condo,Sold,1107,"Square Feet",1307,"Square Feet","2024-11-20 22:18:43",5673,899
+35885165,35885139,"1405 Heatherland Dr SW",Atlanta,GA,30331,312400,"Single Family",Other,2487,"Square Feet",1,Acres,"2024-11-20 22:18:43",10406,900
+88814469,119314721,"2685 Muskeg Ct SW",Atlanta,GA,30331,510400,"Single Family",Other,6353,"Square Feet",9099,"Square Feet","2024-11-20 22:18:43",16982,901
+35885165,35885140,"1425 Heatherland Dr SW",Atlanta,GA,30331,299600,"Single Family",Other,2181,"Square Feet",1,Acres,"2024-11-20 22:18:43",10406,902
+88814469,119314721,"2685 Muskeg Ct SW",Atlanta,GA,30331,510400,"Single Family",Other,6353,"Square Feet",9099,"Square Feet","2024-11-20 23:54:06",16982,903
+14465654,14465652,"116 2nd Ave SE",Atlanta,GA,30317,685000,"Single Family",Sold,0,"Square Feet",0,Acres,"2024-11-20 23:54:06",5056,904
+35885165,35885140,"1425 Heatherland Dr SW",Atlanta,GA,30331,299600,"Single Family",Other,2181,"Square Feet",1,Acres,"2024-11-20 23:54:06",10406,905
+88814469,123477945,"2780 Palmview Ct SW",Atlanta,GA,30331,586100,"Single Family",Other,5236,"Square Feet",9104,"Square Feet","2024-11-20 23:54:06",16982,906
+14465654,14465653,"122 2nd Ave SE",Atlanta,GA,30317,353400,"Single Family",Other,1510,"Square Feet",0,Acres,"2024-11-20 22:18:43",5056,907
+35885165,35885164,"1445 Niskey Lake Rd SW",Atlanta,GA,30331,407200,"Single Family",Other,2795,"Square Feet",1,Acres,"2024-11-20 22:18:43",10406,908
+347955805,35872462,"3494 Thompson Dr NW",Atlanta,GA,30331,157900,"Single Family","For Sale",980,"Square Feet",0,Acres,"2024-11-20 23:54:06",3704,909
+88814469,123477945,"2780 Palmview Ct SW",Atlanta,GA,30331,586100,"Single Family",Other,5236,"Square Feet",9104,"Square Feet","2024-11-20 22:18:43",16982,910
+14465654,14465653,"122 2nd Ave SE",Atlanta,GA,30317,353400,"Single Family",Other,1510,"Square Feet",0,Acres,"2024-11-20 23:54:06",5056,911
+35885165,35885164,"1445 Niskey Lake Rd SW",Atlanta,GA,30331,407200,"Single Family",Other,2795,"Square Feet",1,Acres,"2024-11-20 23:54:06",10406,912
+347955805,35872461,"3506 Thompson Dr NW",Atlanta,GA,30331,223100,"Single Family",Other,1122,"Square Feet",0,Acres,"2024-11-20 23:54:06",3704,913
+88814469,88820557,"2784 Palmview Ct SW",Atlanta,GA,30331,430000,"Single Family",Other,4366,"Square Feet",0,Acres,"2024-11-20 22:18:43",16982,914
+14465654,14465655,"138 2nd Ave SE",Atlanta,GA,30317,1094700,"Single Family",Other,3971,"Square Feet",0,Acres,"2024-11-20 23:54:06",5056,915
+88814469,88820557,"2784 Palmview Ct SW",Atlanta,GA,30331,430000,"Single Family",Other,4366,"Square Feet",0,Acres,"2024-11-20 23:54:06",16982,916
+92193324,92192406,"1199 Huff Rd NW UNIT 128",Atlanta,GA,30318,650000,Townhouse,Sold,1920,"Square Feet",1307,"Square Feet","2024-11-20 23:54:06",8610,917
+65469455,65469446,"195 14th St NE #505",Atlanta,GA,30309,435000,Condo,"For Sale",1122,"Square Feet",1124,"Square Feet","2024-11-20 23:54:06",5655,918
+92193324,92192406,"1199 Huff Rd NW UNIT 128",Atlanta,GA,30318,650000,Townhouse,Sold,1920,"Square Feet",1307,"Square Feet","2024-11-20 22:18:43",8610,919
+69375258,69369464,"2812 Brookford Ln SW",Atlanta,GA,30331,318900,"Single Family",Other,2079,"Square Feet",9099,"Square Feet","2024-11-20 22:18:43",16980,920
+65469455,65469446,"195 14th St NE #505",Atlanta,GA,30309,435000,Condo,"For Sale",1122,"Square Feet",1124,"Square Feet","2024-11-20 22:18:43",5655,921
+35855662,35855659,"1822 Calloway Dr NW",Atlanta,GA,30314,166700,"Single Family",Other,1164,"Square Feet",0,Acres,"2024-11-20 23:54:06",11798,922
+69375258,69369464,"2812 Brookford Ln SW",Atlanta,GA,30331,318900,"Single Family",Other,2079,"Square Feet",9099,"Square Feet","2024-11-20 23:54:06",16980,923
+65469455,65469457,"195 14th St NE PH 604",Atlanta,GA,30309,283000,Condo,Sold,693,"Square Feet",693,"Square Feet","2024-11-20 22:18:43",5655,924
+442721167,65442372,"2446 2nd St NW",Atlanta,GA,30318,513100,Townhouse,Other,2800,"Square Feet",0,Acres,"2024-11-20 22:18:43",11787,925
+35855662,35855659,"1822 Calloway Dr NW",Atlanta,GA,30314,166700,"Single Family",Other,1164,"Square Feet",0,Acres,"2024-11-20 22:18:43",11798,926
+69375258,69370567,"2816 Brookford Ln SW",Atlanta,GA,30331,422700,"Single Family",Other,4200,"Square Feet",9099,"Square Feet","2024-11-20 22:18:43",16980,927
+35899796,35899794,"49 Alden Ave NW",Atlanta,GA,30309,750000,"Single Family",Sold,2747,"Square Feet",8699,"Square Feet","2024-11-20 22:18:43",8605,928
+65469455,65469457,"195 14th St NE PH 604",Atlanta,GA,30309,283000,Condo,Sold,693,"Square Feet",693,"Square Feet","2024-11-20 23:54:06",5655,929
+35899796,35899794,"49 Alden Ave NW",Atlanta,GA,30309,750000,"Single Family",Sold,2747,"Square Feet",8699,"Square Feet","2024-11-20 23:54:06",8605,930
+35855662,35855660,"1828 Calloway Dr NW",Atlanta,GA,30314,220300,"Single Family",Other,1140,"Square Feet",0,Acres,"2024-11-20 23:54:06",11798,931
+2087626931,119315357,"653 N Highland Ave NE",Atlanta,GA,30306,280800,Condo,Other,745,"Square Feet",744,"Square Feet","2024-11-20 22:18:43",5612,932
+35899796,35899795,"55 Alden Ave NW",Atlanta,GA,30309,784800,"Single Family",Other,2350,"Square Feet",8999,"Square Feet","2024-11-20 22:18:43",8605,933
+35872460,35872463,"3490 Thompson Dr NW",Atlanta,GA,30331,186400,"Single Family",Other,1832,"Square Feet",10001,"Square Feet","2024-11-20 22:18:43",3706,934
+2087626931,119315305,"653 N Highland Ave NE",Atlanta,GA,30306,315000,Condo,Sold,862,"Square Feet",862,"Square Feet","2024-11-20 23:54:06",5612,935
+14467540,14467539,"197 Whitefoord Ave",Atlanta,GA,30317,682100,"Single Family",Other,1601,"Square Feet",0,Acres,"2024-11-20 23:54:06",5154,936
+35899796,35899795,"55 Alden Ave NW",Atlanta,GA,30309,784800,"Single Family",Other,2350,"Square Feet",8999,"Square Feet","2024-11-20 23:54:06",8605,937
+2087626931,119315180,"653 N Highland Ave NE",Atlanta,GA,30306,353700,Condo,Other,961,"Square Feet",962,"Square Feet","2024-11-20 22:18:43",5612,938
+35899796,35899797,"65 Alden Ave NW",Atlanta,GA,30309,838400,"Single Family",Other,1786,"Square Feet",8999,"Square Feet","2024-11-20 22:18:43",8605,939
+14467540,14467537,"1360 Memorial Dr SE",Atlanta,GA,30317,403100,"Single Family",Other,1008,"Square Feet",8712,"Square Feet","2024-11-20 22:18:43",5154,940
+2087626931,119315180,"653 N Highland Ave NE",Atlanta,GA,30306,353700,Condo,Other,961,"Square Feet",962,"Square Feet","2024-11-20 23:54:06",5612,941
+35899796,35899797,"65 Alden Ave NW",Atlanta,GA,30309,838400,"Single Family",Other,1786,"Square Feet",8999,"Square Feet","2024-11-20 23:54:06",8605,942
+14467540,14467537,"1360 Memorial Dr SE",Atlanta,GA,30317,403100,"Single Family",Other,1008,"Square Feet",8712,"Square Feet","2024-11-20 23:54:06",5154,943
+2087626931,119315651,"653 N Highland Ave NE",Atlanta,GA,30306,332500,Condo,Other,973,"Square Feet",971,"Square Feet","2024-11-20 23:54:06",5612,944
+35899796,35899798,"69 Alden Ave NW",Atlanta,GA,30309,730000,"Single Family",Sold,2238,"Square Feet",9000,"Square Feet","2024-11-20 22:18:43",8605,945
+14467540,14467542,"181 Whitefoord Ave SE",Atlanta,GA,30317,360200,"Single Family",Other,1655,"Square Feet",0,Acres,"2024-11-20 23:54:06",5154,946
+35872460,35872463,"3490 Thompson Dr NW",Atlanta,GA,30331,186400,"Single Family",Other,1832,"Square Feet",10001,"Square Feet","2024-11-20 23:54:06",3706,947
+2087626931,119314829,"653 N Highland Ave NE",Atlanta,GA,30306,267300,Condo,Other,635,"Square Feet",435,"Square Feet","2024-11-20 23:54:06",5612,948
+14467540,14467542,"181 Whitefoord Ave SE",Atlanta,GA,30317,360200,"Single Family",Other,1655,"Square Feet",0,Acres,"2024-11-20 22:18:43",5154,949
+35872460,35872462,"3494 Thompson Dr NW",Atlanta,GA,30331,157900,"Single Family","For Sale",980,"Square Feet",0,Acres,"2024-11-20 23:54:06",3706,950
+2087626931,119314618,"653 N Highland Ave NE",Atlanta,GA,30306,321800,Condo,Other,717,"Square Feet",962,"Square Feet","2024-11-20 22:18:43",5612,951
+14467540,14467541,"187 Whitefoord Ave SE",Atlanta,GA,30317,422600,"Single Family",Other,1850,"Square Feet",0,Acres,"2024-11-20 23:54:06",5154,952
+35842129,2057125305,"1380 Allegheny St SW",Atlanta,GA,30310,515000,"Single Family",Sold,2317,"Square Feet",10062,"Square Feet","2024-11-20 22:18:43",10500,953
+14532413,14532412,"1113 Vista Trl NE",Atlanta,GA,30324,645000,"Single Family","Recently Sold",1306,"Square Feet",8712,"Square Feet","2024-11-20 23:54:06",22639,954
+14520373,14520371,"1922 Edinburgh Ter",Atlanta,GA,30307,678200,"Single Family",Other,1428,"Square Feet",0,Acres,"2024-11-20 22:18:43",22636,955
+35857765,35857763,"218 Silver Springs Cir SW",Atlanta,GA,30310,162900,"Single Family",Other,1104,"Square Feet",0,Acres,"2024-11-20 22:18:43",5587,956
+35842129,2057125305,"1380 Allegheny St SW",Atlanta,GA,30310,515000,"Single Family",Sold,2317,"Square Feet",10062,"Square Feet","2024-11-20 23:54:06",10500,957
+14465654,14465655,"138 2nd Ave SE",Atlanta,GA,30317,1094700,"Single Family",Other,3971,"Square Feet",0,Acres,"2024-11-20 22:18:43",5056,958
+88814469,88828925,"2792 Palmview Ct SW",Atlanta,GA,30331,456200,"Single Family",Other,4680,"Square Feet",0,Acres,"2024-11-20 23:54:06",16982,959
+14465654,14465656,"142 2nd Ave SE",Atlanta,GA,30317,315300,"Single Family",Other,1056,"Square Feet",0,Acres,"2024-11-20 23:54:06",5056,960
+69375258,69370567,"2816 Brookford Ln SW",Atlanta,GA,30331,422700,"Single Family",Other,4200,"Square Feet",9099,"Square Feet","2024-11-20 23:54:06",16980,961
+88814469,88828925,"2792 Palmview Ct SW",Atlanta,GA,30331,456200,"Single Family",Other,4680,"Square Feet",0,Acres,"2024-11-20 22:18:43",16982,962
+65469455,65469425,"195 14th St NE UNIT 308",Atlanta,GA,30309,425000,Condo,"Recently Sold",1119,"Square Feet",1307,"Square Feet","2024-11-20 23:54:06",5655,963
+14465654,14465656,"142 2nd Ave SE",Atlanta,GA,30317,315300,"Single Family",Other,1056,"Square Feet",0,Acres,"2024-11-20 22:18:43",5056,964
+35855662,35855660,"1828 Calloway Dr NW",Atlanta,GA,30314,220300,"Single Family",Other,1140,"Square Feet",0,Acres,"2024-11-20 22:18:43",11798,965
+35885165,35885141,"4680 Heatherwood Dr SW",Atlanta,GA,30331,325400,"Single Family",Other,1856,"Square Feet",1,Acres,"2024-11-20 22:18:43",10406,966
+69375258,69371927,"2817 Brookford Ln SW",Atlanta,GA,30331,401200,"Single Family",Other,4288,"Square Feet",9147,"Square Feet","2024-11-20 22:18:43",16980,967
+88814469,171314167,"7036 Talkeetna Ct SW",Atlanta,GA,30331,468000,"Single Family","Recently Sold",3304,"Square Feet",9060,"Square Feet","2024-11-20 23:54:06",16982,968
+65469455,65469425,"195 14th St NE UNIT 308",Atlanta,GA,30309,425000,Condo,"Recently Sold",1119,"Square Feet",1307,"Square Feet","2024-11-20 22:18:43",5655,969
+14465654,87678784,"2 Cottage Grove Ave",Atlanta,GA,30317,116300,"Single Family",Other,1038,"Square Feet",4356,"Square Feet","2024-11-20 22:18:43",5056,970
+69375258,69371927,"2817 Brookford Ln SW",Atlanta,GA,30331,401200,"Single Family",Other,4288,"Square Feet",9147,"Square Feet","2024-11-20 23:54:06",16980,971
+35885165,35885141,"4680 Heatherwood Dr SW",Atlanta,GA,30331,325400,"Single Family",Other,1856,"Square Feet",1,Acres,"2024-11-20 23:54:06",10406,972
+35855662,35855651,"1833 Calloway Dr NW",Atlanta,GA,30314,172800,"Single Family",Other,1639,"Square Feet",9278,"Square Feet","2024-11-20 23:54:06",11798,973
+88814469,171314167,"7036 Talkeetna Ct SW",Atlanta,GA,30331,468000,"Single Family","Recently Sold",3304,"Square Feet",9060,"Square Feet","2024-11-20 22:18:43",16982,974
+65469455,65469441,"195 14th St NE UNIT 412",Atlanta,GA,30309,254000,Condo,Sold,755,"Square Feet",0,"Square Feet","2024-11-20 23:54:06",5655,975
+14465654,87678784,"2 Cottage Grove Ave",Atlanta,GA,30317,116300,"Single Family",Other,1038,"Square Feet",4356,"Square Feet","2024-11-20 23:54:06",5056,976
+69375258,69367221,"2821 Brookford Ln SW",Atlanta,GA,30331,321200,"Single Family",Other,1967,"Square Feet",9178,"Square Feet","2024-11-20 22:18:43",16980,977
+35855662,35855651,"1833 Calloway Dr NW",Atlanta,GA,30314,172800,"Single Family",Other,1639,"Square Feet",9278,"Square Feet","2024-11-20 22:18:43",11798,978
+65469455,65469441,"195 14th St NE UNIT 412",Atlanta,GA,30309,254000,Condo,Sold,755,"Square Feet",0,"Square Feet","2024-11-20 22:18:43",5655,979
+35885165,65450689,"4700 Heatherwood Dr SW",Atlanta,GA,30331,455800,"Single Family",Other,2763,"Square Feet",1,Acres,"2024-11-20 22:18:43",10406,980
+88814469,171314168,"7040 Talkeetna Ct SW",Atlanta,GA,30331,543200,"Single Family",Other,5204,"Square Feet",9099,"Square Feet","2024-11-20 23:54:06",16982,981
+35864696,35864699,"646 Robert St NW",Atlanta,GA,30318,140100,"Single Family",Other,1374,"Square Feet",7501,"Square Feet","2024-11-20 22:18:43",11699,982
+88814469,171314168,"7040 Talkeetna Ct SW",Atlanta,GA,30331,543200,"Single Family",Other,5204,"Square Feet",9099,"Square Feet","2024-11-20 22:18:43",16982,983
+35841172,35841158,"1427 Lorenzo Dr SW",Atlanta,GA,30310,150000,"Single Family","Recently Sold",2256,"Square Feet",0,Acres,"2024-11-20 23:54:06",11983,984
+35864696,35864699,"646 Robert St NW",Atlanta,GA,30318,140100,"Single Family",Other,1374,"Square Feet",7501,"Square Feet","2024-11-20 23:54:06",11699,985
+345364870,65470657,"1104 River Green Dr NW",Atlanta,GA,30327,186500,Condo,Sold,552,"Square Feet",523,"Square Feet","2024-11-20 23:54:06",8630,986
+35899796,35899778,"40 Standish Ave NW",Atlanta,GA,30309,742100,"Single Family",Other,2072,"Square Feet",8524,"Square Feet","2024-11-20 23:54:06",8605,987
+35864696,35864744,"631 Hamilton E Holmes Dr NW",Atlanta,GA,30318,336000,"Single Family","Recently Sold",1096,"Square Feet",1,Acres,"2024-11-20 23:54:06",11699,988
+35856592,35856593,"605 S Eugenia Pl NW",Atlanta,GA,30318,211900,"Single Family",Other,3204,"Square Feet",1,Acres,"2024-11-20 22:18:43",11802,989
+35841172,35841158,"1427 Lorenzo Dr SW",Atlanta,GA,30310,150000,"Single Family","Recently Sold",2256,"Square Feet",0,Acres,"2024-11-20 22:18:43",11983,990
+442741717,2056087861,"2155 James Aly",Atlanta,GA,30345,1400000,"Single Family","Recently Sold",2974,"Square Feet",3790,"Square Feet","2024-11-20 23:54:06",15227,991
+345364870,65470657,"1104 River Green Dr NW",Atlanta,GA,30327,186500,Condo,Sold,552,"Square Feet",523,"Square Feet","2024-11-20 22:18:43",8630,992
+2087626931,119314701,"653 N Highland Ave NE APT 6",Atlanta,GA,30306,270400,Apartment,Other,717,"Square Feet",679,"Square Feet","2024-11-20 22:18:43",5612,993
+35864696,35864744,"631 Hamilton E Holmes Dr NW",Atlanta,GA,30318,336000,"Single Family","Recently Sold",1096,"Square Feet",1,Acres,"2024-11-20 22:18:43",11699,994
+35899796,35899777,"44 Standish Ave NW",Atlanta,GA,30309,738500,"Single Family",Other,1590,"Square Feet",1,Acres,"2024-11-20 23:54:06",8605,995
+35841172,35841175,"1398 Kenilworth Dr SW",Atlanta,GA,30310,253100,"Single Family",Other,1048,"Square Feet",0,Acres,"2024-11-20 23:54:06",11983,996
+35856592,35856593,"605 S Eugenia Pl NW",Atlanta,GA,30318,211900,"Single Family",Other,3204,"Square Feet",1,Acres,"2024-11-20 23:54:06",11802,997
+345364870,65470662,"1109 River Green Dr NW",Atlanta,GA,30327,310000,Condo,Sold,1200,"Square Feet",1220,"Square Feet","2024-11-20 22:18:43",8630,998
+442741717,2056087861,"2155 James Aly",Atlanta,GA,30345,1400000,"Single Family","Recently Sold",2974,"Square Feet",3790,"Square Feet","2024-11-20 22:18:43",15227,999
+35895989,35895986,"1122 Rosedale Dr NE #1116",Atlanta,GA,30306,349600,Condo,Other,980,"Square Feet",980,"Square Feet","2024-11-20 22:18:43",5662,1000

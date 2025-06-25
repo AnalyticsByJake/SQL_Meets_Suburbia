@@ -1,0 +1,1001 @@
+zpid,schoolName,schoolRating,type,gradeLevel,grades,distanceFromListing,link,lastUpdated,lsi_id,lnh_id
+28351202,"Caraway Intermediate School",NULL,Public,Elementary,NULL,1.1,https://www.greatschools.org/texas/houston/213-Caraway-Intermediate-School/,"2024-11-27 06:13:47",1,NULL
+17151093,"Vip Village Preschool",NULL,Public,Elementary,NULL,0.8,https://www.greatschools.org/california/imperial-beach/31079-Vip-Village-Preschool/,"2024-11-22 11:25:39",2,NULL
+20958651,"Maxine Waters Employment Prep Center",NULL,Public,Elementary,NULL,0.6,https://www.greatschools.org/california/los-angeles/14291-Maxine-Waters-Employment-Prep-Center/,"2024-11-20 23:54:07",3,NULL
+89644559,"Cobb 6th Grade Campus",5,Public,Elementary,6,0.5,https://www.greatschools.org/texas/houston/9422-Cobb-6th-Grade-Campus/,"2024-11-28 06:03:26",4,NULL
+73454910,"Robert Frost Sixth-Grade Academy",NULL,Public,Elementary,6,10.2,https://www.greatschools.org/kentucky/louisville/746-Frost-Middle-School/,"2024-11-23 06:36:42",5,NULL
+73563636,"Robert Frost Sixth-Grade Academy",NULL,Public,Elementary,6,3.3,https://www.greatschools.org/kentucky/louisville/746-Frost-Middle-School/,"2024-11-23 06:36:42",6,NULL
+73555820,"Robert Frost Sixth-Grade Academy",NULL,Public,Elementary,6,2.6,https://www.greatschools.org/kentucky/louisville/746-Frost-Middle-School/,"2024-11-23 06:36:42",7,NULL
+73650815,"Robert Frost Sixth-Grade Academy",NULL,Public,Elementary,6,7.9,https://www.greatschools.org/kentucky/louisville/746-Frost-Middle-School/,"2024-11-23 06:36:42",8,NULL
+73569861,"Robert Frost Sixth-Grade Academy",NULL,Public,Elementary,6,7.5,https://www.greatschools.org/kentucky/louisville/746-Frost-Middle-School/,"2024-11-23 06:36:42",9,NULL
+114029011,"Robert Frost Sixth-Grade Academy",NULL,Public,Elementary,6,4.2,https://www.greatschools.org/kentucky/louisville/746-Frost-Middle-School/,"2024-11-23 06:36:42",10,NULL
+2065148334,"Robert Frost Sixth-Grade Academy",NULL,Public,Elementary,6,3.1,https://www.greatschools.org/kentucky/louisville/746-Frost-Middle-School/,"2024-11-23 06:36:42",11,NULL
+114029011,"Robert Frost Sixth-Grade Academy",NULL,Public,Elementary,6,4.2,https://www.greatschools.org/kentucky/louisville/746-Frost-Middle-School/,"2024-11-23 06:38:32",12,NULL
+2065148334,"Robert Frost Sixth-Grade Academy",NULL,Public,Elementary,6,3.1,https://www.greatschools.org/kentucky/louisville/746-Frost-Middle-School/,"2024-11-23 06:38:32",13,NULL
+73569861,"Robert Frost Sixth-Grade Academy",NULL,Public,Elementary,6,7.5,https://www.greatschools.org/kentucky/louisville/746-Frost-Middle-School/,"2024-11-23 06:38:32",14,NULL
+73454910,"Robert Frost Sixth-Grade Academy",NULL,Public,Elementary,6,10.2,https://www.greatschools.org/kentucky/louisville/746-Frost-Middle-School/,"2024-11-23 06:38:32",15,NULL
+73563636,"Robert Frost Sixth-Grade Academy",NULL,Public,Elementary,6,3.3,https://www.greatschools.org/kentucky/louisville/746-Frost-Middle-School/,"2024-11-23 06:38:32",16,NULL
+73555820,"Robert Frost Sixth-Grade Academy",NULL,Public,Elementary,6,2.6,https://www.greatschools.org/kentucky/louisville/746-Frost-Middle-School/,"2024-11-23 06:38:32",17,NULL
+73650815,"Robert Frost Sixth-Grade Academy",NULL,Public,Elementary,6,7.9,https://www.greatschools.org/kentucky/louisville/746-Frost-Middle-School/,"2024-11-23 06:38:32",18,NULL
+73569861,"Robert Frost Sixth-Grade Academy",NULL,Public,Elementary,6,7.5,https://www.greatschools.org/kentucky/louisville/746-Frost-Middle-School/,"2024-11-23 06:39:45",19,NULL
+73650815,"Robert Frost Sixth-Grade Academy",NULL,Public,Elementary,6,7.9,https://www.greatschools.org/kentucky/louisville/746-Frost-Middle-School/,"2024-11-23 06:39:45",20,NULL
+73563636,"Robert Frost Sixth-Grade Academy",NULL,Public,Elementary,6,3.3,https://www.greatschools.org/kentucky/louisville/746-Frost-Middle-School/,"2024-11-23 06:39:45",21,NULL
+73454910,"Robert Frost Sixth-Grade Academy",NULL,Public,Elementary,6,10.2,https://www.greatschools.org/kentucky/louisville/746-Frost-Middle-School/,"2024-11-23 06:39:45",22,NULL
+114029011,"Robert Frost Sixth-Grade Academy",NULL,Public,Elementary,6,4.2,https://www.greatschools.org/kentucky/louisville/746-Frost-Middle-School/,"2024-11-23 06:39:45",23,NULL
+2065148334,"Robert Frost Sixth-Grade Academy",NULL,Public,Elementary,6,3.1,https://www.greatschools.org/kentucky/louisville/746-Frost-Middle-School/,"2024-11-23 06:39:45",24,NULL
+73555820,"Robert Frost Sixth-Grade Academy",NULL,Public,Elementary,6,2.6,https://www.greatschools.org/kentucky/louisville/746-Frost-Middle-School/,"2024-11-23 06:39:45",25,NULL
+73546515,"Robert Frost Sixth-Grade Academy",NULL,Public,Elementary,6,1,https://www.greatschools.org/kentucky/louisville/746-Frost-Middle-School/,"2024-11-23 09:30:22",26,NULL
+73573807,"Robert Frost Sixth-Grade Academy",NULL,Public,Elementary,6,2.3,https://www.greatschools.org/kentucky/louisville/746-Frost-Middle-School/,"2024-11-23 09:30:22",27,NULL
+114028776,"Robert Frost Sixth-Grade Academy",NULL,Public,Elementary,6,4.3,https://www.greatschools.org/kentucky/louisville/746-Frost-Middle-School/,"2024-11-20 23:54:07",28,10235
+73577611,"Robert Frost Sixth-Grade Academy",NULL,Public,Elementary,6,2.6,https://www.greatschools.org/kentucky/louisville/746-Frost-Middle-School/,"2024-11-20 23:54:07",29,NULL
+73563542,"Robert Frost Sixth-Grade Academy",NULL,Public,Elementary,6,4.2,https://www.greatschools.org/kentucky/louisville/746-Frost-Middle-School/,"2024-11-20 23:54:07",30,NULL
+284889931,"Robert Frost Sixth-Grade Academy",NULL,Public,Elementary,6,3.6,https://www.greatschools.org/kentucky/louisville/746-Frost-Middle-School/,"2024-11-20 23:54:07",31,NULL
+443023156,"Robert Frost Sixth-Grade Academy",NULL,Public,Elementary,6,3.9,https://www.greatschools.org/kentucky/louisville/746-Frost-Middle-School/,"2024-11-29 05:32:39",32,NULL
+114038299,"Robert Frost Sixth-Grade Academy",NULL,Public,Elementary,6,2.4,https://www.greatschools.org/kentucky/louisville/746-Frost-Middle-School/,"2024-11-28 06:03:26",33,NULL
+73580059,"Robert Frost Sixth-Grade Academy",NULL,Public,Elementary,6,9.7,https://www.greatschools.org/kentucky/louisville/746-Frost-Middle-School/,"2024-11-28 06:03:26",34,NULL
+73586188,"Robert Frost Sixth-Grade Academy",NULL,Public,Elementary,6,8.1,https://www.greatschools.org/kentucky/louisville/746-Frost-Middle-School/,"2024-11-28 06:03:26",35,NULL
+73599683,"Robert Frost Sixth-Grade Academy",NULL,Public,Elementary,6,2,https://www.greatschools.org/kentucky/louisville/746-Frost-Middle-School/,"2024-11-27 06:13:47",36,NULL
+95195421,"Robert Frost Sixth-Grade Academy",NULL,Public,Elementary,6,0.7,https://www.greatschools.org/kentucky/louisville/746-Frost-Middle-School/,"2024-11-27 06:13:47",37,NULL
+73577319,"Robert Frost Sixth-Grade Academy",NULL,Public,Elementary,6,1.3,https://www.greatschools.org/kentucky/louisville/746-Frost-Middle-School/,"2024-11-27 09:23:19",38,NULL
+2060431024,"Robert Frost Sixth-Grade Academy",NULL,Public,Elementary,6,1.4,https://www.greatschools.org/kentucky/louisville/746-Frost-Middle-School/,"2024-11-21 11:09:29",39,10600
+114029084,"Robert Frost Sixth-Grade Academy",NULL,Public,Elementary,6,4.3,https://www.greatschools.org/kentucky/louisville/746-Frost-Middle-School/,"2024-11-21 11:09:29",40,10554
+114028776,"Robert Frost Sixth-Grade Academy",NULL,Public,Elementary,6,4.3,https://www.greatschools.org/kentucky/louisville/746-Frost-Middle-School/,"2024-11-21 11:09:29",41,10235
+73650917,"Robert Frost Sixth-Grade Academy",NULL,Public,Elementary,6,0.4,https://www.greatschools.org/kentucky/louisville/746-Frost-Middle-School/,"2024-11-21 11:09:29",42,10223
+73589952,"Robert Frost Sixth-Grade Academy",NULL,Public,Elementary,6,1.2,https://www.greatschools.org/kentucky/louisville/746-Frost-Middle-School/,"2024-11-22 11:25:39",43,NULL
+73579513,"Robert Frost Sixth-Grade Academy",NULL,Public,Elementary,6,9.8,https://www.greatschools.org/kentucky/louisville/746-Frost-Middle-School/,"2024-11-22 11:25:39",44,NULL
+114029084,"Robert Frost Sixth-Grade Academy",NULL,Public,Elementary,6,4.3,https://www.greatschools.org/kentucky/louisville/746-Frost-Middle-School/,"2024-11-22 11:25:39",45,10554
+73651119,"Robert Frost Sixth-Grade Academy",NULL,Public,Elementary,6,1.3,https://www.greatschools.org/kentucky/louisville/746-Frost-Middle-School/,"2024-11-22 11:25:39",46,NULL
+95201947,"Robert Frost Sixth-Grade Academy",NULL,Public,Elementary,6,0.6,https://www.greatschools.org/kentucky/louisville/746-Frost-Middle-School/,"2024-11-22 11:25:39",47,NULL
+73650917,"Robert Frost Sixth-Grade Academy",NULL,Public,Elementary,6,0.4,https://www.greatschools.org/kentucky/louisville/746-Frost-Middle-School/,"2024-11-22 11:25:39",48,10223
+73563648,"Robert Frost Sixth-Grade Academy",NULL,Public,Elementary,6,3.3,https://www.greatschools.org/kentucky/louisville/746-Frost-Middle-School/,"2024-11-22 11:25:39",49,NULL
+73569861,"Robert Frost Sixth-Grade Academy",NULL,Public,Elementary,6,7.5,https://www.greatschools.org/kentucky/louisville/746-Frost-Middle-School/,"2024-11-22 11:25:39",50,NULL
+114024148,"Robert Frost Sixth-Grade Academy",NULL,Public,Elementary,6,4,https://www.greatschools.org/kentucky/louisville/746-Frost-Middle-School/,"2024-11-22 11:25:39",51,NULL
+73563636,"Robert Frost Sixth-Grade Academy",NULL,Public,Elementary,6,3.3,https://www.greatschools.org/kentucky/louisville/746-Frost-Middle-School/,"2024-11-22 11:25:39",52,NULL
+73454272,"Robert Frost Sixth-Grade Academy",NULL,Public,Elementary,6,10.1,https://www.greatschools.org/kentucky/louisville/746-Frost-Middle-School/,"2024-11-22 11:25:39",53,NULL
+73569861,"Robert Frost Sixth-Grade Academy",NULL,Public,Elementary,6,7.5,https://www.greatschools.org/kentucky/louisville/746-Frost-Middle-School/,"2024-11-23 06:35:29",54,NULL
+73563636,"Robert Frost Sixth-Grade Academy",NULL,Public,Elementary,6,3.3,https://www.greatschools.org/kentucky/louisville/746-Frost-Middle-School/,"2024-11-23 06:35:29",55,NULL
+114029011,"Robert Frost Sixth-Grade Academy",NULL,Public,Elementary,6,4.2,https://www.greatschools.org/kentucky/louisville/746-Frost-Middle-School/,"2024-11-23 06:35:29",56,NULL
+2065148334,"Robert Frost Sixth-Grade Academy",NULL,Public,Elementary,6,3.1,https://www.greatschools.org/kentucky/louisville/746-Frost-Middle-School/,"2024-11-23 06:35:29",57,NULL
+73555820,"Robert Frost Sixth-Grade Academy",NULL,Public,Elementary,6,2.6,https://www.greatschools.org/kentucky/louisville/746-Frost-Middle-School/,"2024-11-23 06:35:29",58,NULL
+73650815,"Robert Frost Sixth-Grade Academy",NULL,Public,Elementary,6,7.9,https://www.greatschools.org/kentucky/louisville/746-Frost-Middle-School/,"2024-11-23 06:35:29",59,NULL
+73454910,"Robert Frost Sixth-Grade Academy",NULL,Public,Elementary,6,10.2,https://www.greatschools.org/kentucky/louisville/746-Frost-Middle-School/,"2024-11-23 06:35:29",60,NULL
+73571887,"Robert Frost Sixth-Grade Academy",NULL,Public,Elementary,6,0.4,https://www.greatschools.org/kentucky/louisville/746-Frost-Middle-School/,"2024-11-26 09:21:12",61,NULL
+73653821,"Robert Frost Sixth-Grade Academy",NULL,Public,Elementary,6,2.9,https://www.greatschools.org/kentucky/louisville/746-Frost-Middle-School/,"2024-11-26 09:21:12",62,NULL
+114023095,"Robert Frost Sixth-Grade Academy",NULL,Public,Elementary,6,4.6,https://www.greatschools.org/kentucky/louisville/746-Frost-Middle-School/,"2024-11-26 06:02:41",63,NULL
+2081634780,"World Journalism Preparatory: A College Board School",8,Public,Middle,6-12,0.2,https://www.greatschools.org/new-york/queens/8818-World-Journalism-Preparatory-A-College-Board-School/,"2024-11-26 06:02:41",64,NULL
+73578543,"Robert Frost Sixth-Grade Academy",NULL,Public,Elementary,6,1.1,https://www.greatschools.org/kentucky/louisville/746-Frost-Middle-School/,"2024-11-26 06:02:41",65,NULL
+14267122,"Marietta 6th Grade School",6,Public,Elementary,6,3,https://www.greatschools.org/georgia/marietta/2828-Marietta-6th-Grade-School/,"2024-11-29 05:32:39",66,NULL
+14267122,"Marietta 6th Grade School",6,Public,Elementary,6,3,https://www.greatschools.org/georgia/marietta/2828-Marietta-6th-Grade-School/,"2024-11-28 06:03:26",67,NULL
+1084996,"Joyce Kilmer School 69",NULL,Public,Elementary,6,0.6,https://www.greatschools.org/indiana/indianapolis/4720-Joyce-Kilmer-School-69/,"2024-11-28 06:03:26",68,NULL
+1116292,"Joyce Kilmer School 69",NULL,Public,Elementary,6,0.4,https://www.greatschools.org/indiana/indianapolis/4720-Joyce-Kilmer-School-69/,"2024-11-28 06:03:26",69,NULL
+1071574,"Joyce Kilmer School 69",NULL,Public,Elementary,6,0.7,https://www.greatschools.org/indiana/indianapolis/4720-Joyce-Kilmer-School-69/,"2024-11-26 09:21:12",70,NULL
+1074201,"Joyce Kilmer School 69",NULL,Public,Elementary,6,0.6,https://www.greatschools.org/indiana/indianapolis/4720-Joyce-Kilmer-School-69/,"2024-11-26 06:02:41",71,NULL
+1174698,"Southport 6th Grade Academy",6,Public,Elementary,6,1.2,https://www.greatschools.org/indiana/indianapolis/3201-Southport-6th-Grade-Academy/,"2024-11-23 06:36:42",72,NULL
+1184256,"Southport 6th Grade Academy",6,Public,Elementary,6,2.6,https://www.greatschools.org/indiana/indianapolis/3201-Southport-6th-Grade-Academy/,"2024-11-23 06:36:42",73,NULL
+2129773493,"Southport 6th Grade Academy",6,Public,Elementary,6,2,https://www.greatschools.org/indiana/indianapolis/3201-Southport-6th-Grade-Academy/,"2024-11-23 06:36:42",74,NULL
+2129773493,"Southport 6th Grade Academy",6,Public,Elementary,6,2,https://www.greatschools.org/indiana/indianapolis/3201-Southport-6th-Grade-Academy/,"2024-11-23 06:38:32",75,NULL
+1184256,"Southport 6th Grade Academy",6,Public,Elementary,6,2.6,https://www.greatschools.org/indiana/indianapolis/3201-Southport-6th-Grade-Academy/,"2024-11-23 06:38:32",76,NULL
+1174698,"Southport 6th Grade Academy",6,Public,Elementary,6,1.2,https://www.greatschools.org/indiana/indianapolis/3201-Southport-6th-Grade-Academy/,"2024-11-23 06:38:32",77,NULL
+1174698,"Southport 6th Grade Academy",6,Public,Elementary,6,1.2,https://www.greatschools.org/indiana/indianapolis/3201-Southport-6th-Grade-Academy/,"2024-11-23 06:39:45",78,NULL
+1184256,"Southport 6th Grade Academy",6,Public,Elementary,6,2.6,https://www.greatschools.org/indiana/indianapolis/3201-Southport-6th-Grade-Academy/,"2024-11-23 06:39:45",79,NULL
+442793282,"Brooklyn Secondary School For Collaborative Studie",6,Public,Middle,6-12,0.6,https://www.greatschools.org/new-york/brooklyn/7947-Brooklyn-Secondary-School-For-Collaborative-Studie/,"2024-11-23 06:36:42",80,NULL
+2129773493,"Southport 6th Grade Academy",6,Public,Elementary,6,2,https://www.greatschools.org/indiana/indianapolis/3201-Southport-6th-Grade-Academy/,"2024-11-23 06:39:45",81,NULL
+167365261,"Southport 6th Grade Academy",6,Public,Elementary,6,2.9,https://www.greatschools.org/indiana/indianapolis/3201-Southport-6th-Grade-Academy/,"2024-11-23 09:30:22",82,NULL
+442793282,"Brooklyn Secondary School For Collaborative Studie",6,Public,Middle,6-12,0.6,https://www.greatschools.org/new-york/brooklyn/7947-Brooklyn-Secondary-School-For-Collaborative-Studie/,"2024-11-23 06:38:32",83,NULL
+442793282,"Brooklyn Secondary School For Collaborative Studie",6,Public,Middle,6-12,0.6,https://www.greatschools.org/new-york/brooklyn/7947-Brooklyn-Secondary-School-For-Collaborative-Studie/,"2024-11-23 06:39:45",84,NULL
+30569375,"Brooklyn Secondary School For Collaborative Studie",6,Public,Middle,6-12,0.4,https://www.greatschools.org/new-york/brooklyn/7947-Brooklyn-Secondary-School-For-Collaborative-Studie/,"2024-11-20 23:54:07",85,NULL
+442793282,"Brooklyn Secondary School For Collaborative Studie",6,Public,Middle,6-12,0.6,https://www.greatschools.org/new-york/brooklyn/7947-Brooklyn-Secondary-School-For-Collaborative-Studie/,"2024-11-23 06:35:29",86,NULL
+2121195098,"Acadey of Medical Technology - A College Board School",4,Public,Middle,6-12,0.1,https://www.greatschools.org/new-york/queens/13371-Acadey-Of-Medical-Technology---A-College-Board-School/,"2024-11-24 05:51:59",87,NULL
+440013457,"Acadey of Medical Technology - A College Board School",4,Public,Middle,6-12,0.8,https://www.greatschools.org/new-york/queens/13371-Acadey-Of-Medical-Technology---A-College-Board-School/,"2024-11-28 06:03:26",88,NULL
+440013457,"Acadey of Medical Technology - A College Board School",4,Public,Middle,6-12,0.8,https://www.greatschools.org/new-york/queens/13371-Acadey-Of-Medical-Technology---A-College-Board-School/,"2024-11-27 06:13:47",89,NULL
+2097413268,"Acadey of Medical Technology - A College Board School",4,Public,Middle,6-12,0.7,https://www.greatschools.org/new-york/queens/13371-Acadey-Of-Medical-Technology---A-College-Board-School/,"2024-11-26 06:02:41",90,NULL
+82582439,"Rfk Community Schools-Ambassador-Global Leadership",4,Public,Middle,6-12,0.5,https://www.greatschools.org/california/los-angeles/25424-Rfk-Community-Schools-Ambassador-Global-Leadership/,"2024-11-24 05:51:59",91,NULL
+20612179,"Rfk Community Schools-Ambassador-Global Leadership",4,Public,Middle,6-12,0.4,https://www.greatschools.org/california/los-angeles/25424-Rfk-Community-Schools-Ambassador-Global-Leadership/,"2024-11-20 23:54:07",92,NULL
+2080383176,"Pathways College Preparatory School: A College Board School",6,Public,Middle,6-12,0.5,https://www.greatschools.org/new-york/queens/8337-Pathways-College-Preparatory-School-A-College-Board-School/,"2024-11-23 06:36:42",93,NULL
+2080383176,"Pathways College Preparatory School: A College Board School",6,Public,Middle,6-12,0.5,https://www.greatschools.org/new-york/queens/8337-Pathways-College-Preparatory-School-A-College-Board-School/,"2024-11-23 06:38:32",94,NULL
+2080383176,"Pathways College Preparatory School: A College Board School",6,Public,Middle,6-12,0.5,https://www.greatschools.org/new-york/queens/8337-Pathways-College-Preparatory-School-A-College-Board-School/,"2024-11-23 06:39:45",95,NULL
+79673684,"Southport 6th Grade Academy",6,Public,Elementary,6,2.6,https://www.greatschools.org/indiana/indianapolis/3201-Southport-6th-Grade-Academy/,"2024-11-23 09:30:22",96,NULL
+1168719,"Southport 6th Grade Academy",6,Public,Elementary,6,2.6,https://www.greatschools.org/indiana/indianapolis/3201-Southport-6th-Grade-Academy/,"2024-11-20 23:54:07",97,NULL
+1189803,"Southport 6th Grade Academy",6,Public,Elementary,6,1.3,https://www.greatschools.org/indiana/indianapolis/3201-Southport-6th-Grade-Academy/,"2024-11-29 05:32:39",98,NULL
+1170161,"Southport 6th Grade Academy",6,Public,Elementary,6,0.9,https://www.greatschools.org/indiana/indianapolis/3201-Southport-6th-Grade-Academy/,"2024-11-28 06:03:26",99,NULL
+1189803,"Southport 6th Grade Academy",6,Public,Elementary,6,1.3,https://www.greatschools.org/indiana/indianapolis/3201-Southport-6th-Grade-Academy/,"2024-11-28 06:03:26",100,NULL
+32152247,"Pathways College Preparatory School: A College Board School",6,Public,Middle,6-12,0.7,https://www.greatschools.org/new-york/queens/8337-Pathways-College-Preparatory-School-A-College-Board-School/,"2024-11-24 05:51:59",101,NULL
+32146833,"Pathways College Preparatory School: A College Board School",6,Public,Middle,6-12,0.3,https://www.greatschools.org/new-york/queens/8337-Pathways-College-Preparatory-School-A-College-Board-School/,"2024-11-24 05:51:59",102,NULL
+1186497,"Southport 6th Grade Academy",6,Public,Elementary,6,1.9,https://www.greatschools.org/indiana/indianapolis/3201-Southport-6th-Grade-Academy/,"2024-11-28 09:24:51",103,NULL
+32156743,"Pathways College Preparatory School: A College Board School",6,Public,Middle,6-12,0.1,https://www.greatschools.org/new-york/queens/8337-Pathways-College-Preparatory-School-A-College-Board-School/,"2024-11-20 23:54:07",104,NULL
+1186148,"Southport 6th Grade Academy",6,Public,Elementary,6,2.4,https://www.greatschools.org/indiana/indianapolis/3201-Southport-6th-Grade-Academy/,"2024-11-21 11:09:29",105,9974
+32160721,"Pathways College Preparatory School: A College Board School",6,Public,Middle,6-12,0.6,https://www.greatschools.org/new-york/queens/8337-Pathways-College-Preparatory-School-A-College-Board-School/,"2024-11-20 23:54:07",106,NULL
+1186148,"Southport 6th Grade Academy",6,Public,Elementary,6,2.4,https://www.greatschools.org/indiana/indianapolis/3201-Southport-6th-Grade-Academy/,"2024-11-22 11:25:39",107,9974
+442721637,"Pathways College Preparatory School: A College Board School",6,Public,Middle,6-12,1,https://www.greatschools.org/new-york/queens/8337-Pathways-College-Preparatory-School-A-College-Board-School/,"2024-11-20 23:54:07",108,NULL
+1174698,"Southport 6th Grade Academy",6,Public,Elementary,6,1.2,https://www.greatschools.org/indiana/indianapolis/3201-Southport-6th-Grade-Academy/,"2024-11-23 06:35:29",109,NULL
+1184256,"Southport 6th Grade Academy",6,Public,Elementary,6,2.6,https://www.greatschools.org/indiana/indianapolis/3201-Southport-6th-Grade-Academy/,"2024-11-23 06:35:29",110,NULL
+2129773493,"Southport 6th Grade Academy",6,Public,Elementary,6,2,https://www.greatschools.org/indiana/indianapolis/3201-Southport-6th-Grade-Academy/,"2024-11-23 06:35:29",111,NULL
+1191159,"Southport 6th Grade Academy",6,Public,Elementary,6,2.6,https://www.greatschools.org/indiana/indianapolis/3201-Southport-6th-Grade-Academy/,"2024-11-26 09:21:12",112,NULL
+1170348,"Southport 6th Grade Academy",6,Public,Elementary,6,1.1,https://www.greatschools.org/indiana/indianapolis/3201-Southport-6th-Grade-Academy/,"2024-11-26 09:21:12",113,NULL
+2069486107,"Southport 6th Grade Academy",6,Public,Elementary,6,2,https://www.greatschools.org/indiana/indianapolis/3201-Southport-6th-Grade-Academy/,"2024-11-25 05:33:30",114,NULL
+52489552,"Southport 6th Grade Academy",6,Public,Elementary,6,1.9,https://www.greatschools.org/indiana/indianapolis/3201-Southport-6th-Grade-Academy/,"2024-11-26 06:02:41",115,NULL
+441962634,"Southport 6th Grade Academy",6,Public,Elementary,6,0.8,https://www.greatschools.org/indiana/indianapolis/3201-Southport-6th-Grade-Academy/,"2024-11-26 06:02:41",116,NULL
+1186450,"Southport 6th Grade Academy",6,Public,Elementary,6,1.9,https://www.greatschools.org/indiana/indianapolis/3201-Southport-6th-Grade-Academy/,"2024-11-26 06:02:41",117,NULL
+1192272,"Perry Meridian 6th Grade Academy",7,Public,Elementary,6,1.5,https://www.greatschools.org/indiana/indianapolis/3202-Perry-Meridian-6th-Grade-Academy/,"2024-11-23 06:36:42",118,NULL
+1188902,"Perry Meridian 6th Grade Academy",7,Public,Elementary,6,1,https://www.greatschools.org/indiana/indianapolis/3202-Perry-Meridian-6th-Grade-Academy/,"2024-11-23 06:36:42",119,NULL
+112855551,"Perry Meridian 6th Grade Academy",7,Public,Elementary,6,1.2,https://www.greatschools.org/indiana/indianapolis/3202-Perry-Meridian-6th-Grade-Academy/,"2024-11-23 06:36:42",120,NULL
+1188902,"Perry Meridian 6th Grade Academy",7,Public,Elementary,6,1,https://www.greatschools.org/indiana/indianapolis/3202-Perry-Meridian-6th-Grade-Academy/,"2024-11-23 06:38:32",121,NULL
+32157034,"Pathways College Preparatory School: A College Board School",6,Public,Middle,6-12,0.6,https://www.greatschools.org/new-york/queens/8337-Pathways-College-Preparatory-School-A-College-Board-School/,"2024-11-28 06:03:26",122,NULL
+442986329,"Pathways College Preparatory School: A College Board School",6,Public,Middle,6-12,0.3,https://www.greatschools.org/new-york/queens/8337-Pathways-College-Preparatory-School-A-College-Board-School/,"2024-11-28 06:03:26",123,NULL
+2076939134,"Pathways College Preparatory School: A College Board School",6,Public,Middle,6-12,0.4,https://www.greatschools.org/new-york/queens/8337-Pathways-College-Preparatory-School-A-College-Board-School/,"2024-11-27 09:23:19",124,NULL
+32152113,"Pathways College Preparatory School: A College Board School",6,Public,Middle,6-12,0.7,https://www.greatschools.org/new-york/queens/8337-Pathways-College-Preparatory-School-A-College-Board-School/,"2024-11-22 14:21:59",125,NULL
+2080383176,"Pathways College Preparatory School: A College Board School",6,Public,Middle,6-12,0.5,https://www.greatschools.org/new-york/queens/8337-Pathways-College-Preparatory-School-A-College-Board-School/,"2024-11-23 06:35:29",126,NULL
+112855551,"Perry Meridian 6th Grade Academy",7,Public,Elementary,6,1.2,https://www.greatschools.org/indiana/indianapolis/3202-Perry-Meridian-6th-Grade-Academy/,"2024-11-23 06:38:32",127,NULL
+32152247,"Pathways College Preparatory School: A College Board School",6,Public,Middle,6-12,0.7,https://www.greatschools.org/new-york/queens/8337-Pathways-College-Preparatory-School-A-College-Board-School/,"2024-11-25 05:33:30",128,NULL
+32146833,"Pathways College Preparatory School: A College Board School",6,Public,Middle,6-12,0.3,https://www.greatschools.org/new-york/queens/8337-Pathways-College-Preparatory-School-A-College-Board-School/,"2024-11-25 05:33:30",129,NULL
+1192272,"Perry Meridian 6th Grade Academy",7,Public,Elementary,6,1.5,https://www.greatschools.org/indiana/indianapolis/3202-Perry-Meridian-6th-Grade-Academy/,"2024-11-23 06:38:32",130,NULL
+32092244,"Pathways College Preparatory School: A College Board School",6,Public,Middle,6-12,0.9,https://www.greatschools.org/new-york/queens/8337-Pathways-College-Preparatory-School-A-College-Board-School/,"2024-11-26 06:02:41",131,NULL
+1188902,"Perry Meridian 6th Grade Academy",7,Public,Elementary,6,1,https://www.greatschools.org/indiana/indianapolis/3202-Perry-Meridian-6th-Grade-Academy/,"2024-11-23 06:39:45",132,NULL
+29776986,"Middle School 223 Laboratory School of Finance and Technology",7,Public,Middle,6-12,0.1,https://www.greatschools.org/new-york/bronx/7696-Middle-School-223-Laboratory-School-Of-Finance-And-Technology/,"2024-11-21 00:25:47",133,1915
+1192272,"Perry Meridian 6th Grade Academy",7,Public,Elementary,6,1.5,https://www.greatschools.org/indiana/indianapolis/3202-Perry-Meridian-6th-Grade-Academy/,"2024-11-23 06:39:45",134,NULL
+112855551,"Perry Meridian 6th Grade Academy",7,Public,Elementary,6,1.2,https://www.greatschools.org/indiana/indianapolis/3202-Perry-Meridian-6th-Grade-Academy/,"2024-11-23 06:39:45",135,NULL
+29776986,"Middle School 223 Laboratory School of Finance and Technology",7,Public,Middle,6-12,0.1,https://www.greatschools.org/new-york/bronx/7696-Middle-School-223-Laboratory-School-Of-Finance-And-Technology/,"2024-11-21 00:24:35",136,1915
+1170684,"Perry Meridian 6th Grade Academy",7,Public,Elementary,6,1.5,https://www.greatschools.org/indiana/indianapolis/3202-Perry-Meridian-6th-Grade-Academy/,"2024-11-23 09:30:22",137,NULL
+29776986,"Middle School 223 Laboratory School of Finance and Technology",7,Public,Middle,6-12,0.1,https://www.greatschools.org/new-york/bronx/7696-Middle-School-223-Laboratory-School-Of-Finance-And-Technology/,"2024-11-21 00:21:30",138,1915
+1191706,"Perry Meridian 6th Grade Academy",7,Public,Elementary,6,1.5,https://www.greatschools.org/indiana/indianapolis/3202-Perry-Meridian-6th-Grade-Academy/,"2024-11-23 09:30:22",139,NULL
+252258358,"Perry Meridian 6th Grade Academy",7,Public,Elementary,6,2.5,https://www.greatschools.org/indiana/indianapolis/3202-Perry-Meridian-6th-Grade-Academy/,"2024-11-23 09:30:22",140,NULL
+29776986,"Middle School 223 Laboratory School of Finance and Technology",7,Public,Middle,6-12,0.1,https://www.greatschools.org/new-york/bronx/7696-Middle-School-223-Laboratory-School-Of-Finance-And-Technology/,"2024-11-21 00:22:43",141,1915
+29776986,"Middle School 223 Laboratory School of Finance and Technology",7,Public,Middle,6-12,0.1,https://www.greatschools.org/new-york/bronx/7696-Middle-School-223-Laboratory-School-Of-Finance-And-Technology/,"2024-11-21 14:20:38",142,1915
+2108693670,"Urban Assembly Institute of Math and Science for Young Women",4,Public,Middle,6-12,0.3,https://www.greatschools.org/new-york/brooklyn/8808-Urban-Assembly-Institute-Of-Math-And-Science-For-Young-Women/,"2024-11-22 11:25:39",143,NULL
+442775001,"Wadleigh Secondary School for the Performing and Visual Arts",4,Public,Middle,6-12,0.1,https://www.greatschools.org/new-york/new-york/1828-Wadleigh-Secondary-School-For-The-Performing-And-Visual-Arts/,"2024-11-23 06:36:42",144,NULL
+2127089367,"Wadleigh Secondary School for the Performing and Visual Arts",4,Public,Middle,6-12,0.2,https://www.greatschools.org/new-york/new-york/1828-Wadleigh-Secondary-School-For-The-Performing-And-Visual-Arts/,"2024-11-23 06:36:42",145,NULL
+442775001,"Wadleigh Secondary School for the Performing and Visual Arts",4,Public,Middle,6-12,0.1,https://www.greatschools.org/new-york/new-york/1828-Wadleigh-Secondary-School-For-The-Performing-And-Visual-Arts/,"2024-11-23 06:38:32",146,NULL
+2127089367,"Wadleigh Secondary School for the Performing and Visual Arts",4,Public,Middle,6-12,0.2,https://www.greatschools.org/new-york/new-york/1828-Wadleigh-Secondary-School-For-The-Performing-And-Visual-Arts/,"2024-11-23 06:38:32",147,NULL
+442775001,"Wadleigh Secondary School for the Performing and Visual Arts",4,Public,Middle,6-12,0.1,https://www.greatschools.org/new-york/new-york/1828-Wadleigh-Secondary-School-For-The-Performing-And-Visual-Arts/,"2024-11-23 06:39:45",148,NULL
+2127089367,"Wadleigh Secondary School for the Performing and Visual Arts",4,Public,Middle,6-12,0.2,https://www.greatschools.org/new-york/new-york/1828-Wadleigh-Secondary-School-For-The-Performing-And-Visual-Arts/,"2024-11-23 06:39:45",149,NULL
+442721654,"Wadleigh Secondary School for the Performing and Visual Arts",4,Public,Middle,6-12,0.7,https://www.greatschools.org/new-york/new-york/1828-Wadleigh-Secondary-School-For-The-Performing-And-Visual-Arts/,"2024-11-20 23:54:07",150,NULL
+2127089367,"Wadleigh Secondary School for the Performing and Visual Arts",4,Public,Middle,6-12,0.2,https://www.greatschools.org/new-york/new-york/1828-Wadleigh-Secondary-School-For-The-Performing-And-Visual-Arts/,"2024-11-22 11:25:39",151,NULL
+442775001,"Wadleigh Secondary School for the Performing and Visual Arts",4,Public,Middle,6-12,0.1,https://www.greatschools.org/new-york/new-york/1828-Wadleigh-Secondary-School-For-The-Performing-And-Visual-Arts/,"2024-11-22 11:25:39",152,NULL
+2127089367,"Wadleigh Secondary School for the Performing and Visual Arts",4,Public,Middle,6-12,0.2,https://www.greatschools.org/new-york/new-york/1828-Wadleigh-Secondary-School-For-The-Performing-And-Visual-Arts/,"2024-11-23 06:35:29",153,NULL
+442775001,"Wadleigh Secondary School for the Performing and Visual Arts",4,Public,Middle,6-12,0.1,https://www.greatschools.org/new-york/new-york/1828-Wadleigh-Secondary-School-For-The-Performing-And-Visual-Arts/,"2024-11-23 06:35:29",154,NULL
+20742453,"Sotomayor Arts and Sciences Magnet",4,Public,Middle,6-12,1.7,https://www.greatschools.org/california/los-angeles/25732-Los-Angeles-River-At-Sonia-Sotomayor-Learning-Academies/,"2024-11-23 06:36:42",155,NULL
+20742453,"Sotomayor Arts and Sciences Magnet",4,Public,Middle,6-12,1.7,https://www.greatschools.org/california/los-angeles/25732-Los-Angeles-River-At-Sonia-Sotomayor-Learning-Academies/,"2024-11-23 06:38:32",156,NULL
+1168030,"Perry Meridian 6th Grade Academy",7,Public,Elementary,6,4.7,https://www.greatschools.org/indiana/indianapolis/3202-Perry-Meridian-6th-Grade-Academy/,"2024-11-23 09:30:22",157,NULL
+252258028,"Perry Meridian 6th Grade Academy",7,Public,Elementary,6,1,https://www.greatschools.org/indiana/indianapolis/3202-Perry-Meridian-6th-Grade-Academy/,"2024-11-20 23:54:07",158,NULL
+52488896,"Perry Meridian 6th Grade Academy",7,Public,Elementary,6,1.1,https://www.greatschools.org/indiana/indianapolis/3202-Perry-Meridian-6th-Grade-Academy/,"2024-11-20 23:54:07",159,NULL
+59814161,"Perry Meridian 6th Grade Academy",7,Public,Elementary,6,1.4,https://www.greatschools.org/indiana/indianapolis/3202-Perry-Meridian-6th-Grade-Academy/,"2024-11-20 23:54:07",160,NULL
+20742453,"Sotomayor Arts and Sciences Magnet",4,Public,Middle,6-12,1.7,https://www.greatschools.org/california/los-angeles/25732-Los-Angeles-River-At-Sonia-Sotomayor-Learning-Academies/,"2024-11-23 06:39:45",161,NULL
+20758217,"Sotomayor Arts and Sciences Magnet",4,Public,Middle,6-12,0.3,https://www.greatschools.org/california/los-angeles/25732-Los-Angeles-River-At-Sonia-Sotomayor-Learning-Academies/,"2024-11-24 05:51:59",162,NULL
+20742453,"Sotomayor Arts and Sciences Magnet",4,Public,Middle,6-12,1.7,https://www.greatschools.org/california/los-angeles/25732-Los-Angeles-River-At-Sonia-Sotomayor-Learning-Academies/,"2024-11-24 05:51:59",163,NULL
+20742952,"Sotomayor Arts and Sciences Magnet",4,Public,Middle,6-12,0.1,https://www.greatschools.org/california/los-angeles/25732-Los-Angeles-River-At-Sonia-Sotomayor-Learning-Academies/,"2024-11-20 23:54:07",164,NULL
+20741388,"Sotomayor Arts and Sciences Magnet",4,Public,Middle,6-12,0.2,https://www.greatschools.org/california/los-angeles/25732-Los-Angeles-River-At-Sonia-Sotomayor-Learning-Academies/,"2024-11-20 23:54:07",165,NULL
+20742953,"Sotomayor Arts and Sciences Magnet",4,Public,Middle,6-12,0.1,https://www.greatschools.org/california/los-angeles/25732-Los-Angeles-River-At-Sonia-Sotomayor-Learning-Academies/,"2024-11-20 23:54:07",166,NULL
+250222453,"Sotomayor Arts and Sciences Magnet",4,Public,Middle,6-12,0.5,https://www.greatschools.org/california/los-angeles/25732-Los-Angeles-River-At-Sonia-Sotomayor-Learning-Academies/,"2024-11-28 06:03:26",167,NULL
+250222324,"Sotomayor Arts and Sciences Magnet",4,Public,Middle,6-12,0.7,https://www.greatschools.org/california/los-angeles/25732-Los-Angeles-River-At-Sonia-Sotomayor-Learning-Academies/,"2024-11-28 06:03:26",168,NULL
+20760266,"Sotomayor Arts and Sciences Magnet",4,Public,Middle,6-12,1.3,https://www.greatschools.org/california/los-angeles/25732-Los-Angeles-River-At-Sonia-Sotomayor-Learning-Academies/,"2024-11-28 06:03:26",169,NULL
+442979468,"Sotomayor Arts and Sciences Magnet",4,Public,Middle,6-12,1.1,https://www.greatschools.org/california/los-angeles/25732-Los-Angeles-River-At-Sonia-Sotomayor-Learning-Academies/,"2024-11-28 06:03:26",170,NULL
+95543031,"Sotomayor Arts and Sciences Magnet",4,Public,Middle,6-12,0.7,https://www.greatschools.org/california/los-angeles/25732-Los-Angeles-River-At-Sonia-Sotomayor-Learning-Academies/,"2024-11-27 06:13:47",171,NULL
+20741445,"Sotomayor Arts and Sciences Magnet",4,Public,Middle,6-12,0.3,https://www.greatschools.org/california/los-angeles/25732-Los-Angeles-River-At-Sonia-Sotomayor-Learning-Academies/,"2024-11-27 06:13:47",172,NULL
+1168758,"Perry Meridian 6th Grade Academy",7,Public,Elementary,6,3.8,https://www.greatschools.org/indiana/indianapolis/3202-Perry-Meridian-6th-Grade-Academy/,"2024-11-20 23:54:07",173,9903
+1174025,"Perry Meridian 6th Grade Academy",7,Public,Elementary,6,4.7,https://www.greatschools.org/indiana/indianapolis/3202-Perry-Meridian-6th-Grade-Academy/,"2024-11-28 06:03:26",174,NULL
+59814013,"Perry Meridian 6th Grade Academy",7,Public,Elementary,6,2.8,https://www.greatschools.org/indiana/indianapolis/3202-Perry-Meridian-6th-Grade-Academy/,"2024-11-28 06:03:26",175,NULL
+1191988,"Perry Meridian 6th Grade Academy",7,Public,Elementary,6,1.2,https://www.greatschools.org/indiana/indianapolis/3202-Perry-Meridian-6th-Grade-Academy/,"2024-11-28 06:03:26",176,NULL
+1186528,"Perry Meridian 6th Grade Academy",7,Public,Elementary,6,2.1,https://www.greatschools.org/indiana/indianapolis/3202-Perry-Meridian-6th-Grade-Academy/,"2024-11-28 06:03:26",177,NULL
+1179774,"Perry Meridian 6th Grade Academy",7,Public,Elementary,6,0.5,https://www.greatschools.org/indiana/indianapolis/3202-Perry-Meridian-6th-Grade-Academy/,"2024-11-28 06:03:26",178,NULL
+1179533,"Perry Meridian 6th Grade Academy",7,Public,Elementary,6,2.8,https://www.greatschools.org/indiana/indianapolis/3202-Perry-Meridian-6th-Grade-Academy/,"2024-11-28 06:03:26",179,NULL
+1179941,"Perry Meridian 6th Grade Academy",7,Public,Elementary,6,3,https://www.greatschools.org/indiana/indianapolis/3202-Perry-Meridian-6th-Grade-Academy/,"2024-11-28 06:03:26",180,NULL
+1179533,"Perry Meridian 6th Grade Academy",7,Public,Elementary,6,2.8,https://www.greatschools.org/indiana/indianapolis/3202-Perry-Meridian-6th-Grade-Academy/,"2024-11-27 06:13:47",181,NULL
+59814013,"Perry Meridian 6th Grade Academy",7,Public,Elementary,6,2.8,https://www.greatschools.org/indiana/indianapolis/3202-Perry-Meridian-6th-Grade-Academy/,"2024-11-27 06:13:47",182,NULL
+67858140,"Perry Meridian 6th Grade Academy",7,Public,Elementary,6,1.8,https://www.greatschools.org/indiana/indianapolis/3202-Perry-Meridian-6th-Grade-Academy/,"2024-11-27 09:23:19",183,NULL
+1168758,"Perry Meridian 6th Grade Academy",7,Public,Elementary,6,3.8,https://www.greatschools.org/indiana/indianapolis/3202-Perry-Meridian-6th-Grade-Academy/,"2024-11-21 11:09:29",184,9903
+1181684,"Perry Meridian 6th Grade Academy",7,Public,Elementary,6,0.4,https://www.greatschools.org/indiana/indianapolis/3202-Perry-Meridian-6th-Grade-Academy/,"2024-11-21 14:20:38",185,NULL
+1176891,"Perry Meridian 6th Grade Academy",7,Public,Elementary,6,1,https://www.greatschools.org/indiana/indianapolis/3202-Perry-Meridian-6th-Grade-Academy/,"2024-11-22 11:25:39",186,NULL
+1188898,"Perry Meridian 6th Grade Academy",7,Public,Elementary,6,1.1,https://www.greatschools.org/indiana/indianapolis/3202-Perry-Meridian-6th-Grade-Academy/,"2024-11-22 11:25:39",187,NULL
+1176062,"Perry Meridian 6th Grade Academy",7,Public,Elementary,6,2.1,https://www.greatschools.org/indiana/indianapolis/3202-Perry-Meridian-6th-Grade-Academy/,"2024-11-22 11:25:39",188,NULL
+1190323,"Perry Meridian 6th Grade Academy",7,Public,Elementary,6,1.1,https://www.greatschools.org/indiana/indianapolis/3202-Perry-Meridian-6th-Grade-Academy/,"2024-11-22 11:25:39",189,NULL
+66386513,"Perry Meridian 6th Grade Academy",7,Public,Elementary,6,2.3,https://www.greatschools.org/indiana/indianapolis/3202-Perry-Meridian-6th-Grade-Academy/,"2024-11-22 11:25:39",190,NULL
+112848725,"Perry Meridian 6th Grade Academy",7,Public,Elementary,6,1.1,https://www.greatschools.org/indiana/indianapolis/3202-Perry-Meridian-6th-Grade-Academy/,"2024-11-22 14:21:59",191,NULL
+1192272,"Perry Meridian 6th Grade Academy",7,Public,Elementary,6,1.5,https://www.greatschools.org/indiana/indianapolis/3202-Perry-Meridian-6th-Grade-Academy/,"2024-11-23 06:35:29",192,NULL
+1188902,"Perry Meridian 6th Grade Academy",7,Public,Elementary,6,1,https://www.greatschools.org/indiana/indianapolis/3202-Perry-Meridian-6th-Grade-Academy/,"2024-11-23 06:35:29",193,NULL
+112855551,"Perry Meridian 6th Grade Academy",7,Public,Elementary,6,1.2,https://www.greatschools.org/indiana/indianapolis/3202-Perry-Meridian-6th-Grade-Academy/,"2024-11-23 06:35:29",194,NULL
+61761117,"Perry Meridian 6th Grade Academy",7,Public,Elementary,6,2.2,https://www.greatschools.org/indiana/indianapolis/3202-Perry-Meridian-6th-Grade-Academy/,"2024-11-26 09:21:12",195,NULL
+1184818,"Perry Meridian 6th Grade Academy",7,Public,Elementary,6,1.6,https://www.greatschools.org/indiana/indianapolis/3202-Perry-Meridian-6th-Grade-Academy/,"2024-11-26 09:21:12",196,NULL
+1180027,"Perry Meridian 6th Grade Academy",7,Public,Elementary,6,2.7,https://www.greatschools.org/indiana/indianapolis/3202-Perry-Meridian-6th-Grade-Academy/,"2024-11-25 05:33:30",197,NULL
+34081057,"Hilliard Station Sixth Grade Elementary School",6,Public,Elementary,6,3.9,https://www.greatschools.org/ohio/hilliard/2354-Hilliard-Station-Sixth-Grade-Elementary-School/,"2024-11-23 09:30:22",198,NULL
+41067286,"Boy's Prep",NULL,Charter,Middle,7,1.5,https://www.greatschools.org/tennessee/nashville/6453-BoyS-Prep/,"2024-11-23 09:30:22",199,NULL
+41066965,"Boy's Prep",NULL,Charter,Middle,7,1.4,https://www.greatschools.org/tennessee/nashville/6453-BoyS-Prep/,"2024-11-20 23:54:07",200,NULL
+59888920,"Boy's Prep",NULL,Charter,Middle,7,1.6,https://www.greatschools.org/tennessee/nashville/6453-BoyS-Prep/,"2024-11-28 06:03:26",201,NULL
+336767176,"Poe Middle School",1,Public,Middle,8,1.1,https://www.greatschools.org/texas/san-antonio/6034-Poe-Middle-School/,"2024-11-23 06:36:42",202,NULL
+26131993,"Poe Middle School",1,Public,Middle,8,1.6,https://www.greatschools.org/texas/san-antonio/6034-Poe-Middle-School/,"2024-11-23 06:36:42",203,NULL
+26140072,"Poe Middle School",1,Public,Middle,8,0.2,https://www.greatschools.org/texas/san-antonio/6034-Poe-Middle-School/,"2024-11-23 06:36:42",204,NULL
+26131993,"Poe Middle School",1,Public,Middle,8,1.6,https://www.greatschools.org/texas/san-antonio/6034-Poe-Middle-School/,"2024-11-23 06:38:32",205,NULL
+26140072,"Poe Middle School",1,Public,Middle,8,0.2,https://www.greatschools.org/texas/san-antonio/6034-Poe-Middle-School/,"2024-11-23 06:38:32",206,NULL
+336767176,"Poe Middle School",1,Public,Middle,8,1.1,https://www.greatschools.org/texas/san-antonio/6034-Poe-Middle-School/,"2024-11-23 06:38:32",207,NULL
+26131993,"Poe Middle School",1,Public,Middle,8,1.6,https://www.greatschools.org/texas/san-antonio/6034-Poe-Middle-School/,"2024-11-23 06:39:45",208,NULL
+336767176,"Poe Middle School",1,Public,Middle,8,1.1,https://www.greatschools.org/texas/san-antonio/6034-Poe-Middle-School/,"2024-11-23 06:39:45",209,NULL
+26140072,"Poe Middle School",1,Public,Middle,8,0.2,https://www.greatschools.org/texas/san-antonio/6034-Poe-Middle-School/,"2024-11-23 06:39:45",210,NULL
+26131993,"Poe Middle School",1,Public,Middle,8,1.6,https://www.greatschools.org/texas/san-antonio/6034-Poe-Middle-School/,"2024-11-24 05:51:59",211,NULL
+26110812,"Poe Middle School",1,Public,Middle,8,1,https://www.greatschools.org/texas/san-antonio/6034-Poe-Middle-School/,"2024-11-24 05:51:59",212,NULL
+26218325,"Poe Middle School",1,Public,Middle,8,0.9,https://www.greatschools.org/texas/san-antonio/6034-Poe-Middle-School/,"2024-11-24 05:51:59",213,NULL
+442722208,"Poe Middle School",1,Public,Middle,8,0.5,https://www.greatschools.org/texas/san-antonio/6034-Poe-Middle-School/,"2024-11-20 23:54:07",214,NULL
+20752045,"Sotomayor Arts and Sciences Magnet",4,Public,Middle,6-12,1.2,https://www.greatschools.org/california/los-angeles/25732-Los-Angeles-River-At-Sonia-Sotomayor-Learning-Academies/,"2024-11-28 09:24:51",215,NULL
+325799459,"Sotomayor Arts and Sciences Magnet",4,Public,Middle,6-12,0.8,https://www.greatschools.org/california/los-angeles/25732-Los-Angeles-River-At-Sonia-Sotomayor-Learning-Academies/,"2024-11-27 09:23:19",216,NULL
+26111220,"Poe Middle School",1,Public,Middle,8,0.7,https://www.greatschools.org/texas/san-antonio/6034-Poe-Middle-School/,"2024-11-20 23:54:07",217,12659
+442722309,"Poe Middle School",1,Public,Middle,8,0.5,https://www.greatschools.org/texas/san-antonio/6034-Poe-Middle-School/,"2024-11-20 23:54:07",218,NULL
+20742953,"Sotomayor Arts and Sciences Magnet",4,Public,Middle,6-12,0.1,https://www.greatschools.org/california/los-angeles/25732-Los-Angeles-River-At-Sonia-Sotomayor-Learning-Academies/,"2024-11-21 11:09:29",219,NULL
+2052842151,"Poe Middle School",1,Public,Middle,8,0.6,https://www.greatschools.org/texas/san-antonio/6034-Poe-Middle-School/,"2024-11-20 23:54:07",220,NULL
+20742952,"Sotomayor Arts and Sciences Magnet",4,Public,Middle,6-12,0.1,https://www.greatschools.org/california/los-angeles/25732-Los-Angeles-River-At-Sonia-Sotomayor-Learning-Academies/,"2024-11-21 11:09:29",221,NULL
+26128230,"Poe Middle School",1,Public,Middle,8,0.6,https://www.greatschools.org/texas/san-antonio/6034-Poe-Middle-School/,"2024-11-20 23:54:07",222,NULL
+20751919,"Sotomayor Arts and Sciences Magnet",4,Public,Middle,6-12,1,https://www.greatschools.org/california/los-angeles/25732-Los-Angeles-River-At-Sonia-Sotomayor-Learning-Academies/,"2024-11-21 11:09:29",223,NULL
+20751919,"Sotomayor Arts and Sciences Magnet",4,Public,Middle,6-12,1,https://www.greatschools.org/california/los-angeles/25732-Los-Angeles-River-At-Sonia-Sotomayor-Learning-Academies/,"2024-11-22 11:25:39",224,NULL
+20742453,"Sotomayor Arts and Sciences Magnet",4,Public,Middle,6-12,1.7,https://www.greatschools.org/california/los-angeles/25732-Los-Angeles-River-At-Sonia-Sotomayor-Learning-Academies/,"2024-11-23 06:35:29",225,NULL
+95539502,"Sotomayor Arts and Sciences Magnet",4,Public,Middle,6-12,0.7,https://www.greatschools.org/california/los-angeles/25732-Los-Angeles-River-At-Sonia-Sotomayor-Learning-Academies/,"2024-11-25 05:33:30",226,NULL
+33875466,"South High School",3,Public,Middle,7-12,1.3,https://www.greatschools.org/ohio/columbus/620-South-High-School/,"2024-11-23 06:36:42",227,NULL
+33846775,"South High School",3,Public,Middle,7-12,0.7,https://www.greatschools.org/ohio/columbus/620-South-High-School/,"2024-11-23 06:36:42",228,NULL
+33845746,"South High School",3,Public,Middle,7-12,0.5,https://www.greatschools.org/ohio/columbus/620-South-High-School/,"2024-11-23 06:36:42",229,NULL
+315140841,"South High School",3,Public,Middle,7-12,0.9,https://www.greatschools.org/ohio/columbus/620-South-High-School/,"2024-11-23 06:36:42",230,NULL
+442718402,"Poe Middle School",1,Public,Middle,8,0.5,https://www.greatschools.org/texas/san-antonio/6034-Poe-Middle-School/,"2024-11-20 23:54:07",231,NULL
+26116586,"Poe Middle School",1,Public,Middle,8,0.6,https://www.greatschools.org/texas/san-antonio/6034-Poe-Middle-School/,"2024-11-21 00:25:47",232,2476
+26116586,"Poe Middle School",1,Public,Middle,8,0.6,https://www.greatschools.org/texas/san-antonio/6034-Poe-Middle-School/,"2024-11-21 00:24:35",233,2476
+26116586,"Poe Middle School",1,Public,Middle,8,0.6,https://www.greatschools.org/texas/san-antonio/6034-Poe-Middle-School/,"2024-11-21 00:21:30",234,2476
+26116586,"Poe Middle School",1,Public,Middle,8,0.6,https://www.greatschools.org/texas/san-antonio/6034-Poe-Middle-School/,"2024-11-21 00:22:43",235,2476
+26130241,"Poe Middle School",1,Public,Middle,8,1.5,https://www.greatschools.org/texas/san-antonio/6034-Poe-Middle-School/,"2024-11-28 06:03:26",236,NULL
+26133529,"Poe Middle School",1,Public,Middle,8,0.7,https://www.greatschools.org/texas/san-antonio/6034-Poe-Middle-School/,"2024-11-28 06:03:26",237,NULL
+26111450,"Poe Middle School",1,Public,Middle,8,0.9,https://www.greatschools.org/texas/san-antonio/6034-Poe-Middle-School/,"2024-11-28 06:03:26",238,NULL
+26111220,"Poe Middle School",1,Public,Middle,8,0.7,https://www.greatschools.org/texas/san-antonio/6034-Poe-Middle-School/,"2024-11-21 11:09:29",239,12659
+26110697,"Poe Middle School",1,Public,Middle,8,1.1,https://www.greatschools.org/texas/san-antonio/6034-Poe-Middle-School/,"2024-11-21 11:09:29",240,12650
+26116852,"Poe Middle School",1,Public,Middle,8,0.4,https://www.greatschools.org/texas/san-antonio/6034-Poe-Middle-School/,"2024-11-21 11:09:29",241,12815
+26116586,"Poe Middle School",1,Public,Middle,8,0.6,https://www.greatschools.org/texas/san-antonio/6034-Poe-Middle-School/,"2024-11-21 14:20:38",242,2476
+26111377,"Poe Middle School",1,Public,Middle,8,0.7,https://www.greatschools.org/texas/san-antonio/6034-Poe-Middle-School/,"2024-11-22 11:25:39",243,NULL
+26110697,"Poe Middle School",1,Public,Middle,8,1.1,https://www.greatschools.org/texas/san-antonio/6034-Poe-Middle-School/,"2024-11-22 11:25:39",244,12650
+26211344,"Poe Middle School",1,Public,Middle,8,1.6,https://www.greatschools.org/texas/san-antonio/6034-Poe-Middle-School/,"2024-11-22 11:25:39",245,NULL
+26131993,"Poe Middle School",1,Public,Middle,8,1.6,https://www.greatschools.org/texas/san-antonio/6034-Poe-Middle-School/,"2024-11-23 06:35:29",246,NULL
+26140072,"Poe Middle School",1,Public,Middle,8,0.2,https://www.greatschools.org/texas/san-antonio/6034-Poe-Middle-School/,"2024-11-23 06:35:29",247,NULL
+33875896,"South High School",3,Public,Middle,7-12,1,https://www.greatschools.org/ohio/columbus/620-South-High-School/,"2024-11-23 06:36:42",248,NULL
+33872856,"South High School",3,Public,Middle,7-12,0.5,https://www.greatschools.org/ohio/columbus/620-South-High-School/,"2024-11-23 06:36:42",249,NULL
+33875466,"South High School",3,Public,Middle,7-12,1.3,https://www.greatschools.org/ohio/columbus/620-South-High-School/,"2024-11-23 06:38:32",250,NULL
+33846775,"South High School",3,Public,Middle,7-12,0.7,https://www.greatschools.org/ohio/columbus/620-South-High-School/,"2024-11-23 06:38:32",251,NULL
+336767176,"Poe Middle School",1,Public,Middle,8,1.1,https://www.greatschools.org/texas/san-antonio/6034-Poe-Middle-School/,"2024-11-23 06:35:29",252,NULL
+33845746,"South High School",3,Public,Middle,7-12,0.5,https://www.greatschools.org/ohio/columbus/620-South-High-School/,"2024-11-23 06:38:32",253,NULL
+315140841,"South High School",3,Public,Middle,7-12,0.9,https://www.greatschools.org/ohio/columbus/620-South-High-School/,"2024-11-23 06:38:32",254,NULL
+33872856,"South High School",3,Public,Middle,7-12,0.5,https://www.greatschools.org/ohio/columbus/620-South-High-School/,"2024-11-23 06:38:32",255,NULL
+33875896,"South High School",3,Public,Middle,7-12,1,https://www.greatschools.org/ohio/columbus/620-South-High-School/,"2024-11-23 06:38:32",256,NULL
+33845746,"South High School",3,Public,Middle,7-12,0.5,https://www.greatschools.org/ohio/columbus/620-South-High-School/,"2024-11-23 06:39:45",257,NULL
+33875896,"South High School",3,Public,Middle,7-12,1,https://www.greatschools.org/ohio/columbus/620-South-High-School/,"2024-11-23 06:39:45",258,NULL
+33875466,"South High School",3,Public,Middle,7-12,1.3,https://www.greatschools.org/ohio/columbus/620-South-High-School/,"2024-11-23 06:39:45",259,NULL
+33846775,"South High School",3,Public,Middle,7-12,0.7,https://www.greatschools.org/ohio/columbus/620-South-High-School/,"2024-11-23 06:39:45",260,NULL
+33872856,"South High School",3,Public,Middle,7-12,0.5,https://www.greatschools.org/ohio/columbus/620-South-High-School/,"2024-11-23 06:39:45",261,NULL
+315140841,"South High School",3,Public,Middle,7-12,0.9,https://www.greatschools.org/ohio/columbus/620-South-High-School/,"2024-11-23 06:39:45",262,NULL
+33838756,"South High School",3,Public,Middle,7-12,0.3,https://www.greatschools.org/ohio/columbus/620-South-High-School/,"2024-11-23 09:30:22",263,NULL
+33848978,"South High School",3,Public,Middle,7-12,0.2,https://www.greatschools.org/ohio/columbus/620-South-High-School/,"2024-11-23 09:30:22",264,NULL
+33858695,"South High School",3,Public,Middle,7-12,0.9,https://www.greatschools.org/ohio/columbus/620-South-High-School/,"2024-11-23 09:30:22",265,NULL
+26133340,"Poe Middle School",1,Public,Middle,8,0.6,https://www.greatschools.org/texas/san-antonio/6034-Poe-Middle-School/,"2024-11-25 05:33:30",266,NULL
+442864306,"Poe Middle School",1,Public,Middle,8,0.3,https://www.greatschools.org/texas/san-antonio/6034-Poe-Middle-School/,"2024-11-26 06:02:41",267,NULL
+26129851,"Poe Middle School",1,Public,Middle,8,0.7,https://www.greatschools.org/texas/san-antonio/6034-Poe-Middle-School/,"2024-11-26 06:02:41",268,NULL
+26112887,"Poe Middle School",1,Public,Middle,8,0.4,https://www.greatschools.org/texas/san-antonio/6034-Poe-Middle-School/,"2024-11-26 06:02:41",269,NULL
+65540121,"UChicago Charter - Carter G. Woodson Campus",NULL,Charter,Middle,8,0.2,https://www.greatschools.org/illinois/chicago/12908-Univ-Of-Chicago-Charter---Woodson/,"2024-11-24 05:51:59",270,NULL
+2141080982,"UChicago Charter - Carter G. Woodson Campus",NULL,Charter,Middle,8,0.2,https://www.greatschools.org/illinois/chicago/12908-Univ-Of-Chicago-Charter---Woodson/,"2024-11-20 23:54:07",271,NULL
+159006781,"UChicago Charter - Carter G. Woodson Campus",NULL,Charter,Middle,8,0.2,https://www.greatschools.org/illinois/chicago/12908-Univ-Of-Chicago-Charter---Woodson/,"2024-11-22 11:25:39",272,NULL
+36570685,"Afya Public Charter Middle School",NULL,Charter,Middle,8,0.8,https://www.greatschools.org/maryland/baltimore/4121-Afya-Public-Charter-Middle-School/,"2024-11-23 09:30:22",273,NULL
+36576962,"Afya Public Charter Middle School",NULL,Charter,Middle,8,1,https://www.greatschools.org/maryland/baltimore/4121-Afya-Public-Charter-Middle-School/,"2024-11-23 09:30:22",274,NULL
+36452609,"Afya Public Charter Middle School",NULL,Charter,Middle,8,1.1,https://www.greatschools.org/maryland/baltimore/4121-Afya-Public-Charter-Middle-School/,"2024-11-20 23:54:07",275,5414
+36577329,"Afya Public Charter Middle School",NULL,Charter,Middle,8,0.6,https://www.greatschools.org/maryland/baltimore/4121-Afya-Public-Charter-Middle-School/,"2024-11-28 06:03:26",276,NULL
+33827683,"South High School",3,Public,Middle,7-12,0.3,https://www.greatschools.org/ohio/columbus/620-South-High-School/,"2024-11-23 09:30:22",277,NULL
+36455602,"Afya Public Charter Middle School",NULL,Charter,Middle,8,1.3,https://www.greatschools.org/maryland/baltimore/4121-Afya-Public-Charter-Middle-School/,"2024-11-27 06:13:47",278,NULL
+315140841,"South High School",3,Public,Middle,7-12,0.9,https://www.greatschools.org/ohio/columbus/620-South-High-School/,"2024-11-24 05:51:59",279,NULL
+36457057,"Afya Public Charter Middle School",NULL,Charter,Middle,8,0.6,https://www.greatschools.org/maryland/baltimore/4121-Afya-Public-Charter-Middle-School/,"2024-11-27 06:13:47",280,NULL
+36456858,"Afya Public Charter Middle School",NULL,Charter,Middle,8,0.7,https://www.greatschools.org/maryland/baltimore/4121-Afya-Public-Charter-Middle-School/,"2024-11-27 09:23:19",281,NULL
+33872856,"South High School",3,Public,Middle,7-12,0.5,https://www.greatschools.org/ohio/columbus/620-South-High-School/,"2024-11-24 05:51:59",282,NULL
+33833417,"South High School",3,Public,Middle,7-12,1.5,https://www.greatschools.org/ohio/columbus/620-South-High-School/,"2024-11-20 23:54:07",283,NULL
+33841537,"South High School",3,Public,Middle,7-12,0.9,https://www.greatschools.org/ohio/columbus/620-South-High-School/,"2024-11-20 23:54:07",284,NULL
+2056429786,"South High School",3,Public,Middle,7-12,0.3,https://www.greatschools.org/ohio/columbus/620-South-High-School/,"2024-11-20 23:54:07",285,9392
+33842749,"South High School",3,Public,Middle,7-12,0.6,https://www.greatschools.org/ohio/columbus/620-South-High-School/,"2024-11-20 23:54:07",286,9376
+33861781,"South High School",3,Public,Middle,7-12,1,https://www.greatschools.org/ohio/columbus/620-South-High-School/,"2024-11-20 23:54:07",287,NULL
+33845352,"South High School",3,Public,Middle,7-12,0.9,https://www.greatschools.org/ohio/columbus/620-South-High-School/,"2024-11-20 23:54:07",288,NULL
+33832974,"South High School",3,Public,Middle,7-12,1.4,https://www.greatschools.org/ohio/columbus/620-South-High-School/,"2024-11-20 23:54:07",289,9331
+33832445,"South High School",3,Public,Middle,7-12,0.1,https://www.greatschools.org/ohio/columbus/620-South-High-School/,"2024-11-20 23:54:07",290,NULL
+33854468,"South High School",3,Public,Middle,7-12,0.7,https://www.greatschools.org/ohio/columbus/620-South-High-School/,"2024-11-20 23:54:07",291,NULL
+87887214,"South High School",3,Public,Middle,7-12,1.1,https://www.greatschools.org/ohio/columbus/620-South-High-School/,"2024-11-20 23:54:07",292,9385
+33853515,"South High School",3,Public,Middle,7-12,0.7,https://www.greatschools.org/ohio/columbus/620-South-High-School/,"2024-11-29 05:32:39",293,NULL
+33843528,"South High School",3,Public,Middle,7-12,0.3,https://www.greatschools.org/ohio/columbus/620-South-High-School/,"2024-11-28 06:03:26",294,NULL
+442993407,"South High School",3,Public,Middle,7-12,0.8,https://www.greatschools.org/ohio/columbus/620-South-High-School/,"2024-11-28 06:03:26",295,NULL
+247447113,"South High School",3,Public,Middle,7-12,0.8,https://www.greatschools.org/ohio/columbus/620-South-High-School/,"2024-11-28 06:03:26",296,NULL
+36452609,"Afya Public Charter Middle School",NULL,Charter,Middle,8,1.1,https://www.greatschools.org/maryland/baltimore/4121-Afya-Public-Charter-Middle-School/,"2024-11-21 11:09:29",297,5414
+33834327,"South High School",3,Public,Middle,7-12,1,https://www.greatschools.org/ohio/columbus/620-South-High-School/,"2024-11-28 06:03:26",298,NULL
+36576862,"Afya Public Charter Middle School",NULL,Charter,Middle,8,0.9,https://www.greatschools.org/maryland/baltimore/4121-Afya-Public-Charter-Middle-School/,"2024-11-22 11:25:39",299,NULL
+33826008,"South High School",3,Public,Middle,7-12,0.8,https://www.greatschools.org/ohio/columbus/620-South-High-School/,"2024-11-27 06:13:47",300,NULL
+36577667,"Afya Public Charter Middle School",NULL,Charter,Middle,8,0.5,https://www.greatschools.org/maryland/baltimore/4121-Afya-Public-Charter-Middle-School/,"2024-11-26 06:02:41",301,NULL
+33847043,"South High School",3,Public,Middle,7-12,0.8,https://www.greatschools.org/ohio/columbus/620-South-High-School/,"2024-11-27 06:13:47",302,NULL
+36452501,"Afya Public Charter Middle School",NULL,Charter,Middle,8,1.2,https://www.greatschools.org/maryland/baltimore/4121-Afya-Public-Charter-Middle-School/,"2024-11-26 06:02:41",303,NULL
+33847251,"South High School",3,Public,Middle,7-12,1.1,https://www.greatschools.org/ohio/columbus/620-South-High-School/,"2024-11-27 06:13:47",304,NULL
+36457080,"Afya Public Charter Middle School",NULL,Charter,Middle,8,0.6,https://www.greatschools.org/maryland/baltimore/4121-Afya-Public-Charter-Middle-School/,"2024-11-26 06:02:41",305,NULL
+112164234,"Davis Ninth Grade",NULL,Public,Middle,9,3.8,https://www.greatschools.org/texas/houston/19248-Davis-Ninth-Grade/,"2024-11-23 06:36:42",306,NULL
+112164234,"Davis Ninth Grade",NULL,Public,Middle,9,3.8,https://www.greatschools.org/texas/houston/19248-Davis-Ninth-Grade/,"2024-11-23 06:38:32",307,NULL
+33852455,"South High School",3,Public,Middle,7-12,0.1,https://www.greatschools.org/ohio/columbus/620-South-High-School/,"2024-11-27 06:13:47",308,NULL
+33850986,"South High School",3,Public,Middle,7-12,0.4,https://www.greatschools.org/ohio/columbus/620-South-High-School/,"2024-11-27 06:13:47",309,NULL
+33856139,"South High School",3,Public,Middle,7-12,0.7,https://www.greatschools.org/ohio/columbus/620-South-High-School/,"2024-11-27 06:13:47",310,NULL
+33844098,"South High School",3,Public,Middle,7-12,0.8,https://www.greatschools.org/ohio/columbus/620-South-High-School/,"2024-11-27 09:23:19",311,NULL
+33902135,"South High School",3,Public,Middle,7-12,0.9,https://www.greatschools.org/ohio/columbus/620-South-High-School/,"2024-11-27 09:23:19",312,NULL
+33842749,"South High School",3,Public,Middle,7-12,0.6,https://www.greatschools.org/ohio/columbus/620-South-High-School/,"2024-11-21 11:09:29",313,9376
+87887070,"South High School",3,Public,Middle,7-12,0.7,https://www.greatschools.org/ohio/columbus/620-South-High-School/,"2024-11-21 11:09:29",314,9402
+33841648,"South High School",3,Public,Middle,7-12,1,https://www.greatschools.org/ohio/columbus/620-South-High-School/,"2024-11-21 11:09:29",315,9345
+2056429786,"South High School",3,Public,Middle,7-12,0.3,https://www.greatschools.org/ohio/columbus/620-South-High-School/,"2024-11-21 11:09:29",316,9392
+33832974,"South High School",3,Public,Middle,7-12,1.4,https://www.greatschools.org/ohio/columbus/620-South-High-School/,"2024-11-21 11:09:29",317,9331
+87887214,"South High School",3,Public,Middle,7-12,1.1,https://www.greatschools.org/ohio/columbus/620-South-High-School/,"2024-11-21 11:09:29",318,9385
+33875729,"South High School",3,Public,Middle,7-12,1.3,https://www.greatschools.org/ohio/columbus/620-South-High-School/,"2024-11-22 11:25:39",319,NULL
+33851015,"South High School",3,Public,Middle,7-12,0.8,https://www.greatschools.org/ohio/columbus/620-South-High-School/,"2024-11-22 11:25:39",320,NULL
+33847878,"South High School",3,Public,Middle,7-12,1.5,https://www.greatschools.org/ohio/columbus/620-South-High-School/,"2024-11-22 11:25:39",321,NULL
+442759348,"South High School",3,Public,Middle,7-12,0.6,https://www.greatschools.org/ohio/columbus/620-South-High-School/,"2024-11-22 11:25:39",322,NULL
+80893306,"South High School",3,Public,Middle,7-12,0.9,https://www.greatschools.org/ohio/columbus/620-South-High-School/,"2024-11-22 11:25:39",323,NULL
+247455611,"South High School",3,Public,Middle,7-12,1.3,https://www.greatschools.org/ohio/columbus/620-South-High-School/,"2024-11-22 14:21:59",324,NULL
+33872856,"South High School",3,Public,Middle,7-12,0.5,https://www.greatschools.org/ohio/columbus/620-South-High-School/,"2024-11-23 06:35:29",325,NULL
+33846775,"South High School",3,Public,Middle,7-12,0.7,https://www.greatschools.org/ohio/columbus/620-South-High-School/,"2024-11-23 06:35:29",326,NULL
+33875896,"South High School",3,Public,Middle,7-12,1,https://www.greatschools.org/ohio/columbus/620-South-High-School/,"2024-11-23 06:35:29",327,NULL
+33875466,"South High School",3,Public,Middle,7-12,1.3,https://www.greatschools.org/ohio/columbus/620-South-High-School/,"2024-11-23 06:35:29",328,NULL
+33845746,"South High School",3,Public,Middle,7-12,0.5,https://www.greatschools.org/ohio/columbus/620-South-High-School/,"2024-11-23 06:35:29",329,NULL
+315140841,"South High School",3,Public,Middle,7-12,0.9,https://www.greatschools.org/ohio/columbus/620-South-High-School/,"2024-11-23 06:35:29",330,NULL
+33863131,"South High School",3,Public,Middle,7-12,1.4,https://www.greatschools.org/ohio/columbus/620-South-High-School/,"2024-11-26 09:21:12",331,NULL
+33902930,"South High School",3,Public,Middle,7-12,1.3,https://www.greatschools.org/ohio/columbus/620-South-High-School/,"2024-11-26 09:21:12",332,NULL
+300272159,"South High School",3,Public,Middle,7-12,0.9,https://www.greatschools.org/ohio/columbus/620-South-High-School/,"2024-11-26 09:21:12",333,NULL
+33828697,"South High School",3,Public,Middle,7-12,0.4,https://www.greatschools.org/ohio/columbus/620-South-High-School/,"2024-11-25 05:33:30",334,NULL
+112164234,"Davis Ninth Grade",NULL,Public,Middle,9,3.8,https://www.greatschools.org/texas/houston/19248-Davis-Ninth-Grade/,"2024-11-23 06:39:45",335,NULL
+80537244,"Davis Ninth Grade",NULL,Public,Middle,9,3,https://www.greatschools.org/texas/houston/19248-Davis-Ninth-Grade/,"2024-11-20 23:54:07",336,NULL
+28309498,"Davis Ninth Grade",NULL,Public,Middle,9,1.8,https://www.greatschools.org/texas/houston/19248-Davis-Ninth-Grade/,"2024-11-29 05:32:39",337,NULL
+58677329,"Davis Ninth Grade",NULL,Public,Middle,9,3.9,https://www.greatschools.org/texas/houston/19248-Davis-Ninth-Grade/,"2024-11-29 05:32:39",338,NULL
+442988247,"Davis Ninth Grade",NULL,Public,Middle,9,2.9,https://www.greatschools.org/texas/houston/19248-Davis-Ninth-Grade/,"2024-11-28 06:03:26",339,NULL
+28309498,"Davis Ninth Grade",NULL,Public,Middle,9,1.8,https://www.greatschools.org/texas/houston/19248-Davis-Ninth-Grade/,"2024-11-28 06:03:26",340,NULL
+33921268,"South High School",3,Public,Middle,7-12,1.3,https://www.greatschools.org/ohio/columbus/620-South-High-School/,"2024-11-26 06:02:41",341,NULL
+80516036,"Davis Ninth Grade",NULL,Public,Middle,9,2.8,https://www.greatschools.org/texas/houston/19248-Davis-Ninth-Grade/,"2024-11-27 06:13:47",342,NULL
+442842798,"South High School",3,Public,Middle,7-12,1,https://www.greatschools.org/ohio/columbus/620-South-High-School/,"2024-11-26 06:02:41",343,NULL
+28352251,"Davis Ninth Grade",NULL,Public,Middle,9,2.2,https://www.greatschools.org/texas/houston/19248-Davis-Ninth-Grade/,"2024-11-27 06:13:47",344,NULL
+3635380,"Taft High School",5,Public,Middle,7-12,0.5,https://www.greatschools.org/illinois/chicago/1399-Taft-High-School/,"2024-11-23 06:36:42",345,NULL
+3650932,"Taft High School",5,Public,Middle,7-12,1.7,https://www.greatschools.org/illinois/chicago/1399-Taft-High-School/,"2024-11-23 06:36:42",346,NULL
+113956372,"Taft High School",5,Public,Middle,7-12,0.4,https://www.greatschools.org/illinois/chicago/1399-Taft-High-School/,"2024-11-23 06:36:42",347,NULL
+3513093,"Taft High School",5,Public,Middle,7-12,0.6,https://www.greatschools.org/illinois/chicago/1399-Taft-High-School/,"2024-11-23 06:36:42",348,NULL
+3577490,"Taft High School",5,Public,Middle,7-12,0.8,https://www.greatschools.org/illinois/chicago/1399-Taft-High-School/,"2024-11-23 06:36:42",349,NULL
+112164234,"Davis Ninth Grade",NULL,Public,Middle,9,3.8,https://www.greatschools.org/texas/houston/19248-Davis-Ninth-Grade/,"2024-11-23 06:35:29",350,NULL
+62594717,"Davis Ninth Grade",NULL,Public,Middle,9,0.2,https://www.greatschools.org/texas/houston/19248-Davis-Ninth-Grade/,"2024-11-26 06:02:41",351,NULL
+1300318,"Ben Davis Ninth Grade Center",NULL,Public,Middle,9,2.8,https://www.greatschools.org/indiana/indianapolis/3228-Ben-Davis-Ninth-Grade-Center/,"2024-11-23 06:36:42",352,NULL
+1303656,"Ben Davis Ninth Grade Center",NULL,Public,Middle,9,0.9,https://www.greatschools.org/indiana/indianapolis/3228-Ben-Davis-Ninth-Grade-Center/,"2024-11-23 06:36:42",353,NULL
+1303656,"Ben Davis Ninth Grade Center",NULL,Public,Middle,9,0.9,https://www.greatschools.org/indiana/indianapolis/3228-Ben-Davis-Ninth-Grade-Center/,"2024-11-23 06:38:32",354,NULL
+1300318,"Ben Davis Ninth Grade Center",NULL,Public,Middle,9,2.8,https://www.greatschools.org/indiana/indianapolis/3228-Ben-Davis-Ninth-Grade-Center/,"2024-11-23 06:38:32",355,NULL
+1303656,"Ben Davis Ninth Grade Center",NULL,Public,Middle,9,0.9,https://www.greatschools.org/indiana/indianapolis/3228-Ben-Davis-Ninth-Grade-Center/,"2024-11-23 06:39:45",356,NULL
+1300318,"Ben Davis Ninth Grade Center",NULL,Public,Middle,9,2.8,https://www.greatschools.org/indiana/indianapolis/3228-Ben-Davis-Ninth-Grade-Center/,"2024-11-23 06:39:45",357,NULL
+1315033,"Ben Davis Ninth Grade Center",NULL,Public,Middle,9,1,https://www.greatschools.org/indiana/indianapolis/3228-Ben-Davis-Ninth-Grade-Center/,"2024-11-23 09:30:22",358,NULL
+1312887,"Ben Davis Ninth Grade Center",NULL,Public,Middle,9,0.5,https://www.greatschools.org/indiana/indianapolis/3228-Ben-Davis-Ninth-Grade-Center/,"2024-11-28 09:24:51",359,NULL
+61762226,"Ben Davis Ninth Grade Center",NULL,Public,Middle,9,3.7,https://www.greatschools.org/indiana/indianapolis/3228-Ben-Davis-Ninth-Grade-Center/,"2024-11-27 09:23:19",360,NULL
+1316581,"Ben Davis Ninth Grade Center",NULL,Public,Middle,9,1.2,https://www.greatschools.org/indiana/indianapolis/3228-Ben-Davis-Ninth-Grade-Center/,"2024-11-22 14:21:59",361,NULL
+1304586,"Ben Davis Ninth Grade Center",NULL,Public,Middle,9,0.5,https://www.greatschools.org/indiana/indianapolis/3228-Ben-Davis-Ninth-Grade-Center/,"2024-11-22 14:21:59",362,NULL
+1303656,"Ben Davis Ninth Grade Center",NULL,Public,Middle,9,0.9,https://www.greatschools.org/indiana/indianapolis/3228-Ben-Davis-Ninth-Grade-Center/,"2024-11-23 06:35:29",363,NULL
+1300318,"Ben Davis Ninth Grade Center",NULL,Public,Middle,9,2.8,https://www.greatschools.org/indiana/indianapolis/3228-Ben-Davis-Ninth-Grade-Center/,"2024-11-23 06:35:29",364,NULL
+2065418123,"Ben Davis Ninth Grade Center",NULL,Public,Middle,9,2.7,https://www.greatschools.org/indiana/indianapolis/3228-Ben-Davis-Ninth-Grade-Center/,"2024-11-26 06:02:41",365,NULL
+1312390,"Ben Davis Ninth Grade Center",NULL,Public,Middle,9,2.2,https://www.greatschools.org/indiana/indianapolis/3228-Ben-Davis-Ninth-Grade-Center/,"2024-11-26 06:02:41",366,NULL
+89148412,"Olympic Primary Center",NULL,Public,Elementary,K,0.6,https://www.greatschools.org/california/los-angeles/14253-Olympic-Primary-Center/,"2024-11-29 05:32:39",367,NULL
+250346975,"Olympic Primary Center",NULL,Public,Elementary,K,0.4,https://www.greatschools.org/california/los-angeles/14253-Olympic-Primary-Center/,"2024-11-22 11:25:39",368,NULL
+119679976,"Olympic Primary Center",NULL,Public,Elementary,K,0.3,https://www.greatschools.org/california/los-angeles/14253-Olympic-Primary-Center/,"2024-11-22 11:25:39",369,NULL
+20624999,"Olympic Primary Center",NULL,Public,Elementary,K,0.6,https://www.greatschools.org/california/los-angeles/14253-Olympic-Primary-Center/,"2024-11-22 11:25:39",370,NULL
+20614507,"Hooper Avenue Primary Center",NULL,Public,Elementary,K,0.4,https://www.greatschools.org/california/los-angeles/14348-Hooper-Avenue-Primary-Center/,"2024-11-20 23:54:07",371,NULL
+20614187,"Hooper Avenue Primary Center",NULL,Public,Elementary,K,0.2,https://www.greatschools.org/california/los-angeles/14348-Hooper-Avenue-Primary-Center/,"2024-11-28 06:03:26",372,NULL
+59153942,"Urban Science Academy",NULL,Public,High,12,1.8,https://www.greatschools.org/massachusetts/boston/3186-Urban-Science-Academy/,"2024-11-23 06:36:42",373,NULL
+59153942,"Urban Science Academy",NULL,Public,High,12,1.8,https://www.greatschools.org/massachusetts/boston/3186-Urban-Science-Academy/,"2024-11-23 06:38:32",374,NULL
+59153942,"Urban Science Academy",NULL,Public,High,12,1.8,https://www.greatschools.org/massachusetts/boston/3186-Urban-Science-Academy/,"2024-11-23 06:39:45",375,NULL
+441681141,"Urban Science Academy",NULL,Public,High,12,0.6,https://www.greatschools.org/massachusetts/boston/3186-Urban-Science-Academy/,"2024-11-23 09:30:22",376,NULL
+71493926,"Urban Science Academy",NULL,Public,High,12,0.2,https://www.greatschools.org/massachusetts/boston/3186-Urban-Science-Academy/,"2024-11-20 23:54:07",377,4226
+442968457,"Urban Science Academy",NULL,Public,High,12,1.9,https://www.greatschools.org/massachusetts/boston/3186-Urban-Science-Academy/,"2024-11-27 06:13:47",378,NULL
+442970123,"Urban Science Academy",NULL,Public,High,12,1.9,https://www.greatschools.org/massachusetts/boston/3186-Urban-Science-Academy/,"2024-11-27 06:13:47",379,NULL
+442968942,"Urban Science Academy",NULL,Public,High,12,1.9,https://www.greatschools.org/massachusetts/boston/3186-Urban-Science-Academy/,"2024-11-27 06:13:47",380,NULL
+441743092,"Urban Science Academy",NULL,Public,High,12,0.2,https://www.greatschools.org/massachusetts/boston/3186-Urban-Science-Academy/,"2024-11-28 09:24:51",381,NULL
+59142559,"Urban Science Academy",NULL,Public,High,12,0.7,https://www.greatschools.org/massachusetts/boston/3186-Urban-Science-Academy/,"2024-11-27 09:23:19",382,NULL
+59157678,"Urban Science Academy",NULL,Public,High,12,2.3,https://www.greatschools.org/massachusetts/boston/3186-Urban-Science-Academy/,"2024-11-27 09:23:19",383,NULL
+71493926,"Urban Science Academy",NULL,Public,High,12,0.2,https://www.greatschools.org/massachusetts/boston/3186-Urban-Science-Academy/,"2024-11-21 11:09:29",384,4226
+442759580,"Urban Science Academy",NULL,Public,High,12,0.5,https://www.greatschools.org/massachusetts/boston/3186-Urban-Science-Academy/,"2024-11-22 11:25:39",385,NULL
+442764714,"Urban Science Academy",NULL,Public,High,12,2.2,https://www.greatschools.org/massachusetts/boston/3186-Urban-Science-Academy/,"2024-11-22 11:25:39",386,NULL
+59156325,"Urban Science Academy",NULL,Public,High,12,2.1,https://www.greatschools.org/massachusetts/boston/3186-Urban-Science-Academy/,"2024-11-22 14:21:59",387,NULL
+59153942,"Urban Science Academy",NULL,Public,High,12,1.8,https://www.greatschools.org/massachusetts/boston/3186-Urban-Science-Academy/,"2024-11-23 06:35:29",388,NULL
+120921212,"Urban Science Academy",NULL,Public,High,12,0.5,https://www.greatschools.org/massachusetts/boston/3186-Urban-Science-Academy/,"2024-11-26 09:21:12",389,NULL
+59136229,"Urban Science Academy",NULL,Public,High,12,0.8,https://www.greatschools.org/massachusetts/boston/3186-Urban-Science-Academy/,"2024-11-26 09:21:12",390,NULL
+59161589,"Urban Science Academy",NULL,Public,High,12,2.3,https://www.greatschools.org/massachusetts/boston/3186-Urban-Science-Academy/,"2024-11-26 09:21:12",391,NULL
+59141264,"Urban Science Academy",NULL,Public,High,12,0.2,https://www.greatschools.org/massachusetts/boston/3186-Urban-Science-Academy/,"2024-11-26 06:02:41",392,NULL
+2055185300,"Urban Science Academy",NULL,Public,High,12,1.7,https://www.greatschools.org/massachusetts/boston/3186-Urban-Science-Academy/,"2024-11-26 06:02:41",393,NULL
+352579528,"Anderson Academy",3,Public,Elementary,1-4,1.3,https://www.greatschools.org/texas/houston/184-Anderson-Academy/,"2024-11-20 23:54:07",394,12448
+431173644,"Anderson Academy",3,Public,Elementary,1-4,1.1,https://www.greatschools.org/texas/houston/184-Anderson-Academy/,"2024-11-20 23:54:07",395,NULL
+442725407,"Anderson Academy",3,Public,Elementary,1-4,1.1,https://www.greatschools.org/texas/houston/184-Anderson-Academy/,"2024-11-20 23:54:07",396,NULL
+431180814,"Anderson Academy",3,Public,Elementary,1-4,1.1,https://www.greatschools.org/texas/houston/184-Anderson-Academy/,"2024-11-20 23:54:07",397,NULL
+440422371,"Anderson Academy",3,Public,Elementary,1-4,1.4,https://www.greatschools.org/texas/houston/184-Anderson-Academy/,"2024-11-29 05:32:39",398,NULL
+352458429,"Anderson Academy",3,Public,Elementary,1-4,1.4,https://www.greatschools.org/texas/houston/184-Anderson-Academy/,"2024-11-29 05:32:39",399,NULL
+2053393883,"Anderson Academy",3,Public,Elementary,1-4,1.4,https://www.greatschools.org/texas/houston/184-Anderson-Academy/,"2024-11-29 05:32:39",400,NULL
+2059153594,"Anderson Academy",3,Public,Elementary,1-4,1.4,https://www.greatschools.org/texas/houston/184-Anderson-Academy/,"2024-11-29 05:32:39",401,NULL
+27812325,"Anderson Academy",3,Public,Elementary,1-4,1.2,https://www.greatschools.org/texas/houston/184-Anderson-Academy/,"2024-11-27 06:13:47",402,NULL
+380842140,"Anderson Academy",3,Public,Elementary,1-4,0.4,https://www.greatschools.org/texas/houston/184-Anderson-Academy/,"2024-11-27 06:13:47",403,NULL
+3650932,"Taft High School",5,Public,Middle,7-12,1.7,https://www.greatschools.org/illinois/chicago/1399-Taft-High-School/,"2024-11-23 06:38:32",404,NULL
+352579528,"Anderson Academy",3,Public,Elementary,1-4,1.3,https://www.greatschools.org/texas/houston/184-Anderson-Academy/,"2024-11-21 11:09:29",405,12448
+3577490,"Taft High School",5,Public,Middle,7-12,0.8,https://www.greatschools.org/illinois/chicago/1399-Taft-High-School/,"2024-11-23 06:38:32",406,NULL
+442770143,"Anderson Academy",3,Public,Elementary,1-4,1.3,https://www.greatschools.org/texas/houston/184-Anderson-Academy/,"2024-11-22 11:25:39",407,NULL
+3513093,"Taft High School",5,Public,Middle,7-12,0.6,https://www.greatschools.org/illinois/chicago/1399-Taft-High-School/,"2024-11-23 06:38:32",408,NULL
+3635380,"Taft High School",5,Public,Middle,7-12,0.5,https://www.greatschools.org/illinois/chicago/1399-Taft-High-School/,"2024-11-23 06:38:32",409,NULL
+113956372,"Taft High School",5,Public,Middle,7-12,0.4,https://www.greatschools.org/illinois/chicago/1399-Taft-High-School/,"2024-11-23 06:38:32",410,NULL
+3650932,"Taft High School",5,Public,Middle,7-12,1.7,https://www.greatschools.org/illinois/chicago/1399-Taft-High-School/,"2024-11-23 06:39:45",411,NULL
+3635380,"Taft High School",5,Public,Middle,7-12,0.5,https://www.greatschools.org/illinois/chicago/1399-Taft-High-School/,"2024-11-23 06:39:45",412,NULL
+3513093,"Taft High School",5,Public,Middle,7-12,0.6,https://www.greatschools.org/illinois/chicago/1399-Taft-High-School/,"2024-11-23 06:39:45",413,NULL
+113956372,"Taft High School",5,Public,Middle,7-12,0.4,https://www.greatschools.org/illinois/chicago/1399-Taft-High-School/,"2024-11-23 06:39:45",414,NULL
+3577490,"Taft High School",5,Public,Middle,7-12,0.8,https://www.greatschools.org/illinois/chicago/1399-Taft-High-School/,"2024-11-23 06:39:45",415,NULL
+3632700,"Taft High School",5,Public,Middle,7-12,0.3,https://www.greatschools.org/illinois/chicago/1399-Taft-High-School/,"2024-11-23 09:30:22",416,NULL
+3634422,"Taft High School",5,Public,Middle,7-12,0.6,https://www.greatschools.org/illinois/chicago/1399-Taft-High-School/,"2024-11-23 09:30:22",417,NULL
+3575415,"Taft High School",5,Public,Middle,7-12,0.4,https://www.greatschools.org/illinois/chicago/1399-Taft-High-School/,"2024-11-23 09:30:22",418,NULL
+3638002,"Taft High School",5,Public,Middle,7-12,2.1,https://www.greatschools.org/illinois/chicago/1399-Taft-High-School/,"2024-11-23 09:30:22",419,NULL
+2078570432,"Taft High School",5,Public,Middle,7-12,0.8,https://www.greatschools.org/illinois/chicago/1399-Taft-High-School/,"2024-11-23 09:30:22",420,NULL
+158437861,"Taft High School",5,Public,Middle,7-12,0.8,https://www.greatschools.org/illinois/chicago/1399-Taft-High-School/,"2024-11-23 09:30:22",421,NULL
+2061880628,"Taft High School",5,Public,Middle,7-12,2.6,https://www.greatschools.org/illinois/chicago/1399-Taft-High-School/,"2024-11-23 09:30:22",422,NULL
+3581301,"Taft High School",5,Public,Middle,7-12,2.6,https://www.greatschools.org/illinois/chicago/1399-Taft-High-School/,"2024-11-24 05:51:59",423,NULL
+3623220,"Taft High School",5,Public,Middle,7-12,0.5,https://www.greatschools.org/illinois/chicago/1399-Taft-High-School/,"2024-11-20 23:54:07",424,NULL
+3638916,"Taft High School",5,Public,Middle,7-12,2.7,https://www.greatschools.org/illinois/chicago/1399-Taft-High-School/,"2024-11-20 23:54:07",425,NULL
+3626570,"Taft High School",5,Public,Middle,7-12,1,https://www.greatschools.org/illinois/chicago/1399-Taft-High-School/,"2024-11-20 23:54:07",426,NULL
+3623072,"Taft High School",5,Public,Middle,7-12,0.3,https://www.greatschools.org/illinois/chicago/1399-Taft-High-School/,"2024-11-20 23:54:07",427,NULL
+3652510,"Taft High School",5,Public,Middle,7-12,2.2,https://www.greatschools.org/illinois/chicago/1399-Taft-High-School/,"2024-11-20 23:54:07",428,10837
+3589552,"Taft High School",5,Public,Middle,7-12,2.7,https://www.greatschools.org/illinois/chicago/1399-Taft-High-School/,"2024-11-20 23:54:07",429,11019
+87725437,"Taft High School",5,Public,Middle,7-12,0.1,https://www.greatschools.org/illinois/chicago/1399-Taft-High-School/,"2024-11-20 23:54:07",430,11122
+3627688,"Taft High School",5,Public,Middle,7-12,0.9,https://www.greatschools.org/illinois/chicago/1399-Taft-High-School/,"2024-11-20 23:54:07",431,10878
+3625876,"Taft High School",5,Public,Middle,7-12,0.8,https://www.greatschools.org/illinois/chicago/1399-Taft-High-School/,"2024-11-29 05:32:39",432,NULL
+3639281,"Taft High School",5,Public,Middle,7-12,2.9,https://www.greatschools.org/illinois/chicago/1399-Taft-High-School/,"2024-11-29 05:32:39",433,NULL
+3646074,"Taft High School",5,Public,Middle,7-12,2.8,https://www.greatschools.org/illinois/chicago/1399-Taft-High-School/,"2024-11-27 06:13:47",434,NULL
+3631102,"Taft High School",5,Public,Middle,7-12,0.3,https://www.greatschools.org/illinois/chicago/1399-Taft-High-School/,"2024-11-28 09:24:51",435,NULL
+3635089,"Taft High School",5,Public,Middle,7-12,0.6,https://www.greatschools.org/illinois/chicago/1399-Taft-High-School/,"2024-11-28 09:24:51",436,NULL
+2096281758,"Taft High School",5,Public,Middle,7-12,2.6,https://www.greatschools.org/illinois/chicago/1399-Taft-High-School/,"2024-11-27 09:23:19",437,NULL
+3652998,"Taft High School",5,Public,Middle,7-12,2.1,https://www.greatschools.org/illinois/chicago/1399-Taft-High-School/,"2024-11-21 11:09:29",438,10783
+3589552,"Taft High School",5,Public,Middle,7-12,2.7,https://www.greatschools.org/illinois/chicago/1399-Taft-High-School/,"2024-11-21 11:09:29",439,11019
+87725437,"Taft High School",5,Public,Middle,7-12,0.1,https://www.greatschools.org/illinois/chicago/1399-Taft-High-School/,"2024-11-21 11:09:29",440,11122
+3652510,"Taft High School",5,Public,Middle,7-12,2.2,https://www.greatschools.org/illinois/chicago/1399-Taft-High-School/,"2024-11-21 11:09:29",441,10837
+2067276366,"Taft High School",5,Public,Middle,7-12,2.9,https://www.greatschools.org/illinois/chicago/1399-Taft-High-School/,"2024-11-21 11:09:29",442,11018
+3627688,"Taft High School",5,Public,Middle,7-12,0.9,https://www.greatschools.org/illinois/chicago/1399-Taft-High-School/,"2024-11-21 11:09:29",443,10878
+3497386,"Taft High School",5,Public,Middle,7-12,0.9,https://www.greatschools.org/illinois/chicago/1399-Taft-High-School/,"2024-11-22 11:25:39",444,NULL
+2067276366,"Taft High School",5,Public,Middle,7-12,2.9,https://www.greatschools.org/illinois/chicago/1399-Taft-High-School/,"2024-11-22 11:25:39",445,11018
+3552851,"Taft High School",5,Public,Middle,7-12,1.5,https://www.greatschools.org/illinois/chicago/1399-Taft-High-School/,"2024-11-22 11:25:39",446,NULL
+3513093,"Taft High School",5,Public,Middle,7-12,0.6,https://www.greatschools.org/illinois/chicago/1399-Taft-High-School/,"2024-11-22 11:25:39",447,NULL
+27812325,"Anderson Academy",3,Public,Elementary,1-4,1.2,https://www.greatschools.org/texas/houston/184-Anderson-Academy/,"2024-11-26 06:02:41",448,NULL
+343016320,"Anderson Academy",3,Public,Elementary,1-4,0.4,https://www.greatschools.org/texas/houston/184-Anderson-Academy/,"2024-11-26 06:02:41",449,NULL
+380842140,"Anderson Academy",3,Public,Elementary,1-4,0.4,https://www.greatschools.org/texas/houston/184-Anderson-Academy/,"2024-11-26 06:02:41",450,NULL
+299590399,"Somerset Elementary School",9,Public,Elementary,1-4,1.5,https://www.greatschools.org/texas/somerset/6364-Somerset-Elementary-School/,"2024-11-22 11:25:39",451,NULL
+28149491,"Smith Elementary School",1,Public,Elementary,1-5,1.1,https://www.greatschools.org/texas/houston/197-Smith-Academy/,"2024-11-20 23:54:07",452,NULL
+3652998,"Taft High School",5,Public,Middle,7-12,2.1,https://www.greatschools.org/illinois/chicago/1399-Taft-High-School/,"2024-11-22 11:25:39",453,10783
+3650932,"Taft High School",5,Public,Middle,7-12,1.7,https://www.greatschools.org/illinois/chicago/1399-Taft-High-School/,"2024-11-22 11:25:39",454,NULL
+3652512,"Taft High School",5,Public,Middle,7-12,2.2,https://www.greatschools.org/illinois/chicago/1399-Taft-High-School/,"2024-11-22 11:25:39",455,NULL
+3630896,"Taft High School",5,Public,Middle,7-12,0.1,https://www.greatschools.org/illinois/chicago/1399-Taft-High-School/,"2024-11-22 14:21:59",456,NULL
+3577490,"Taft High School",5,Public,Middle,7-12,0.8,https://www.greatschools.org/illinois/chicago/1399-Taft-High-School/,"2024-11-23 06:35:29",457,NULL
+3635380,"Taft High School",5,Public,Middle,7-12,0.5,https://www.greatschools.org/illinois/chicago/1399-Taft-High-School/,"2024-11-23 06:35:29",458,NULL
+3513093,"Taft High School",5,Public,Middle,7-12,0.6,https://www.greatschools.org/illinois/chicago/1399-Taft-High-School/,"2024-11-23 06:35:29",459,NULL
+3650932,"Taft High School",5,Public,Middle,7-12,1.7,https://www.greatschools.org/illinois/chicago/1399-Taft-High-School/,"2024-11-23 06:35:29",460,NULL
+113956372,"Taft High School",5,Public,Middle,7-12,0.4,https://www.greatschools.org/illinois/chicago/1399-Taft-High-School/,"2024-11-23 06:35:29",461,NULL
+3627380,"Taft High School",5,Public,Middle,7-12,0.7,https://www.greatschools.org/illinois/chicago/1399-Taft-High-School/,"2024-11-26 09:21:12",462,NULL
+3635718,"Taft High School",5,Public,Middle,7-12,0.3,https://www.greatschools.org/illinois/chicago/1399-Taft-High-School/,"2024-11-26 09:21:12",463,NULL
+3581301,"Taft High School",5,Public,Middle,7-12,2.6,https://www.greatschools.org/illinois/chicago/1399-Taft-High-School/,"2024-11-25 05:33:30",464,NULL
+62007829,"Taft High School",5,Public,Middle,7-12,0.2,https://www.greatschools.org/illinois/chicago/1399-Taft-High-School/,"2024-11-26 06:02:41",465,NULL
+3631234,"Taft High School",5,Public,Middle,7-12,0.5,https://www.greatschools.org/illinois/chicago/1399-Taft-High-School/,"2024-11-26 06:02:41",466,NULL
+7988037,"Pinnacle High School",8,Public,Middle,7-12,0.5,https://www.greatschools.org/arizona/phoenix/2630-Pinnacle-High-School/,"2024-11-23 06:36:42",467,NULL
+7989582,"Pinnacle High School",8,Public,Middle,7-12,1.4,https://www.greatschools.org/arizona/phoenix/2630-Pinnacle-High-School/,"2024-11-23 06:36:42",468,NULL
+7985644,"Pinnacle High School",8,Public,Middle,7-12,0.6,https://www.greatschools.org/arizona/phoenix/2630-Pinnacle-High-School/,"2024-11-23 06:36:42",469,NULL
+7987297,"Pinnacle High School",8,Public,Middle,7-12,0.5,https://www.greatschools.org/arizona/phoenix/2630-Pinnacle-High-School/,"2024-11-23 06:36:42",470,NULL
+440006383,"Pinnacle High School",8,Public,Middle,7-12,1.9,https://www.greatschools.org/arizona/phoenix/2630-Pinnacle-High-School/,"2024-11-23 06:36:42",471,NULL
+440006383,"Pinnacle High School",8,Public,Middle,7-12,1.9,https://www.greatschools.org/arizona/phoenix/2630-Pinnacle-High-School/,"2024-11-23 06:38:32",472,NULL
+7987297,"Pinnacle High School",8,Public,Middle,7-12,0.5,https://www.greatschools.org/arizona/phoenix/2630-Pinnacle-High-School/,"2024-11-23 06:38:32",473,NULL
+28139394,"Smith Elementary School",1,Public,Elementary,1-5,0.8,https://www.greatschools.org/texas/houston/197-Smith-Academy/,"2024-11-20 23:54:07",474,12260
+2106642332,"Smith Elementary School",1,Public,Elementary,1-5,0.5,https://www.greatschools.org/texas/houston/197-Smith-Academy/,"2024-11-20 23:54:07",475,12279
+28485399,"Smith Elementary School",1,Public,Elementary,1-5,0.5,https://www.greatschools.org/texas/houston/197-Smith-Academy/,"2024-11-29 05:32:39",476,NULL
+7989582,"Pinnacle High School",8,Public,Middle,7-12,1.4,https://www.greatschools.org/arizona/phoenix/2630-Pinnacle-High-School/,"2024-11-23 06:38:32",477,NULL
+7988037,"Pinnacle High School",8,Public,Middle,7-12,0.5,https://www.greatschools.org/arizona/phoenix/2630-Pinnacle-High-School/,"2024-11-23 06:38:32",478,NULL
+7985644,"Pinnacle High School",8,Public,Middle,7-12,0.6,https://www.greatschools.org/arizona/phoenix/2630-Pinnacle-High-School/,"2024-11-23 06:38:32",479,NULL
+7989582,"Pinnacle High School",8,Public,Middle,7-12,1.4,https://www.greatschools.org/arizona/phoenix/2630-Pinnacle-High-School/,"2024-11-23 06:39:45",480,NULL
+440006383,"Pinnacle High School",8,Public,Middle,7-12,1.9,https://www.greatschools.org/arizona/phoenix/2630-Pinnacle-High-School/,"2024-11-23 06:39:45",481,NULL
+7988037,"Pinnacle High School",8,Public,Middle,7-12,0.5,https://www.greatschools.org/arizona/phoenix/2630-Pinnacle-High-School/,"2024-11-23 06:39:45",482,NULL
+7987297,"Pinnacle High School",8,Public,Middle,7-12,0.5,https://www.greatschools.org/arizona/phoenix/2630-Pinnacle-High-School/,"2024-11-23 06:39:45",483,NULL
+7985644,"Pinnacle High School",8,Public,Middle,7-12,0.6,https://www.greatschools.org/arizona/phoenix/2630-Pinnacle-High-School/,"2024-11-23 06:39:45",484,NULL
+352643528,"Pinnacle High School",8,Public,Middle,7-12,2.2,https://www.greatschools.org/arizona/phoenix/2630-Pinnacle-High-School/,"2024-11-20 23:54:07",485,NULL
+28485399,"Smith Elementary School",1,Public,Elementary,1-5,0.5,https://www.greatschools.org/texas/houston/197-Smith-Academy/,"2024-11-28 06:03:26",486,NULL
+28351202,"Smith Elementary School",1,Public,Elementary,1-5,1.1,https://www.greatschools.org/texas/houston/197-Smith-Academy/,"2024-11-27 06:13:47",487,NULL
+52524679,"Pinnacle High School",8,Public,Middle,7-12,1.3,https://www.greatschools.org/arizona/phoenix/2630-Pinnacle-High-School/,"2024-11-20 23:54:07",488,NULL
+95182109,"Pinnacle High School",8,Public,Middle,7-12,1.2,https://www.greatschools.org/arizona/phoenix/2630-Pinnacle-High-School/,"2024-11-20 23:54:07",489,NULL
+7993981,"Pinnacle High School",8,Public,Middle,7-12,1.9,https://www.greatschools.org/arizona/phoenix/2630-Pinnacle-High-School/,"2024-11-20 23:54:07",490,NULL
+95174080,"Pinnacle High School",8,Public,Middle,7-12,1,https://www.greatschools.org/arizona/phoenix/2630-Pinnacle-High-School/,"2024-11-20 23:54:07",491,NULL
+423637687,"Pinnacle High School",8,Public,Middle,7-12,1.3,https://www.greatschools.org/arizona/phoenix/2630-Pinnacle-High-School/,"2024-11-29 05:32:39",492,NULL
+95137298,"Pinnacle High School",8,Public,Middle,7-12,0.7,https://www.greatschools.org/arizona/phoenix/2630-Pinnacle-High-School/,"2024-11-28 06:03:26",493,NULL
+318217090,"Pinnacle High School",8,Public,Middle,7-12,1,https://www.greatschools.org/arizona/phoenix/2630-Pinnacle-High-School/,"2024-11-28 06:03:26",494,NULL
+7994230,"Pinnacle High School",8,Public,Middle,7-12,2,https://www.greatschools.org/arizona/phoenix/2630-Pinnacle-High-School/,"2024-11-28 06:03:26",495,NULL
+7988200,"Pinnacle High School",8,Public,Middle,7-12,0.6,https://www.greatschools.org/arizona/phoenix/2630-Pinnacle-High-School/,"2024-11-27 06:13:47",496,NULL
+7985793,"Pinnacle High School",8,Public,Middle,7-12,0.8,https://www.greatschools.org/arizona/phoenix/2630-Pinnacle-High-School/,"2024-11-27 09:23:19",497,NULL
+95174080,"Pinnacle High School",8,Public,Middle,7-12,1,https://www.greatschools.org/arizona/phoenix/2630-Pinnacle-High-School/,"2024-11-21 11:09:29",498,NULL
+95182109,"Pinnacle High School",8,Public,Middle,7-12,1.2,https://www.greatschools.org/arizona/phoenix/2630-Pinnacle-High-School/,"2024-11-21 11:09:29",499,NULL
+7993981,"Pinnacle High School",8,Public,Middle,7-12,1.9,https://www.greatschools.org/arizona/phoenix/2630-Pinnacle-High-School/,"2024-11-21 11:09:29",500,NULL
+352643528,"Pinnacle High School",8,Public,Middle,7-12,2.2,https://www.greatschools.org/arizona/phoenix/2630-Pinnacle-High-School/,"2024-11-21 11:09:29",501,NULL
+52524679,"Pinnacle High School",8,Public,Middle,7-12,1.3,https://www.greatschools.org/arizona/phoenix/2630-Pinnacle-High-School/,"2024-11-21 11:09:29",502,NULL
+352643893,"Pinnacle High School",8,Public,Middle,7-12,1.9,https://www.greatschools.org/arizona/phoenix/2630-Pinnacle-High-School/,"2024-11-21 14:20:38",503,NULL
+92345362,"Pinnacle High School",8,Public,Middle,7-12,1.4,https://www.greatschools.org/arizona/phoenix/2630-Pinnacle-High-School/,"2024-11-21 14:20:38",504,NULL
+7990388,"Pinnacle High School",8,Public,Middle,7-12,0.1,https://www.greatschools.org/arizona/phoenix/2630-Pinnacle-High-School/,"2024-11-22 14:21:59",505,NULL
+7990884,"Pinnacle High School",8,Public,Middle,7-12,1.6,https://www.greatschools.org/arizona/phoenix/2630-Pinnacle-High-School/,"2024-11-22 14:21:59",506,NULL
+352643551,"Pinnacle High School",8,Public,Middle,7-12,2.1,https://www.greatschools.org/arizona/phoenix/2630-Pinnacle-High-School/,"2024-11-22 14:21:59",507,NULL
+7988037,"Pinnacle High School",8,Public,Middle,7-12,0.5,https://www.greatschools.org/arizona/phoenix/2630-Pinnacle-High-School/,"2024-11-23 06:35:29",508,NULL
+7989582,"Pinnacle High School",8,Public,Middle,7-12,1.4,https://www.greatschools.org/arizona/phoenix/2630-Pinnacle-High-School/,"2024-11-23 06:35:29",509,NULL
+7985644,"Pinnacle High School",8,Public,Middle,7-12,0.6,https://www.greatschools.org/arizona/phoenix/2630-Pinnacle-High-School/,"2024-11-23 06:35:29",510,NULL
+7987297,"Pinnacle High School",8,Public,Middle,7-12,0.5,https://www.greatschools.org/arizona/phoenix/2630-Pinnacle-High-School/,"2024-11-23 06:35:29",511,NULL
+440006383,"Pinnacle High School",8,Public,Middle,7-12,1.9,https://www.greatschools.org/arizona/phoenix/2630-Pinnacle-High-School/,"2024-11-23 06:35:29",512,NULL
+68959627,"Horizon High School",7,Public,Middle,7-12,3.2,https://www.greatschools.org/arizona/scottsdale/793-Horizon-High-School/,"2024-11-23 06:36:42",513,NULL
+68959627,"Horizon High School",7,Public,Middle,7-12,3.2,https://www.greatschools.org/arizona/scottsdale/793-Horizon-High-School/,"2024-11-23 06:38:32",514,NULL
+68959627,"Horizon High School",7,Public,Middle,7-12,3.2,https://www.greatschools.org/arizona/scottsdale/793-Horizon-High-School/,"2024-11-23 06:39:45",515,NULL
+68959756,"Horizon High School",7,Public,Middle,7-12,3.2,https://www.greatschools.org/arizona/scottsdale/793-Horizon-High-School/,"2024-11-27 06:13:47",516,NULL
+8028544,"Horizon High School",7,Public,Middle,7-12,0.6,https://www.greatschools.org/arizona/scottsdale/793-Horizon-High-School/,"2024-11-22 11:25:39",517,NULL
+68959627,"Horizon High School",7,Public,Middle,7-12,3.2,https://www.greatschools.org/arizona/scottsdale/793-Horizon-High-School/,"2024-11-23 06:35:29",518,NULL
+7939079,"Deer Valley High School",6,Public,Middle,7-12,0.9,https://www.greatschools.org/arizona/glendale/569-Deer-Valley-High-School/,"2024-11-23 06:36:42",519,NULL
+7939079,"Deer Valley High School",6,Public,Middle,7-12,0.9,https://www.greatschools.org/arizona/glendale/569-Deer-Valley-High-School/,"2024-11-23 06:38:32",520,NULL
+7939079,"Deer Valley High School",6,Public,Middle,7-12,0.9,https://www.greatschools.org/arizona/glendale/569-Deer-Valley-High-School/,"2024-11-23 06:39:45",521,NULL
+7949475,"Deer Valley High School",6,Public,Middle,7-12,0.5,https://www.greatschools.org/arizona/glendale/569-Deer-Valley-High-School/,"2024-11-23 09:30:22",522,NULL
+7941807,"Deer Valley High School",6,Public,Middle,7-12,2.2,https://www.greatschools.org/arizona/glendale/569-Deer-Valley-High-School/,"2024-11-23 09:30:22",523,NULL
+7941311,"Deer Valley High School",6,Public,Middle,7-12,2.2,https://www.greatschools.org/arizona/glendale/569-Deer-Valley-High-School/,"2024-11-29 05:32:39",524,NULL
+7948072,"Deer Valley High School",6,Public,Middle,7-12,1.9,https://www.greatschools.org/arizona/glendale/569-Deer-Valley-High-School/,"2024-11-27 09:23:19",525,NULL
+7948557,"Deer Valley High School",6,Public,Middle,7-12,1.3,https://www.greatschools.org/arizona/glendale/569-Deer-Valley-High-School/,"2024-11-21 11:09:29",526,NULL
+7940592,"Deer Valley High School",6,Public,Middle,7-12,2.6,https://www.greatschools.org/arizona/glendale/569-Deer-Valley-High-School/,"2024-11-21 14:20:38",527,NULL
+7939079,"Deer Valley High School",6,Public,Middle,7-12,0.9,https://www.greatschools.org/arizona/glendale/569-Deer-Valley-High-School/,"2024-11-22 11:25:39",528,NULL
+7939079,"Deer Valley High School",6,Public,Middle,7-12,0.9,https://www.greatschools.org/arizona/glendale/569-Deer-Valley-High-School/,"2024-11-23 06:35:29",529,NULL
+28139394,"Smith Elementary School",1,Public,Elementary,1-5,0.8,https://www.greatschools.org/texas/houston/197-Smith-Academy/,"2024-11-21 11:09:29",530,12260
+2106642332,"Smith Elementary School",1,Public,Elementary,1-5,0.5,https://www.greatschools.org/texas/houston/197-Smith-Academy/,"2024-11-21 11:09:29",531,12279
+28449052,"Dunn Elementary School",1,Public,Elementary,1-5,1,https://www.greatschools.org/texas/houston/219-Dunn-Elementary-School/,"2024-11-24 05:51:59",532,NULL
+2057390567,"Boston Latin School",8,Public,Middle,7-12,0.6,https://www.greatschools.org/massachusetts/boston/231-Boston-Latin-School/,"2024-11-22 11:25:39",533,NULL
+2052844037,"Kelvyn Park High School",1,Public,Middle,7-12,0.7,https://www.greatschools.org/illinois/chicago/1203-Kelvyn-Park-High-School/,"2024-11-23 06:36:42",534,NULL
+2052844037,"Kelvyn Park High School",1,Public,Middle,7-12,0.7,https://www.greatschools.org/illinois/chicago/1203-Kelvyn-Park-High-School/,"2024-11-23 06:38:32",535,NULL
+2052844037,"Kelvyn Park High School",1,Public,Middle,7-12,0.7,https://www.greatschools.org/illinois/chicago/1203-Kelvyn-Park-High-School/,"2024-11-23 06:39:45",536,NULL
+441016204,"Kelvyn Park High School",1,Public,Middle,7-12,0.7,https://www.greatschools.org/illinois/chicago/1203-Kelvyn-Park-High-School/,"2024-11-24 05:51:59",537,NULL
+28449052,"Dunn Elementary School",1,Public,Elementary,1-5,1,https://www.greatschools.org/texas/houston/219-Dunn-Elementary-School/,"2024-11-25 05:33:30",538,NULL
+28154719,"Gray Elementary School",3,Public,Elementary,1-5,0.5,https://www.greatschools.org/texas/houston/220-Gray-Elementary-School/,"2024-11-29 05:32:39",539,NULL
+28412174,"Gray Elementary School",3,Public,Elementary,1-5,0.4,https://www.greatschools.org/texas/houston/220-Gray-Elementary-School/,"2024-11-28 06:03:26",540,NULL
+28412174,"Gray Elementary School",3,Public,Elementary,1-5,0.4,https://www.greatschools.org/texas/houston/220-Gray-Elementary-School/,"2024-11-27 06:13:47",541,NULL
+28140130,"Black Elementary School",2,Public,Elementary,1-5,0.4,https://www.greatschools.org/texas/houston/221-Black-Elementary-School/,"2024-11-27 06:13:47",542,NULL
+28140130,"Black Elementary School",2,Public,Elementary,1-5,0.4,https://www.greatschools.org/texas/houston/221-Black-Elementary-School/,"2024-11-26 06:02:41",543,NULL
+161441128,"Sheldon Lake Elementary School",4,Public,Elementary,1-5,0.4,https://www.greatschools.org/texas/houston/25809-NEW-Elementary-School/,"2024-11-28 06:03:26",544,NULL
+442842876,"Sheldon Lake Elementary School",4,Public,Elementary,1-5,2.3,https://www.greatschools.org/texas/houston/25809-NEW-Elementary-School/,"2024-11-26 06:02:41",545,NULL
+442842899,"Sheldon Lake Elementary School",4,Public,Elementary,1-5,2.3,https://www.greatschools.org/texas/houston/25809-NEW-Elementary-School/,"2024-11-26 06:02:41",546,NULL
+13373236,"Cory Elementary School",8,Public,Elementary,1-5,0.5,https://www.greatschools.org/colorado/denver/424-Cory-Elementary-School/,"2024-11-23 06:36:42",547,NULL
+13373236,"Cory Elementary School",8,Public,Elementary,1-5,0.5,https://www.greatschools.org/colorado/denver/424-Cory-Elementary-School/,"2024-11-23 06:38:32",548,NULL
+13373236,"Cory Elementary School",8,Public,Elementary,1-5,0.5,https://www.greatschools.org/colorado/denver/424-Cory-Elementary-School/,"2024-11-23 06:39:45",549,NULL
+13372689,"Cory Elementary School",8,Public,Elementary,1-5,0.3,https://www.greatschools.org/colorado/denver/424-Cory-Elementary-School/,"2024-11-23 09:30:22",550,NULL
+13372257,"Cory Elementary School",8,Public,Elementary,1-5,0.2,https://www.greatschools.org/colorado/denver/424-Cory-Elementary-School/,"2024-11-29 05:32:39",551,NULL
+13372257,"Cory Elementary School",8,Public,Elementary,1-5,0.2,https://www.greatschools.org/colorado/denver/424-Cory-Elementary-School/,"2024-11-28 06:03:26",552,NULL
+13372558,"Cory Elementary School",8,Public,Elementary,1-5,0.5,https://www.greatschools.org/colorado/denver/424-Cory-Elementary-School/,"2024-11-28 09:24:51",553,NULL
+13373236,"Cory Elementary School",8,Public,Elementary,1-5,0.5,https://www.greatschools.org/colorado/denver/424-Cory-Elementary-School/,"2024-11-23 06:35:29",554,NULL
+13372343,"Cory Elementary School",8,Public,Elementary,1-5,0.5,https://www.greatschools.org/colorado/denver/424-Cory-Elementary-School/,"2024-11-26 09:21:12",555,NULL
+13372981,"Cory Elementary School",8,Public,Elementary,1-5,0.1,https://www.greatschools.org/colorado/denver/424-Cory-Elementary-School/,"2024-11-26 09:21:12",556,NULL
+28144981,"Oleson Elementary School",4,Public,Elementary,1-5,0.3,https://www.greatschools.org/texas/houston/204-Oleson-Elementary-School/,"2024-11-20 23:54:07",557,11839
+28144981,"Oleson Elementary School",4,Public,Elementary,1-5,0.3,https://www.greatschools.org/texas/houston/204-Oleson-Elementary-School/,"2024-11-21 11:09:29",558,11839
+28309498,"Conley Elementary School",4,Public,Elementary,1-5,1.8,https://www.greatschools.org/texas/houston/217-Conley-Elementary-School/,"2024-11-29 05:32:39",559,NULL
+28309498,"Conley Elementary School",4,Public,Elementary,1-5,1.8,https://www.greatschools.org/texas/houston/217-Conley-Elementary-School/,"2024-11-28 06:03:26",560,NULL
+89636079,"Francis Elementary School",5,Public,Elementary,1-5,1.8,https://www.greatschools.org/texas/houston/193-Francis-Elementary-School/,"2024-11-23 06:36:42",561,NULL
+89636079,"Francis Elementary School",5,Public,Elementary,1-5,1.8,https://www.greatschools.org/texas/houston/193-Francis-Elementary-School/,"2024-11-23 06:38:32",562,NULL
+89636079,"Francis Elementary School",5,Public,Elementary,1-5,1.8,https://www.greatschools.org/texas/houston/193-Francis-Elementary-School/,"2024-11-23 06:39:45",563,NULL
+89636079,"Francis Elementary School",5,Public,Elementary,1-5,1.8,https://www.greatschools.org/texas/houston/193-Francis-Elementary-School/,"2024-11-22 11:25:39",564,NULL
+89636079,"Francis Elementary School",5,Public,Elementary,1-5,1.8,https://www.greatschools.org/texas/houston/193-Francis-Elementary-School/,"2024-11-23 06:35:29",565,NULL
+2054182221,"Kelvyn Park High School",1,Public,Middle,7-12,1.1,https://www.greatschools.org/illinois/chicago/1203-Kelvyn-Park-High-School/,"2024-11-27 06:13:47",566,NULL
+28117855,"Goodman Elementary School",6,Public,Elementary,1-5,0.1,https://www.greatschools.org/texas/houston/195-Goodman-Elementary-School/,"2024-11-29 05:32:39",567,NULL
+28117855,"Goodman Elementary School",6,Public,Elementary,1-5,0.1,https://www.greatschools.org/texas/houston/195-Goodman-Elementary-School/,"2024-11-28 06:03:26",568,NULL
+3672145,"Kelvyn Park High School",1,Public,Middle,7-12,0.3,https://www.greatschools.org/illinois/chicago/1203-Kelvyn-Park-High-School/,"2024-11-21 11:09:29",569,10985
+343983218,"Johnson Elementary School",3,Public,Elementary,1-5,1,https://www.greatschools.org/texas/houston/198-Johnson-Elementary-School/,"2024-11-23 06:36:42",570,NULL
+3672145,"Kelvyn Park High School",1,Public,Middle,7-12,0.3,https://www.greatschools.org/illinois/chicago/1203-Kelvyn-Park-High-School/,"2024-11-22 11:25:39",571,10985
+343983218,"Johnson Elementary School",3,Public,Elementary,1-5,1,https://www.greatschools.org/texas/houston/198-Johnson-Elementary-School/,"2024-11-23 06:38:32",572,NULL
+54533066,"Kelvyn Park High School",1,Public,Middle,7-12,1.3,https://www.greatschools.org/illinois/chicago/1203-Kelvyn-Park-High-School/,"2024-11-22 11:25:39",573,NULL
+343983218,"Johnson Elementary School",3,Public,Elementary,1-5,1,https://www.greatschools.org/texas/houston/198-Johnson-Elementary-School/,"2024-11-23 06:39:45",574,NULL
+27898655,"Johnson Elementary School",3,Public,Elementary,1-5,1,https://www.greatschools.org/texas/houston/198-Johnson-Elementary-School/,"2024-11-29 05:32:39",575,NULL
+3687265,"Kelvyn Park High School",1,Public,Middle,7-12,0.9,https://www.greatschools.org/illinois/chicago/1203-Kelvyn-Park-High-School/,"2024-11-22 11:25:39",576,NULL
+27898655,"Johnson Elementary School",3,Public,Elementary,1-5,1,https://www.greatschools.org/texas/houston/198-Johnson-Elementary-School/,"2024-11-28 06:03:26",577,NULL
+2052844037,"Kelvyn Park High School",1,Public,Middle,7-12,0.7,https://www.greatschools.org/illinois/chicago/1203-Kelvyn-Park-High-School/,"2024-11-23 06:35:29",578,NULL
+343983218,"Johnson Elementary School",3,Public,Elementary,1-5,1,https://www.greatschools.org/texas/houston/198-Johnson-Elementary-School/,"2024-11-22 11:25:39",579,NULL
+441016204,"Kelvyn Park High School",1,Public,Middle,7-12,0.7,https://www.greatschools.org/illinois/chicago/1203-Kelvyn-Park-High-School/,"2024-11-25 05:33:30",580,NULL
+343983218,"Johnson Elementary School",3,Public,Elementary,1-5,1,https://www.greatschools.org/texas/houston/198-Johnson-Elementary-School/,"2024-11-23 06:35:29",581,NULL
+4150500,"Morgan Park High School",3,Public,Middle,7-12,1,https://www.greatschools.org/illinois/chicago/1269-Morgan-Park-High-School/,"2024-11-23 06:36:42",582,NULL
+80584477,"Sammons Elementary School",6,Public,Elementary,1-5,0.7,https://www.greatschools.org/texas/houston/207-Sammons-Elementary-School/,"2024-11-20 23:54:07",583,NULL
+4144510,"Morgan Park High School",3,Public,Middle,7-12,0.5,https://www.greatschools.org/illinois/chicago/1269-Morgan-Park-High-School/,"2024-11-23 06:36:42",584,NULL
+442945213,"Sammons Elementary School",6,Public,Elementary,1-5,0.7,https://www.greatschools.org/texas/houston/207-Sammons-Elementary-School/,"2024-11-27 06:13:47",585,NULL
+442766168,"Sammons Elementary School",6,Public,Elementary,1-5,0.7,https://www.greatschools.org/texas/houston/207-Sammons-Elementary-School/,"2024-11-22 11:25:39",586,NULL
+442765610,"Sammons Elementary School",6,Public,Elementary,1-5,0.7,https://www.greatschools.org/texas/houston/207-Sammons-Elementary-School/,"2024-11-22 11:25:39",587,NULL
+442988247,"Calvert Elementary School",6,Public,Elementary,1-5,2.9,https://www.greatschools.org/texas/houston/236-Calvert-Elementary-School/,"2024-11-28 06:03:26",588,NULL
+80516036,"Calvert Elementary School",6,Public,Elementary,1-5,2.8,https://www.greatschools.org/texas/houston/236-Calvert-Elementary-School/,"2024-11-27 06:13:47",589,NULL
+62594717,"Spence Elementary School",1,Public,Elementary,1-5,0.2,https://www.greatschools.org/texas/houston/10856-Spence-Elementary-School/,"2024-11-26 06:02:41",590,NULL
+4143645,"Morgan Park High School",3,Public,Middle,7-12,0.7,https://www.greatschools.org/illinois/chicago/1269-Morgan-Park-High-School/,"2024-11-23 06:36:42",591,NULL
+70478815,"Morgan Park High School",3,Public,Middle,7-12,0.7,https://www.greatschools.org/illinois/chicago/1269-Morgan-Park-High-School/,"2024-11-23 06:36:42",592,NULL
+4096307,"Morgan Park High School",3,Public,Middle,7-12,0.4,https://www.greatschools.org/illinois/chicago/1269-Morgan-Park-High-School/,"2024-11-23 06:36:42",593,NULL
+159160047,"Morgan Park High School",3,Public,Middle,7-12,0.8,https://www.greatschools.org/illinois/chicago/1269-Morgan-Park-High-School/,"2024-11-23 06:36:42",594,NULL
+4144510,"Morgan Park High School",3,Public,Middle,7-12,0.5,https://www.greatschools.org/illinois/chicago/1269-Morgan-Park-High-School/,"2024-11-23 06:38:32",595,NULL
+28035039,"Tinsley Elementary School",4,Public,Elementary,1-5,0.2,https://www.greatschools.org/texas/houston/9011-Tinsley-Elementary-School/,"2024-11-21 11:09:29",596,12380
+70478815,"Morgan Park High School",3,Public,Middle,7-12,0.7,https://www.greatschools.org/illinois/chicago/1269-Morgan-Park-High-School/,"2024-11-23 06:38:32",597,NULL
+4150500,"Morgan Park High School",3,Public,Middle,7-12,1,https://www.greatschools.org/illinois/chicago/1269-Morgan-Park-High-School/,"2024-11-23 06:38:32",598,NULL
+28035039,"Tinsley Elementary School",4,Public,Elementary,1-5,0.2,https://www.greatschools.org/texas/houston/9011-Tinsley-Elementary-School/,"2024-11-22 11:25:39",599,12380
+4096307,"Morgan Park High School",3,Public,Middle,7-12,0.4,https://www.greatschools.org/illinois/chicago/1269-Morgan-Park-High-School/,"2024-11-23 06:38:32",600,NULL
+27291929,"Sheffield Elementary School",3,Public,Elementary,1-5,0.1,https://www.greatschools.org/texas/dallas/1206-Sheffield-Elementary-School/,"2024-11-23 06:36:42",601,NULL
+27291929,"Sheffield Elementary School",3,Public,Elementary,1-5,0.1,https://www.greatschools.org/texas/dallas/1206-Sheffield-Elementary-School/,"2024-11-23 06:38:32",602,NULL
+159160047,"Morgan Park High School",3,Public,Middle,7-12,0.8,https://www.greatschools.org/illinois/chicago/1269-Morgan-Park-High-School/,"2024-11-23 06:38:32",603,NULL
+27291929,"Sheffield Elementary School",3,Public,Elementary,1-5,0.1,https://www.greatschools.org/texas/dallas/1206-Sheffield-Elementary-School/,"2024-11-23 06:39:45",604,NULL
+4143645,"Morgan Park High School",3,Public,Middle,7-12,0.7,https://www.greatschools.org/illinois/chicago/1269-Morgan-Park-High-School/,"2024-11-23 06:38:32",605,NULL
+4143645,"Morgan Park High School",3,Public,Middle,7-12,0.7,https://www.greatschools.org/illinois/chicago/1269-Morgan-Park-High-School/,"2024-11-23 06:39:45",606,NULL
+27291929,"Sheffield Elementary School",3,Public,Elementary,1-5,0.1,https://www.greatschools.org/texas/dallas/1206-Sheffield-Elementary-School/,"2024-11-22 11:25:39",607,NULL
+27338340,"Sheffield Elementary School",3,Public,Elementary,1-5,0.2,https://www.greatschools.org/texas/dallas/1206-Sheffield-Elementary-School/,"2024-11-22 11:25:39",608,NULL
+27291929,"Sheffield Elementary School",3,Public,Elementary,1-5,0.1,https://www.greatschools.org/texas/dallas/1206-Sheffield-Elementary-School/,"2024-11-23 06:35:29",609,NULL
+27338476,"Sheffield Elementary School",3,Public,Elementary,1-5,0.2,https://www.greatschools.org/texas/dallas/1206-Sheffield-Elementary-School/,"2024-11-26 09:21:12",610,NULL
+89639321,"Sheldon Elementary School",6,Public,Elementary,1-5,2.6,https://www.greatschools.org/texas/houston/10298-Sheldon-Elementary-School/,"2024-11-29 05:32:39",611,NULL
+89635548,"Garrett Elementary School",3,Public,Elementary,1-5,3.1,https://www.greatschools.org/texas/houston/20201-Garrett-Elementary-School/,"2024-11-20 23:54:07",612,NULL
+4150500,"Morgan Park High School",3,Public,Middle,7-12,1,https://www.greatschools.org/illinois/chicago/1269-Morgan-Park-High-School/,"2024-11-23 06:39:45",613,NULL
+4096307,"Morgan Park High School",3,Public,Middle,7-12,0.4,https://www.greatschools.org/illinois/chicago/1269-Morgan-Park-High-School/,"2024-11-23 06:39:45",614,NULL
+159160047,"Morgan Park High School",3,Public,Middle,7-12,0.8,https://www.greatschools.org/illinois/chicago/1269-Morgan-Park-High-School/,"2024-11-23 06:39:45",615,NULL
+70478815,"Morgan Park High School",3,Public,Middle,7-12,0.7,https://www.greatschools.org/illinois/chicago/1269-Morgan-Park-High-School/,"2024-11-23 06:39:45",616,NULL
+4144510,"Morgan Park High School",3,Public,Middle,7-12,0.5,https://www.greatschools.org/illinois/chicago/1269-Morgan-Park-High-School/,"2024-11-23 06:39:45",617,NULL
+4126650,"Morgan Park High School",3,Public,Middle,7-12,0.2,https://www.greatschools.org/illinois/chicago/1269-Morgan-Park-High-School/,"2024-11-24 05:51:59",618,NULL
+4081290,"Morgan Park High School",3,Public,Middle,7-12,0.7,https://www.greatschools.org/illinois/chicago/1269-Morgan-Park-High-School/,"2024-11-24 05:51:59",619,NULL
+4097346,"Morgan Park High School",3,Public,Middle,7-12,0.4,https://www.greatschools.org/illinois/chicago/1269-Morgan-Park-High-School/,"2024-11-24 05:51:59",620,NULL
+4096307,"Morgan Park High School",3,Public,Middle,7-12,0.4,https://www.greatschools.org/illinois/chicago/1269-Morgan-Park-High-School/,"2024-11-24 05:51:59",621,NULL
+4079437,"Morgan Park High School",3,Public,Middle,7-12,0.3,https://www.greatschools.org/illinois/chicago/1269-Morgan-Park-High-School/,"2024-11-24 05:51:59",622,NULL
+4123056,"Morgan Park High School",3,Public,Middle,7-12,0.3,https://www.greatschools.org/illinois/chicago/1269-Morgan-Park-High-School/,"2024-11-20 23:54:07",623,10957
+4147498,"Morgan Park High School",3,Public,Middle,7-12,0.4,https://www.greatschools.org/illinois/chicago/1269-Morgan-Park-High-School/,"2024-11-20 23:54:07",624,NULL
+4126377,"Morgan Park High School",3,Public,Middle,7-12,0.2,https://www.greatschools.org/illinois/chicago/1269-Morgan-Park-High-School/,"2024-11-20 23:54:07",625,10892
+4078079,"Morgan Park High School",3,Public,Middle,7-12,0.8,https://www.greatschools.org/illinois/chicago/1269-Morgan-Park-High-School/,"2024-11-20 23:54:07",626,11010
+4126887,"Morgan Park High School",3,Public,Middle,7-12,0.6,https://www.greatschools.org/illinois/chicago/1269-Morgan-Park-High-School/,"2024-11-20 23:54:07",627,NULL
+4146192,"Morgan Park High School",3,Public,Middle,7-12,0.6,https://www.greatschools.org/illinois/chicago/1269-Morgan-Park-High-School/,"2024-11-21 00:25:47",628,2250
+4146192,"Morgan Park High School",3,Public,Middle,7-12,0.6,https://www.greatschools.org/illinois/chicago/1269-Morgan-Park-High-School/,"2024-11-21 00:24:35",629,2250
+4146192,"Morgan Park High School",3,Public,Middle,7-12,0.6,https://www.greatschools.org/illinois/chicago/1269-Morgan-Park-High-School/,"2024-11-21 00:21:30",630,2250
+4146192,"Morgan Park High School",3,Public,Middle,7-12,0.6,https://www.greatschools.org/illinois/chicago/1269-Morgan-Park-High-School/,"2024-11-21 00:22:43",631,2250
+4126758,"Morgan Park High School",3,Public,Middle,7-12,0.2,https://www.greatschools.org/illinois/chicago/1269-Morgan-Park-High-School/,"2024-11-29 05:32:39",632,NULL
+4128701,"Morgan Park High School",3,Public,Middle,7-12,1.3,https://www.greatschools.org/illinois/chicago/1269-Morgan-Park-High-School/,"2024-11-27 06:13:47",633,NULL
+4126199,"Morgan Park High School",3,Public,Middle,7-12,0.9,https://www.greatschools.org/illinois/chicago/1269-Morgan-Park-High-School/,"2024-11-28 09:24:51",634,NULL
+4144692,"Morgan Park High School",3,Public,Middle,7-12,0.7,https://www.greatschools.org/illinois/chicago/1269-Morgan-Park-High-School/,"2024-11-28 09:24:51",635,NULL
+4143710,"Morgan Park High School",3,Public,Middle,7-12,0.7,https://www.greatschools.org/illinois/chicago/1269-Morgan-Park-High-School/,"2024-11-28 09:24:51",636,NULL
+4125364,"Morgan Park High School",3,Public,Middle,7-12,0.4,https://www.greatschools.org/illinois/chicago/1269-Morgan-Park-High-School/,"2024-11-27 09:23:19",637,NULL
+122566689,"Garrett Elementary School",3,Public,Elementary,1-5,3.6,https://www.greatschools.org/texas/houston/20201-Garrett-Elementary-School/,"2024-11-20 23:54:07",638,11810
+4078079,"Morgan Park High School",3,Public,Middle,7-12,0.8,https://www.greatschools.org/illinois/chicago/1269-Morgan-Park-High-School/,"2024-11-21 11:09:29",639,11010
+122566689,"Garrett Elementary School",3,Public,Elementary,1-5,3.6,https://www.greatschools.org/texas/houston/20201-Garrett-Elementary-School/,"2024-11-21 11:09:29",640,11810
+28276807,"Garrett Elementary School",3,Public,Elementary,1-5,1,https://www.greatschools.org/texas/houston/20201-Garrett-Elementary-School/,"2024-11-22 11:25:39",641,NULL
+70317353,"Garrett Elementary School",3,Public,Elementary,1-5,1,https://www.greatschools.org/texas/houston/20201-Garrett-Elementary-School/,"2024-11-25 05:33:30",642,NULL
+80537244,"Carmichael Elementary School",5,Public,Elementary,1-5,3,https://www.greatschools.org/texas/houston/186-Carmichael-Elementary-School/,"2024-11-20 23:54:07",643,NULL
+58677329,"Carmichael Elementary School",5,Public,Elementary,1-5,3.9,https://www.greatschools.org/texas/houston/186-Carmichael-Elementary-School/,"2024-11-29 05:32:39",644,NULL
+27601436,"Ridgemont Elementary School",3,Public,Elementary,1-5,0.1,https://www.greatschools.org/texas/houston/2556-Ridgemont-Elementary-School/,"2024-11-20 23:54:07",645,13071
+27601436,"Ridgemont Elementary School",3,Public,Elementary,1-5,0.1,https://www.greatschools.org/texas/houston/2556-Ridgemont-Elementary-School/,"2024-11-21 11:09:29",646,13071
+439283371,"Escamilla Elementary School",3,Public,Elementary,1-5,2,https://www.greatschools.org/texas/houston/25675-ESCAMILLA-Elementary-School/,"2024-11-21 11:09:29",647,12479
+118269469,"Archuleta Elementary School",5,Public,Elementary,1-5,1.6,https://www.greatschools.org/colorado/denver/2022-Archuleta-Elementary-School/,"2024-11-23 06:36:42",648,NULL
+118269469,"Archuleta Elementary School",5,Public,Elementary,1-5,1.6,https://www.greatschools.org/colorado/denver/2022-Archuleta-Elementary-School/,"2024-11-23 06:38:32",649,NULL
+118269469,"Archuleta Elementary School",5,Public,Elementary,1-5,1.6,https://www.greatschools.org/colorado/denver/2022-Archuleta-Elementary-School/,"2024-11-23 06:39:45",650,NULL
+118269469,"Archuleta Elementary School",5,Public,Elementary,1-5,1.6,https://www.greatschools.org/colorado/denver/2022-Archuleta-Elementary-School/,"2024-11-24 05:51:59",651,NULL
+440405599,"Archuleta Elementary School",5,Public,Elementary,1-5,1.5,https://www.greatschools.org/colorado/denver/2022-Archuleta-Elementary-School/,"2024-11-20 23:54:07",652,NULL
+123600786,"Archuleta Elementary School",5,Public,Elementary,1-5,1.9,https://www.greatschools.org/colorado/denver/2022-Archuleta-Elementary-School/,"2024-11-20 23:54:07",653,NULL
+337911809,"Archuleta Elementary School",5,Public,Elementary,1-5,1.6,https://www.greatschools.org/colorado/denver/2022-Archuleta-Elementary-School/,"2024-11-28 06:03:26",654,NULL
+123600463,"Archuleta Elementary School",5,Public,Elementary,1-5,1.8,https://www.greatschools.org/colorado/denver/2022-Archuleta-Elementary-School/,"2024-11-28 09:24:51",655,NULL
+118269469,"Archuleta Elementary School",5,Public,Elementary,1-5,1.6,https://www.greatschools.org/colorado/denver/2022-Archuleta-Elementary-School/,"2024-11-23 06:35:29",656,NULL
+168927082,"W M Pearce Primary School",6,Public,Elementary,1-5,1.7,https://www.greatschools.org/texas/san-antonio/6379-W-M-Pearce-Primary-School/,"2024-11-23 06:36:42",657,NULL
+168927082,"W M Pearce Primary School",6,Public,Elementary,1-5,1.7,https://www.greatschools.org/texas/san-antonio/6379-W-M-Pearce-Primary-School/,"2024-11-23 06:38:32",658,NULL
+4078287,"Morgan Park High School",3,Public,Middle,7-12,0.8,https://www.greatschools.org/illinois/chicago/1269-Morgan-Park-High-School/,"2024-11-21 11:09:29",659,11003
+4126377,"Morgan Park High School",3,Public,Middle,7-12,0.2,https://www.greatschools.org/illinois/chicago/1269-Morgan-Park-High-School/,"2024-11-21 11:09:29",660,10892
+4123056,"Morgan Park High School",3,Public,Middle,7-12,0.3,https://www.greatschools.org/illinois/chicago/1269-Morgan-Park-High-School/,"2024-11-21 11:09:29",661,10957
+4146192,"Morgan Park High School",3,Public,Middle,7-12,0.6,https://www.greatschools.org/illinois/chicago/1269-Morgan-Park-High-School/,"2024-11-21 14:20:38",662,2250
+4150500,"Morgan Park High School",3,Public,Middle,7-12,1,https://www.greatschools.org/illinois/chicago/1269-Morgan-Park-High-School/,"2024-11-22 11:25:39",663,NULL
+4144510,"Morgan Park High School",3,Public,Middle,7-12,0.5,https://www.greatschools.org/illinois/chicago/1269-Morgan-Park-High-School/,"2024-11-22 11:25:39",664,NULL
+4078287,"Morgan Park High School",3,Public,Middle,7-12,0.8,https://www.greatschools.org/illinois/chicago/1269-Morgan-Park-High-School/,"2024-11-22 11:25:39",665,11003
+4148575,"Morgan Park High School",3,Public,Middle,7-12,0.4,https://www.greatschools.org/illinois/chicago/1269-Morgan-Park-High-School/,"2024-11-22 11:25:39",666,NULL
+4096307,"Morgan Park High School",3,Public,Middle,7-12,0.4,https://www.greatschools.org/illinois/chicago/1269-Morgan-Park-High-School/,"2024-11-23 06:35:29",667,NULL
+4144510,"Morgan Park High School",3,Public,Middle,7-12,0.5,https://www.greatschools.org/illinois/chicago/1269-Morgan-Park-High-School/,"2024-11-23 06:35:29",668,NULL
+4150500,"Morgan Park High School",3,Public,Middle,7-12,1,https://www.greatschools.org/illinois/chicago/1269-Morgan-Park-High-School/,"2024-11-23 06:35:29",669,NULL
+70478815,"Morgan Park High School",3,Public,Middle,7-12,0.7,https://www.greatschools.org/illinois/chicago/1269-Morgan-Park-High-School/,"2024-11-23 06:35:29",670,NULL
+4143645,"Morgan Park High School",3,Public,Middle,7-12,0.7,https://www.greatschools.org/illinois/chicago/1269-Morgan-Park-High-School/,"2024-11-23 06:35:29",671,NULL
+159160047,"Morgan Park High School",3,Public,Middle,7-12,0.8,https://www.greatschools.org/illinois/chicago/1269-Morgan-Park-High-School/,"2024-11-23 06:35:29",672,NULL
+4146325,"Morgan Park High School",3,Public,Middle,7-12,0.7,https://www.greatschools.org/illinois/chicago/1269-Morgan-Park-High-School/,"2024-11-26 09:21:12",673,NULL
+4097268,"Morgan Park High School",3,Public,Middle,7-12,0.2,https://www.greatschools.org/illinois/chicago/1269-Morgan-Park-High-School/,"2024-11-26 09:21:12",674,NULL
+442748111,"Morgan Park High School",3,Public,Middle,7-12,1.1,https://www.greatschools.org/illinois/chicago/1269-Morgan-Park-High-School/,"2024-11-25 05:33:30",675,NULL
+442748111,"Morgan Park High School",3,Public,Middle,7-12,1.1,https://www.greatschools.org/illinois/chicago/1269-Morgan-Park-High-School/,"2024-11-26 06:02:41",676,NULL
+4100080,"Morgan Park High School",3,Public,Middle,7-12,1.3,https://www.greatschools.org/illinois/chicago/1269-Morgan-Park-High-School/,"2024-11-26 06:02:41",677,NULL
+4150229,"Morgan Park High School",3,Public,Middle,7-12,0.8,https://www.greatschools.org/illinois/chicago/1269-Morgan-Park-High-School/,"2024-11-26 06:02:41",678,NULL
+59105832,"Boston Latin Academy",7,Public,Middle,7-12,0.5,https://www.greatschools.org/massachusetts/boston/232-Boston-Latin-Academy/,"2024-11-23 06:36:42",679,NULL
+59105832,"Boston Latin Academy",7,Public,Middle,7-12,0.5,https://www.greatschools.org/massachusetts/boston/232-Boston-Latin-Academy/,"2024-11-23 06:38:32",680,NULL
+59105832,"Boston Latin Academy",7,Public,Middle,7-12,0.5,https://www.greatschools.org/massachusetts/boston/232-Boston-Latin-Academy/,"2024-11-23 06:39:45",681,NULL
+442737111,"Boston Latin Academy",7,Public,Middle,7-12,0.5,https://www.greatschools.org/massachusetts/boston/232-Boston-Latin-Academy/,"2024-11-20 23:54:07",682,3766
+442737109,"Boston Latin Academy",7,Public,Middle,7-12,0.5,https://www.greatschools.org/massachusetts/boston/232-Boston-Latin-Academy/,"2024-11-20 23:54:07",683,3779
+59106657,"Boston Latin Academy",7,Public,Middle,7-12,0.5,https://www.greatschools.org/massachusetts/boston/232-Boston-Latin-Academy/,"2024-11-20 23:54:07",684,3758
+442737110,"Boston Latin Academy",7,Public,Middle,7-12,0.5,https://www.greatschools.org/massachusetts/boston/232-Boston-Latin-Academy/,"2024-11-20 23:54:07",685,3744
+442968202,"Boston Latin Academy",7,Public,Middle,7-12,0.3,https://www.greatschools.org/massachusetts/boston/232-Boston-Latin-Academy/,"2024-11-28 09:24:51",686,NULL
+442737111,"Boston Latin Academy",7,Public,Middle,7-12,0.5,https://www.greatschools.org/massachusetts/boston/232-Boston-Latin-Academy/,"2024-11-21 11:09:29",687,3766
+59106657,"Boston Latin Academy",7,Public,Middle,7-12,0.5,https://www.greatschools.org/massachusetts/boston/232-Boston-Latin-Academy/,"2024-11-21 11:09:29",688,3758
+442737109,"Boston Latin Academy",7,Public,Middle,7-12,0.5,https://www.greatschools.org/massachusetts/boston/232-Boston-Latin-Academy/,"2024-11-21 11:09:29",689,3779
+442737110,"Boston Latin Academy",7,Public,Middle,7-12,0.5,https://www.greatschools.org/massachusetts/boston/232-Boston-Latin-Academy/,"2024-11-21 11:09:29",690,3744
+442737110,"Boston Latin Academy",7,Public,Middle,7-12,0.5,https://www.greatschools.org/massachusetts/boston/232-Boston-Latin-Academy/,"2024-11-22 11:25:39",691,3744
+442737109,"Boston Latin Academy",7,Public,Middle,7-12,0.5,https://www.greatschools.org/massachusetts/boston/232-Boston-Latin-Academy/,"2024-11-22 11:25:39",692,3779
+442756419,"Boston Latin Academy",7,Public,Middle,7-12,0.4,https://www.greatschools.org/massachusetts/boston/232-Boston-Latin-Academy/,"2024-11-22 11:25:39",693,NULL
+442737111,"Boston Latin Academy",7,Public,Middle,7-12,0.5,https://www.greatschools.org/massachusetts/boston/232-Boston-Latin-Academy/,"2024-11-22 11:25:39",694,3766
+442756420,"Boston Latin Academy",7,Public,Middle,7-12,0.4,https://www.greatschools.org/massachusetts/boston/232-Boston-Latin-Academy/,"2024-11-22 11:25:39",695,NULL
+59105832,"Boston Latin Academy",7,Public,Middle,7-12,0.5,https://www.greatschools.org/massachusetts/boston/232-Boston-Latin-Academy/,"2024-11-23 06:35:29",696,NULL
+380500814,"Boston Latin Academy",7,Public,Middle,7-12,0.7,https://www.greatschools.org/massachusetts/boston/232-Boston-Latin-Academy/,"2024-11-26 06:02:41",697,NULL
+59091490,"Brighton High School",2,Public,Middle,7-12,0.3,https://www.greatschools.org/massachusetts/boston/234-Brighton-High-School/,"2024-11-23 09:30:22",698,NULL
+442738621,"Brighton High School",2,Public,Middle,7-12,0.3,https://www.greatschools.org/massachusetts/boston/234-Brighton-High-School/,"2024-11-20 23:54:07",699,NULL
+2055838571,"Brighton High School",2,Public,Middle,7-12,0.1,https://www.greatschools.org/massachusetts/boston/234-Brighton-High-School/,"2024-11-20 23:54:07",700,NULL
+2055838571,"Brighton High School",2,Public,Middle,7-12,0.1,https://www.greatschools.org/massachusetts/boston/234-Brighton-High-School/,"2024-11-21 11:09:29",701,NULL
+442752141,"Brighton High School",2,Public,Middle,7-12,0.3,https://www.greatschools.org/massachusetts/boston/234-Brighton-High-School/,"2024-11-21 11:09:29",702,3796
+442738621,"Brighton High School",2,Public,Middle,7-12,0.3,https://www.greatschools.org/massachusetts/boston/234-Brighton-High-School/,"2024-11-21 11:09:29",703,NULL
+168927082,"W M Pearce Primary School",6,Public,Elementary,1-5,1.7,https://www.greatschools.org/texas/san-antonio/6379-W-M-Pearce-Primary-School/,"2024-11-23 06:39:45",704,NULL
+2098327074,"Brighton High School",2,Public,Middle,7-12,0.5,https://www.greatschools.org/massachusetts/boston/234-Brighton-High-School/,"2024-11-21 11:09:29",705,3786
+59094021,"Brighton High School",2,Public,Middle,7-12,0.8,https://www.greatschools.org/massachusetts/boston/234-Brighton-High-School/,"2024-11-21 11:09:29",706,3763
+168927082,"W M Pearce Primary School",6,Public,Elementary,1-5,1.7,https://www.greatschools.org/texas/san-antonio/6379-W-M-Pearce-Primary-School/,"2024-11-24 05:51:59",707,NULL
+2053931348,"W M Pearce Primary School",6,Public,Elementary,1-5,2.7,https://www.greatschools.org/texas/san-antonio/6379-W-M-Pearce-Primary-School/,"2024-11-29 05:32:39",708,NULL
+2053940731,"W M Pearce Primary School",6,Public,Elementary,1-5,2.8,https://www.greatschools.org/texas/san-antonio/6379-W-M-Pearce-Primary-School/,"2024-11-28 06:03:26",709,NULL
+2053931348,"W M Pearce Primary School",6,Public,Elementary,1-5,2.7,https://www.greatschools.org/texas/san-antonio/6379-W-M-Pearce-Primary-School/,"2024-11-28 06:03:26",710,NULL
+2053931340,"W M Pearce Primary School",6,Public,Elementary,1-5,2.7,https://www.greatschools.org/texas/san-antonio/6379-W-M-Pearce-Primary-School/,"2024-11-27 06:13:47",711,NULL
+59094485,"Brighton High School",2,Public,Middle,7-12,0.8,https://www.greatschools.org/massachusetts/boston/234-Brighton-High-School/,"2024-11-22 11:25:39",712,NULL
+34220751,"Hughes STEM  High School",3,Public,Middle,7-12,1.3,https://www.greatschools.org/ohio/cincinnati/9848-Hughes-STEM--High-School/,"2024-11-23 06:36:42",713,NULL
+34223961,"Hughes STEM  High School",3,Public,Middle,7-12,2.5,https://www.greatschools.org/ohio/cincinnati/9848-Hughes-STEM--High-School/,"2024-11-23 06:36:42",714,NULL
+34228050,"Hughes STEM  High School",3,Public,Middle,7-12,1.1,https://www.greatschools.org/ohio/cincinnati/9848-Hughes-STEM--High-School/,"2024-11-23 06:36:42",715,NULL
+2072925462,"Hughes STEM  High School",3,Public,Middle,7-12,3,https://www.greatschools.org/ohio/cincinnati/9848-Hughes-STEM--High-School/,"2024-11-23 06:36:42",716,NULL
+34220751,"Hughes STEM  High School",3,Public,Middle,7-12,1.3,https://www.greatschools.org/ohio/cincinnati/9848-Hughes-STEM--High-School/,"2024-11-23 06:38:32",717,NULL
+34223961,"Hughes STEM  High School",3,Public,Middle,7-12,2.5,https://www.greatschools.org/ohio/cincinnati/9848-Hughes-STEM--High-School/,"2024-11-23 06:38:32",718,NULL
+34228050,"Hughes STEM  High School",3,Public,Middle,7-12,1.1,https://www.greatschools.org/ohio/cincinnati/9848-Hughes-STEM--High-School/,"2024-11-23 06:38:32",719,NULL
+2072925462,"Hughes STEM  High School",3,Public,Middle,7-12,3,https://www.greatschools.org/ohio/cincinnati/9848-Hughes-STEM--High-School/,"2024-11-23 06:38:32",720,NULL
+34220751,"Hughes STEM  High School",3,Public,Middle,7-12,1.3,https://www.greatschools.org/ohio/cincinnati/9848-Hughes-STEM--High-School/,"2024-11-23 06:39:45",721,NULL
+34223961,"Hughes STEM  High School",3,Public,Middle,7-12,2.5,https://www.greatschools.org/ohio/cincinnati/9848-Hughes-STEM--High-School/,"2024-11-23 06:39:45",722,NULL
+2072925462,"Hughes STEM  High School",3,Public,Middle,7-12,3,https://www.greatschools.org/ohio/cincinnati/9848-Hughes-STEM--High-School/,"2024-11-23 06:39:45",723,NULL
+34228050,"Hughes STEM  High School",3,Public,Middle,7-12,1.1,https://www.greatschools.org/ohio/cincinnati/9848-Hughes-STEM--High-School/,"2024-11-23 06:39:45",724,NULL
+309909295,"Hughes STEM  High School",3,Public,Middle,7-12,2.6,https://www.greatschools.org/ohio/cincinnati/9848-Hughes-STEM--High-School/,"2024-11-23 09:30:22",725,NULL
+110065161,"Hughes STEM  High School",3,Public,Middle,7-12,1.6,https://www.greatschools.org/ohio/cincinnati/9848-Hughes-STEM--High-School/,"2024-11-24 05:51:59",726,NULL
+110059402,"Hughes STEM  High School",3,Public,Middle,7-12,1.6,https://www.greatschools.org/ohio/cincinnati/9848-Hughes-STEM--High-School/,"2024-11-24 05:51:59",727,NULL
+2053940731,"W M Pearce Primary School",6,Public,Elementary,1-5,2.8,https://www.greatschools.org/texas/san-antonio/6379-W-M-Pearce-Primary-School/,"2024-11-27 06:13:47",728,NULL
+168927082,"W M Pearce Primary School",6,Public,Elementary,1-5,1.7,https://www.greatschools.org/texas/san-antonio/6379-W-M-Pearce-Primary-School/,"2024-11-23 06:35:29",729,NULL
+2053931344,"W M Pearce Primary School",6,Public,Elementary,1-5,2.7,https://www.greatschools.org/texas/san-antonio/6379-W-M-Pearce-Primary-School/,"2024-11-26 06:02:41",730,NULL
+245769595,"H M Carroll Elementary School",6,Public,Elementary,1-5,0.5,https://www.greatschools.org/texas/houston/19244-H-M-Carroll-Elementary-School/,"2024-11-23 06:36:42",731,NULL
+245769595,"H M Carroll Elementary School",6,Public,Elementary,1-5,0.5,https://www.greatschools.org/texas/houston/19244-H-M-Carroll-Elementary-School/,"2024-11-23 06:38:32",732,NULL
+245769595,"H M Carroll Elementary School",6,Public,Elementary,1-5,0.5,https://www.greatschools.org/texas/houston/19244-H-M-Carroll-Elementary-School/,"2024-11-23 06:39:45",733,NULL
+309909418,"Hughes STEM  High School",3,Public,Middle,7-12,2.4,https://www.greatschools.org/ohio/cincinnati/9848-Hughes-STEM--High-School/,"2024-11-24 05:51:59",734,NULL
+338048970,"H M Carroll Elementary School",6,Public,Elementary,1-5,0.7,https://www.greatschools.org/texas/houston/19244-H-M-Carroll-Elementary-School/,"2024-11-24 05:51:59",735,NULL
+2058508561,"Hughes STEM  High School",3,Public,Middle,7-12,1.4,https://www.greatschools.org/ohio/cincinnati/9848-Hughes-STEM--High-School/,"2024-11-20 23:54:07",736,NULL
+245769595,"H M Carroll Elementary School",6,Public,Elementary,1-5,0.5,https://www.greatschools.org/texas/houston/19244-H-M-Carroll-Elementary-School/,"2024-11-24 05:51:59",737,NULL
+34249690,"Hughes STEM  High School",3,Public,Middle,7-12,2.7,https://www.greatschools.org/ohio/cincinnati/9848-Hughes-STEM--High-School/,"2024-11-20 23:54:07",738,NULL
+245769595,"H M Carroll Elementary School",6,Public,Elementary,1-5,0.5,https://www.greatschools.org/texas/houston/19244-H-M-Carroll-Elementary-School/,"2024-11-23 06:35:29",739,NULL
+34224497,"Hughes STEM  High School",3,Public,Middle,7-12,2.8,https://www.greatschools.org/ohio/cincinnati/9848-Hughes-STEM--High-School/,"2024-11-20 23:54:07",740,9763
+34262561,"Hughes STEM  High School",3,Public,Middle,7-12,2.6,https://www.greatschools.org/ohio/cincinnati/9848-Hughes-STEM--High-School/,"2024-11-20 23:54:07",741,9779
+2090119366,"Hughes STEM  High School",3,Public,Middle,7-12,2.9,https://www.greatschools.org/ohio/cincinnati/9848-Hughes-STEM--High-School/,"2024-11-20 23:54:07",742,NULL
+88867503,"Hughes STEM  High School",3,Public,Middle,7-12,1.2,https://www.greatschools.org/ohio/cincinnati/9848-Hughes-STEM--High-School/,"2024-11-20 23:54:07",743,NULL
+2061836361,"Freedom Elementary School",8,Public,Elementary,1-5,0.8,https://www.greatschools.org/texas/san-antonio/10326-Freedom-Elementary-School/,"2024-11-23 06:36:42",744,NULL
+2061836361,"Freedom Elementary School",8,Public,Elementary,1-5,0.8,https://www.greatschools.org/texas/san-antonio/10326-Freedom-Elementary-School/,"2024-11-23 06:38:32",745,NULL
+2061836361,"Freedom Elementary School",8,Public,Elementary,1-5,0.8,https://www.greatschools.org/texas/san-antonio/10326-Freedom-Elementary-School/,"2024-11-23 06:39:45",746,NULL
+26480412,"Freedom Elementary School",8,Public,Elementary,1-5,3.3,https://www.greatschools.org/texas/san-antonio/10326-Freedom-Elementary-School/,"2024-11-28 06:03:26",747,NULL
+2061283428,"Freedom Elementary School",8,Public,Elementary,1-5,0.8,https://www.greatschools.org/texas/san-antonio/10326-Freedom-Elementary-School/,"2024-11-28 06:03:26",748,NULL
+26480412,"Freedom Elementary School",8,Public,Elementary,1-5,3.3,https://www.greatschools.org/texas/san-antonio/10326-Freedom-Elementary-School/,"2024-11-27 06:13:47",749,NULL
+2061836361,"Freedom Elementary School",8,Public,Elementary,1-5,0.8,https://www.greatschools.org/texas/san-antonio/10326-Freedom-Elementary-School/,"2024-11-23 06:35:29",750,NULL
+2061355761,"Freedom Elementary School",8,Public,Elementary,1-5,0.8,https://www.greatschools.org/texas/san-antonio/10326-Freedom-Elementary-School/,"2024-11-25 05:33:30",751,NULL
+2066567579,"Woodridge Elementary School",7,Public,Elementary,1-5,0.9,https://www.greatschools.org/texas/san-antonio/174-Woodridge-Elementary-School/,"2024-11-24 05:51:59",752,NULL
+442707809,"Heritage Elementary School",7,Public,Elementary,1-5,0.4,https://www.greatschools.org/texas/san-antonio/8792-Heritage-Elementary-School/,"2024-11-20 23:54:07",753,NULL
+441202835,"Heritage Elementary School",7,Public,Elementary,1-5,0.3,https://www.greatschools.org/texas/san-antonio/8792-Heritage-Elementary-School/,"2024-11-20 23:54:07",754,NULL
+442707828,"Heritage Elementary School",7,Public,Elementary,1-5,0.3,https://www.greatschools.org/texas/san-antonio/8792-Heritage-Elementary-School/,"2024-11-20 23:54:07",755,NULL
+2053937161,"Heritage Elementary School",7,Public,Elementary,1-5,0.3,https://www.greatschools.org/texas/san-antonio/8792-Heritage-Elementary-School/,"2024-11-20 23:54:07",756,NULL
+442707820,"Heritage Elementary School",7,Public,Elementary,1-5,0.4,https://www.greatschools.org/texas/san-antonio/8792-Heritage-Elementary-School/,"2024-11-20 23:54:07",757,NULL
+344091028,"Heritage Elementary School",7,Public,Elementary,1-5,0.3,https://www.greatschools.org/texas/san-antonio/8792-Heritage-Elementary-School/,"2024-11-29 05:32:39",758,NULL
+69632724,"Heritage Elementary School",7,Public,Elementary,1-5,4.4,https://www.greatschools.org/texas/san-antonio/8792-Heritage-Elementary-School/,"2024-11-29 05:32:39",759,NULL
+110076145,"Hughes STEM  High School",3,Public,Middle,7-12,2.1,https://www.greatschools.org/ohio/cincinnati/9848-Hughes-STEM--High-School/,"2024-11-20 23:54:07",760,9775
+2079345066,"Hughes STEM  High School",3,Public,Middle,7-12,2.8,https://www.greatschools.org/ohio/cincinnati/9848-Hughes-STEM--High-School/,"2024-11-20 23:54:07",761,NULL
+121373601,"Hughes STEM  High School",3,Public,Middle,7-12,2.9,https://www.greatschools.org/ohio/cincinnati/9848-Hughes-STEM--High-School/,"2024-11-21 00:25:47",762,1434
+121373601,"Hughes STEM  High School",3,Public,Middle,7-12,2.9,https://www.greatschools.org/ohio/cincinnati/9848-Hughes-STEM--High-School/,"2024-11-21 00:24:35",763,1434
+121373601,"Hughes STEM  High School",3,Public,Middle,7-12,2.9,https://www.greatschools.org/ohio/cincinnati/9848-Hughes-STEM--High-School/,"2024-11-21 00:21:30",764,1434
+121373601,"Hughes STEM  High School",3,Public,Middle,7-12,2.9,https://www.greatschools.org/ohio/cincinnati/9848-Hughes-STEM--High-School/,"2024-11-21 00:22:43",765,1434
+34220636,"Hughes STEM  High School",3,Public,Middle,7-12,1.5,https://www.greatschools.org/ohio/cincinnati/9848-Hughes-STEM--High-School/,"2024-11-28 06:03:26",766,NULL
+34262403,"Hughes STEM  High School",3,Public,Middle,7-12,2.6,https://www.greatschools.org/ohio/cincinnati/9848-Hughes-STEM--High-School/,"2024-11-27 06:13:47",767,NULL
+2053941097,"Heritage Elementary School",7,Public,Elementary,1-5,0.3,https://www.greatschools.org/texas/san-antonio/8792-Heritage-Elementary-School/,"2024-11-25 05:33:30",768,NULL
+2072501542,"Hughes STEM  High School",3,Public,Middle,7-12,2.9,https://www.greatschools.org/ohio/cincinnati/9848-Hughes-STEM--High-School/,"2024-11-27 06:13:47",769,NULL
+20614059,"Hooper Avenue Elementary School",2,Public,Elementary,1-5,0.1,https://www.greatschools.org/california/los-angeles/2151-Hooper-Avenue-Elementary-School/,"2024-11-23 06:36:42",770,NULL
+34262260,"Hughes STEM  High School",3,Public,Middle,7-12,2.3,https://www.greatschools.org/ohio/cincinnati/9848-Hughes-STEM--High-School/,"2024-11-27 06:13:47",771,NULL
+20614059,"Hooper Avenue Elementary School",2,Public,Elementary,1-5,0.1,https://www.greatschools.org/california/los-angeles/2151-Hooper-Avenue-Elementary-School/,"2024-11-23 06:38:32",772,NULL
+20614059,"Hooper Avenue Elementary School",2,Public,Elementary,1-5,0.1,https://www.greatschools.org/california/los-angeles/2151-Hooper-Avenue-Elementary-School/,"2024-11-23 06:39:45",773,NULL
+20614059,"Hooper Avenue Elementary School",2,Public,Elementary,1-5,0.1,https://www.greatschools.org/california/los-angeles/2151-Hooper-Avenue-Elementary-School/,"2024-11-24 05:51:59",774,NULL
+20614059,"Hooper Avenue Elementary School",2,Public,Elementary,1-5,0.1,https://www.greatschools.org/california/los-angeles/2151-Hooper-Avenue-Elementary-School/,"2024-11-23 06:35:29",775,NULL
+2068683717,"Julian C Gallardo Elementary School",4,Public,Elementary,1-5,0.1,https://www.greatschools.org/texas/san-antonio/10327-Julian-C-Gallardo-Elementary-School/,"2024-11-23 06:36:42",776,NULL
+2068683717,"Julian C Gallardo Elementary School",4,Public,Elementary,1-5,0.1,https://www.greatschools.org/texas/san-antonio/10327-Julian-C-Gallardo-Elementary-School/,"2024-11-23 06:38:32",777,NULL
+2068683717,"Julian C Gallardo Elementary School",4,Public,Elementary,1-5,0.1,https://www.greatschools.org/texas/san-antonio/10327-Julian-C-Gallardo-Elementary-School/,"2024-11-23 06:39:45",778,NULL
+440803522,"Julian C Gallardo Elementary School",4,Public,Elementary,1-5,1.4,https://www.greatschools.org/texas/san-antonio/10327-Julian-C-Gallardo-Elementary-School/,"2024-11-24 05:51:59",779,NULL
+296377550,"Hughes STEM  High School",3,Public,Middle,7-12,2.9,https://www.greatschools.org/ohio/cincinnati/9848-Hughes-STEM--High-School/,"2024-11-27 09:23:19",780,NULL
+26361774,"Julian C Gallardo Elementary School",4,Public,Elementary,1-5,1.1,https://www.greatschools.org/texas/san-antonio/10327-Julian-C-Gallardo-Elementary-School/,"2024-11-20 23:54:07",781,NULL
+110076145,"Hughes STEM  High School",3,Public,Middle,7-12,2.1,https://www.greatschools.org/ohio/cincinnati/9848-Hughes-STEM--High-School/,"2024-11-21 11:09:29",782,9775
+80031193,"Julian C Gallardo Elementary School",4,Public,Elementary,1-5,0.2,https://www.greatschools.org/texas/san-antonio/10327-Julian-C-Gallardo-Elementary-School/,"2024-11-20 23:54:07",783,NULL
+34224497,"Hughes STEM  High School",3,Public,Middle,7-12,2.8,https://www.greatschools.org/ohio/cincinnati/9848-Hughes-STEM--High-School/,"2024-11-21 11:09:29",784,9763
+349552382,"Julian C Gallardo Elementary School",4,Public,Elementary,1-5,0.7,https://www.greatschools.org/texas/san-antonio/10327-Julian-C-Gallardo-Elementary-School/,"2024-11-20 23:54:07",785,NULL
+34251161,"Hughes STEM  High School",3,Public,Middle,7-12,1.7,https://www.greatschools.org/ohio/cincinnati/9848-Hughes-STEM--High-School/,"2024-11-21 11:09:29",786,9824
+69663159,"Julian C Gallardo Elementary School",4,Public,Elementary,1-5,0.1,https://www.greatschools.org/texas/san-antonio/10327-Julian-C-Gallardo-Elementary-School/,"2024-11-20 23:54:07",787,12908
+34261188,"Hughes STEM  High School",3,Public,Middle,7-12,2.1,https://www.greatschools.org/ohio/cincinnati/9848-Hughes-STEM--High-School/,"2024-11-21 11:09:29",788,9747
+440803509,"Julian C Gallardo Elementary School",4,Public,Elementary,1-5,1.4,https://www.greatschools.org/texas/san-antonio/10327-Julian-C-Gallardo-Elementary-School/,"2024-11-29 05:32:39",789,NULL
+442754050,"Hughes STEM  High School",3,Public,Middle,7-12,1.7,https://www.greatschools.org/ohio/cincinnati/9848-Hughes-STEM--High-School/,"2024-11-21 11:09:29",790,NULL
+440665091,"Julian C Gallardo Elementary School",4,Public,Elementary,1-5,0.1,https://www.greatschools.org/texas/san-antonio/10327-Julian-C-Gallardo-Elementary-School/,"2024-11-29 05:32:39",791,NULL
+2058238509,"Julian C Gallardo Elementary School",4,Public,Elementary,1-5,0.1,https://www.greatschools.org/texas/san-antonio/10327-Julian-C-Gallardo-Elementary-School/,"2024-11-29 05:32:39",792,NULL
+2056324135,"Julian C Gallardo Elementary School",4,Public,Elementary,1-5,0.1,https://www.greatschools.org/texas/san-antonio/10327-Julian-C-Gallardo-Elementary-School/,"2024-11-29 05:32:39",793,NULL
+2068683707,"Julian C Gallardo Elementary School",4,Public,Elementary,1-5,0.1,https://www.greatschools.org/texas/san-antonio/10327-Julian-C-Gallardo-Elementary-School/,"2024-11-28 06:03:26",794,NULL
+2058238509,"Julian C Gallardo Elementary School",4,Public,Elementary,1-5,0.1,https://www.greatschools.org/texas/san-antonio/10327-Julian-C-Gallardo-Elementary-School/,"2024-11-28 06:03:26",795,NULL
+2062993321,"Julian C Gallardo Elementary School",4,Public,Elementary,1-5,1.1,https://www.greatschools.org/texas/san-antonio/10327-Julian-C-Gallardo-Elementary-School/,"2024-11-28 06:03:26",796,NULL
+2062993321,"Julian C Gallardo Elementary School",4,Public,Elementary,1-5,1.1,https://www.greatschools.org/texas/san-antonio/10327-Julian-C-Gallardo-Elementary-School/,"2024-11-27 06:13:47",797,NULL
+349552379,"Julian C Gallardo Elementary School",4,Public,Elementary,1-5,0.7,https://www.greatschools.org/texas/san-antonio/10327-Julian-C-Gallardo-Elementary-School/,"2024-11-27 06:13:47",798,NULL
+442970821,"Julian C Gallardo Elementary School",4,Public,Elementary,1-5,1.2,https://www.greatschools.org/texas/san-antonio/10327-Julian-C-Gallardo-Elementary-School/,"2024-11-27 06:13:47",799,NULL
+349552382,"Julian C Gallardo Elementary School",4,Public,Elementary,1-5,0.7,https://www.greatschools.org/texas/san-antonio/10327-Julian-C-Gallardo-Elementary-School/,"2024-11-21 11:09:29",800,NULL
+2054487299,"Julian C Gallardo Elementary School",4,Public,Elementary,1-5,1.1,https://www.greatschools.org/texas/san-antonio/10327-Julian-C-Gallardo-Elementary-School/,"2024-11-21 11:09:29",801,NULL
+2084770095,"Julian C Gallardo Elementary School",4,Public,Elementary,1-5,0.1,https://www.greatschools.org/texas/san-antonio/10327-Julian-C-Gallardo-Elementary-School/,"2024-11-21 11:09:29",802,12874
+69663159,"Julian C Gallardo Elementary School",4,Public,Elementary,1-5,0.1,https://www.greatschools.org/texas/san-antonio/10327-Julian-C-Gallardo-Elementary-School/,"2024-11-21 11:09:29",803,12908
+2084770095,"Julian C Gallardo Elementary School",4,Public,Elementary,1-5,0.1,https://www.greatschools.org/texas/san-antonio/10327-Julian-C-Gallardo-Elementary-School/,"2024-11-22 11:25:39",804,12874
+122496851,"Julian C Gallardo Elementary School",4,Public,Elementary,1-5,0.8,https://www.greatschools.org/texas/san-antonio/10327-Julian-C-Gallardo-Elementary-School/,"2024-11-22 11:25:39",805,NULL
+2068683717,"Julian C Gallardo Elementary School",4,Public,Elementary,1-5,0.1,https://www.greatschools.org/texas/san-antonio/10327-Julian-C-Gallardo-Elementary-School/,"2024-11-23 06:35:29",806,NULL
+440803522,"Julian C Gallardo Elementary School",4,Public,Elementary,1-5,1.4,https://www.greatschools.org/texas/san-antonio/10327-Julian-C-Gallardo-Elementary-School/,"2024-11-25 05:33:30",807,NULL
+2056324137,"Julian C Gallardo Elementary School",4,Public,Elementary,1-5,0.1,https://www.greatschools.org/texas/san-antonio/10327-Julian-C-Gallardo-Elementary-School/,"2024-11-26 06:02:41",808,NULL
+344511987,"Julian C Gallardo Elementary School",4,Public,Elementary,1-5,0.1,https://www.greatschools.org/texas/san-antonio/10327-Julian-C-Gallardo-Elementary-School/,"2024-11-26 06:02:41",809,NULL
+34369459,"South Elementary School",4,Public,Elementary,1-6,1,https://www.greatschools.org/ohio/cincinnati/1140-South-Elementary-School/,"2024-11-23 06:36:42",810,NULL
+34369459,"South Elementary School",4,Public,Elementary,1-6,1,https://www.greatschools.org/ohio/cincinnati/1140-South-Elementary-School/,"2024-11-23 06:38:32",811,NULL
+34369459,"South Elementary School",4,Public,Elementary,1-6,1,https://www.greatschools.org/ohio/cincinnati/1140-South-Elementary-School/,"2024-11-23 06:39:45",812,NULL
+34292293,"South Elementary School",4,Public,Elementary,1-6,0.9,https://www.greatschools.org/ohio/cincinnati/1140-South-Elementary-School/,"2024-11-23 09:30:22",813,NULL
+34368263,"South Elementary School",4,Public,Elementary,1-6,1.4,https://www.greatschools.org/ohio/cincinnati/1140-South-Elementary-School/,"2024-11-23 09:30:22",814,NULL
+34369817,"South Elementary School",4,Public,Elementary,1-6,1,https://www.greatschools.org/ohio/cincinnati/1140-South-Elementary-School/,"2024-11-24 05:51:59",815,NULL
+34368074,"South Elementary School",4,Public,Elementary,1-6,0.9,https://www.greatschools.org/ohio/cincinnati/1140-South-Elementary-School/,"2024-11-20 23:54:07",816,NULL
+34367612,"South Elementary School",4,Public,Elementary,1-6,0.9,https://www.greatschools.org/ohio/cincinnati/1140-South-Elementary-School/,"2024-11-27 06:13:47",817,NULL
+34262561,"Hughes STEM  High School",3,Public,Middle,7-12,2.6,https://www.greatschools.org/ohio/cincinnati/9848-Hughes-STEM--High-School/,"2024-11-21 11:09:29",818,9779
+34228327,"Hughes STEM  High School",3,Public,Middle,7-12,1.6,https://www.greatschools.org/ohio/cincinnati/9848-Hughes-STEM--High-School/,"2024-11-21 11:09:29",819,9611
+34248164,"Hughes STEM  High School",3,Public,Middle,7-12,2.7,https://www.greatschools.org/ohio/cincinnati/9848-Hughes-STEM--High-School/,"2024-11-21 14:20:38",820,NULL
+121373601,"Hughes STEM  High School",3,Public,Middle,7-12,2.9,https://www.greatschools.org/ohio/cincinnati/9848-Hughes-STEM--High-School/,"2024-11-21 14:20:38",821,1434
+110077625,"Hughes STEM  High School",3,Public,Middle,7-12,1.8,https://www.greatschools.org/ohio/cincinnati/9848-Hughes-STEM--High-School/,"2024-11-22 11:25:39",822,NULL
+34228327,"Hughes STEM  High School",3,Public,Middle,7-12,1.6,https://www.greatschools.org/ohio/cincinnati/9848-Hughes-STEM--High-School/,"2024-11-22 11:25:39",823,9611
+34224252,"Hughes STEM  High School",3,Public,Middle,7-12,2.8,https://www.greatschools.org/ohio/cincinnati/9848-Hughes-STEM--High-School/,"2024-11-22 11:25:39",824,NULL
+442754050,"Hughes STEM  High School",3,Public,Middle,7-12,1.7,https://www.greatschools.org/ohio/cincinnati/9848-Hughes-STEM--High-School/,"2024-11-22 11:25:39",825,NULL
+34220751,"Hughes STEM  High School",3,Public,Middle,7-12,1.3,https://www.greatschools.org/ohio/cincinnati/9848-Hughes-STEM--High-School/,"2024-11-22 11:25:39",826,NULL
+34261188,"Hughes STEM  High School",3,Public,Middle,7-12,2.1,https://www.greatschools.org/ohio/cincinnati/9848-Hughes-STEM--High-School/,"2024-11-22 11:25:39",827,9747
+90621103,"Hughes STEM  High School",3,Public,Middle,7-12,2.7,https://www.greatschools.org/ohio/cincinnati/9848-Hughes-STEM--High-School/,"2024-11-22 14:21:59",828,NULL
+34251295,"Hughes STEM  High School",3,Public,Middle,7-12,2.8,https://www.greatschools.org/ohio/cincinnati/9848-Hughes-STEM--High-School/,"2024-11-22 14:21:59",829,NULL
+34223961,"Hughes STEM  High School",3,Public,Middle,7-12,2.5,https://www.greatschools.org/ohio/cincinnati/9848-Hughes-STEM--High-School/,"2024-11-23 06:35:29",830,NULL
+2072925462,"Hughes STEM  High School",3,Public,Middle,7-12,3,https://www.greatschools.org/ohio/cincinnati/9848-Hughes-STEM--High-School/,"2024-11-23 06:35:29",831,NULL
+34228050,"Hughes STEM  High School",3,Public,Middle,7-12,1.1,https://www.greatschools.org/ohio/cincinnati/9848-Hughes-STEM--High-School/,"2024-11-23 06:35:29",832,NULL
+34220751,"Hughes STEM  High School",3,Public,Middle,7-12,1.3,https://www.greatschools.org/ohio/cincinnati/9848-Hughes-STEM--High-School/,"2024-11-23 06:35:29",833,NULL
+82328779,"Hughes STEM  High School",3,Public,Middle,7-12,1.5,https://www.greatschools.org/ohio/cincinnati/9848-Hughes-STEM--High-School/,"2024-11-26 09:21:12",834,NULL
+71326294,"Hughes STEM  High School",3,Public,Middle,7-12,1.4,https://www.greatschools.org/ohio/cincinnati/9848-Hughes-STEM--High-School/,"2024-11-26 09:21:12",835,NULL
+34259223,"Hughes STEM  High School",3,Public,Middle,7-12,2.6,https://www.greatschools.org/ohio/cincinnati/9848-Hughes-STEM--High-School/,"2024-11-25 05:33:30",836,NULL
+34262539,"Hughes STEM  High School",3,Public,Middle,7-12,2.7,https://www.greatschools.org/ohio/cincinnati/9848-Hughes-STEM--High-School/,"2024-11-26 06:02:41",837,NULL
+2052883881,"Hughes STEM  High School",3,Public,Middle,7-12,3.2,https://www.greatschools.org/ohio/cincinnati/9848-Hughes-STEM--High-School/,"2024-11-26 06:02:41",838,NULL
+2072501542,"Hughes STEM  High School",3,Public,Middle,7-12,2.9,https://www.greatschools.org/ohio/cincinnati/9848-Hughes-STEM--High-School/,"2024-11-26 06:02:41",839,NULL
+61629029,"Barry Goldwater High School",5,Public,Middle,7-12,8,https://www.greatschools.org/arizona/phoenix/441-Barry-Goldwater-High-School/,"2024-11-23 09:30:22",840,NULL
+7936924,"Barry Goldwater High School",5,Public,Middle,7-12,1.6,https://www.greatschools.org/arizona/phoenix/441-Barry-Goldwater-High-School/,"2024-11-24 05:51:59",841,NULL
+349464016,"Barry Goldwater High School",5,Public,Middle,7-12,2.8,https://www.greatschools.org/arizona/phoenix/441-Barry-Goldwater-High-School/,"2024-11-20 23:54:07",842,NULL
+7933259,"Barry Goldwater High School",5,Public,Middle,7-12,0.6,https://www.greatschools.org/arizona/phoenix/441-Barry-Goldwater-High-School/,"2024-11-20 23:54:07",843,NULL
+125144636,"Barry Goldwater High School",5,Public,Middle,7-12,7.8,https://www.greatschools.org/arizona/phoenix/441-Barry-Goldwater-High-School/,"2024-11-20 23:54:07",844,NULL
+67701081,"Barry Goldwater High School",5,Public,Middle,7-12,6.7,https://www.greatschools.org/arizona/phoenix/441-Barry-Goldwater-High-School/,"2024-11-20 23:54:07",845,NULL
+67772088,"Barry Goldwater High School",5,Public,Middle,7-12,7.4,https://www.greatschools.org/arizona/phoenix/441-Barry-Goldwater-High-School/,"2024-11-20 23:54:07",846,NULL
+443027689,"Barry Goldwater High School",5,Public,Middle,7-12,1.6,https://www.greatschools.org/arizona/phoenix/441-Barry-Goldwater-High-School/,"2024-11-29 05:32:39",847,NULL
+7966543,"Barry Goldwater High School",5,Public,Middle,7-12,1.8,https://www.greatschools.org/arizona/phoenix/441-Barry-Goldwater-High-School/,"2024-11-28 06:03:26",848,NULL
+240316584,"Barry Goldwater High School",5,Public,Middle,7-12,6.4,https://www.greatschools.org/arizona/phoenix/441-Barry-Goldwater-High-School/,"2024-11-27 06:13:47",849,NULL
+2057335702,"Barry Goldwater High School",5,Public,Middle,7-12,6.3,https://www.greatschools.org/arizona/phoenix/441-Barry-Goldwater-High-School/,"2024-11-27 06:13:47",850,NULL
+81988137,"Barry Goldwater High School",5,Public,Middle,7-12,5.1,https://www.greatschools.org/arizona/phoenix/441-Barry-Goldwater-High-School/,"2024-11-28 09:24:51",851,NULL
+349463974,"Barry Goldwater High School",5,Public,Middle,7-12,2.8,https://www.greatschools.org/arizona/phoenix/441-Barry-Goldwater-High-School/,"2024-11-21 11:09:29",852,NULL
+34369459,"South Elementary School",4,Public,Elementary,1-6,1,https://www.greatschools.org/ohio/cincinnati/1140-South-Elementary-School/,"2024-11-23 06:35:29",853,NULL
+125144636,"Barry Goldwater High School",5,Public,Middle,7-12,7.8,https://www.greatschools.org/arizona/phoenix/441-Barry-Goldwater-High-School/,"2024-11-21 11:09:29",854,NULL
+34289927,"North Elementary School",4,Public,Elementary,1-6,0.9,https://www.greatschools.org/ohio/cincinnati/1142-North-Elementary-School/,"2024-11-20 23:54:07",855,NULL
+82800117,"Barry Goldwater High School",5,Public,Middle,7-12,4.7,https://www.greatschools.org/arizona/phoenix/441-Barry-Goldwater-High-School/,"2024-11-21 11:09:29",856,NULL
+7933259,"Barry Goldwater High School",5,Public,Middle,7-12,0.6,https://www.greatschools.org/arizona/phoenix/441-Barry-Goldwater-High-School/,"2024-11-21 11:09:29",857,NULL
+34290745,"North Elementary School",4,Public,Elementary,1-6,0.8,https://www.greatschools.org/ohio/cincinnati/1142-North-Elementary-School/,"2024-11-28 06:03:26",858,NULL
+67701081,"Barry Goldwater High School",5,Public,Middle,7-12,6.7,https://www.greatschools.org/arizona/phoenix/441-Barry-Goldwater-High-School/,"2024-11-21 11:09:29",859,NULL
+34289711,"North Elementary School",4,Public,Elementary,1-6,1.2,https://www.greatschools.org/ohio/cincinnati/1142-North-Elementary-School/,"2024-11-27 06:13:47",860,NULL
+7933159,"Barry Goldwater High School",5,Public,Middle,7-12,1,https://www.greatschools.org/arizona/phoenix/441-Barry-Goldwater-High-School/,"2024-11-21 11:09:29",861,NULL
+1142236,"Crestview Elementary School",5,Public,Elementary,1-6,0.2,https://www.greatschools.org/indiana/indianapolis/977-Crestview-Elementary-School/,"2024-11-23 06:36:42",862,NULL
+1142236,"Crestview Elementary School",5,Public,Elementary,1-6,0.2,https://www.greatschools.org/indiana/indianapolis/977-Crestview-Elementary-School/,"2024-11-23 06:38:32",863,NULL
+1142236,"Crestview Elementary School",5,Public,Elementary,1-6,0.2,https://www.greatschools.org/indiana/indianapolis/977-Crestview-Elementary-School/,"2024-11-23 06:39:45",864,NULL
+1155551,"Crestview Elementary School",5,Public,Elementary,1-6,0.7,https://www.greatschools.org/indiana/indianapolis/977-Crestview-Elementary-School/,"2024-11-23 09:30:22",865,NULL
+1166752,"Crestview Elementary School",5,Public,Elementary,1-6,0.2,https://www.greatschools.org/indiana/indianapolis/977-Crestview-Elementary-School/,"2024-11-20 23:54:07",866,10439
+1166752,"Crestview Elementary School",5,Public,Elementary,1-6,0.2,https://www.greatschools.org/indiana/indianapolis/977-Crestview-Elementary-School/,"2024-11-21 11:09:29",867,10439
+1155485,"Crestview Elementary School",5,Public,Elementary,1-6,0.6,https://www.greatschools.org/indiana/indianapolis/977-Crestview-Elementary-School/,"2024-11-22 14:21:59",868,NULL
+1142236,"Crestview Elementary School",5,Public,Elementary,1-6,0.2,https://www.greatschools.org/indiana/indianapolis/977-Crestview-Elementary-School/,"2024-11-23 06:35:29",869,NULL
+1152084,"Crestview Elementary School",5,Public,Elementary,1-6,0.6,https://www.greatschools.org/indiana/indianapolis/977-Crestview-Elementary-School/,"2024-11-26 09:21:12",870,NULL
+1155017,"Crestview Elementary School",5,Public,Elementary,1-6,0.7,https://www.greatschools.org/indiana/indianapolis/977-Crestview-Elementary-School/,"2024-11-26 09:21:12",871,NULL
+1152820,"Indian Creek Elementary School",4,Public,Elementary,1-6,2.4,https://www.greatschools.org/indiana/indianapolis/987-Indian-Creek-Elementary-School/,"2024-11-26 06:02:41",872,NULL
+1156184,"Amy Beverland Elementary School",5,Public,Elementary,1-6,1.9,https://www.greatschools.org/indiana/indianapolis/988-Amy-Beverland-Elementary-School/,"2024-11-23 09:30:22",873,NULL
+1157051,"Amy Beverland Elementary School",5,Public,Elementary,1-6,1.7,https://www.greatschools.org/indiana/indianapolis/988-Amy-Beverland-Elementary-School/,"2024-11-23 09:30:22",874,NULL
+1159312,"Amy Beverland Elementary School",5,Public,Elementary,1-6,0.7,https://www.greatschools.org/indiana/indianapolis/988-Amy-Beverland-Elementary-School/,"2024-11-21 00:25:47",875,2108
+1159312,"Amy Beverland Elementary School",5,Public,Elementary,1-6,0.7,https://www.greatschools.org/indiana/indianapolis/988-Amy-Beverland-Elementary-School/,"2024-11-21 00:24:35",876,2108
+1159312,"Amy Beverland Elementary School",5,Public,Elementary,1-6,0.7,https://www.greatschools.org/indiana/indianapolis/988-Amy-Beverland-Elementary-School/,"2024-11-21 00:21:30",877,2108
+1159312,"Amy Beverland Elementary School",5,Public,Elementary,1-6,0.7,https://www.greatschools.org/indiana/indianapolis/988-Amy-Beverland-Elementary-School/,"2024-11-21 00:22:43",878,2108
+1159312,"Amy Beverland Elementary School",5,Public,Elementary,1-6,0.7,https://www.greatschools.org/indiana/indianapolis/988-Amy-Beverland-Elementary-School/,"2024-11-21 14:20:38",879,2108
+1158421,"Amy Beverland Elementary School",5,Public,Elementary,1-6,1.3,https://www.greatschools.org/indiana/indianapolis/988-Amy-Beverland-Elementary-School/,"2024-11-22 11:25:39",880,NULL
+1156256,"Amy Beverland Elementary School",5,Public,Elementary,1-6,0.2,https://www.greatschools.org/indiana/indianapolis/988-Amy-Beverland-Elementary-School/,"2024-11-22 11:25:39",881,NULL
+349314739,"Winding Ridge Elementary School",3,Public,Elementary,1-6,1.2,https://www.greatschools.org/indiana/indianapolis/3196-Winding-Ridge-Elementary-School/,"2024-11-23 06:36:42",882,NULL
+442693648,"Winding Ridge Elementary School",3,Public,Elementary,1-6,0.5,https://www.greatschools.org/indiana/indianapolis/3196-Winding-Ridge-Elementary-School/,"2024-11-23 06:36:42",883,NULL
+59812710,"Winding Ridge Elementary School",3,Public,Elementary,1-6,0.9,https://www.greatschools.org/indiana/indianapolis/3196-Winding-Ridge-Elementary-School/,"2024-11-23 06:36:42",884,NULL
+442693648,"Winding Ridge Elementary School",3,Public,Elementary,1-6,0.5,https://www.greatschools.org/indiana/indianapolis/3196-Winding-Ridge-Elementary-School/,"2024-11-23 06:38:32",885,NULL
+59812710,"Winding Ridge Elementary School",3,Public,Elementary,1-6,0.9,https://www.greatschools.org/indiana/indianapolis/3196-Winding-Ridge-Elementary-School/,"2024-11-23 06:38:32",886,NULL
+349314739,"Winding Ridge Elementary School",3,Public,Elementary,1-6,1.2,https://www.greatschools.org/indiana/indianapolis/3196-Winding-Ridge-Elementary-School/,"2024-11-23 06:38:32",887,NULL
+349314739,"Winding Ridge Elementary School",3,Public,Elementary,1-6,1.2,https://www.greatschools.org/indiana/indianapolis/3196-Winding-Ridge-Elementary-School/,"2024-11-23 06:39:45",888,NULL
+442693648,"Winding Ridge Elementary School",3,Public,Elementary,1-6,0.5,https://www.greatschools.org/indiana/indianapolis/3196-Winding-Ridge-Elementary-School/,"2024-11-23 06:39:45",889,NULL
+59812710,"Winding Ridge Elementary School",3,Public,Elementary,1-6,0.9,https://www.greatschools.org/indiana/indianapolis/3196-Winding-Ridge-Elementary-School/,"2024-11-23 06:39:45",890,NULL
+340709464,"Winding Ridge Elementary School",3,Public,Elementary,1-6,0.3,https://www.greatschools.org/indiana/indianapolis/3196-Winding-Ridge-Elementary-School/,"2024-11-29 05:32:39",891,NULL
+59812690,"Winding Ridge Elementary School",3,Public,Elementary,1-6,1,https://www.greatschools.org/indiana/indianapolis/3196-Winding-Ridge-Elementary-School/,"2024-11-28 06:03:26",892,NULL
+112836530,"Winding Ridge Elementary School",3,Public,Elementary,1-6,1,https://www.greatschools.org/indiana/indianapolis/3196-Winding-Ridge-Elementary-School/,"2024-11-21 14:20:38",893,NULL
+349314739,"Winding Ridge Elementary School",3,Public,Elementary,1-6,1.2,https://www.greatschools.org/indiana/indianapolis/3196-Winding-Ridge-Elementary-School/,"2024-11-23 06:35:29",894,NULL
+59812710,"Winding Ridge Elementary School",3,Public,Elementary,1-6,0.9,https://www.greatschools.org/indiana/indianapolis/3196-Winding-Ridge-Elementary-School/,"2024-11-23 06:35:29",895,NULL
+442693648,"Winding Ridge Elementary School",3,Public,Elementary,1-6,0.5,https://www.greatschools.org/indiana/indianapolis/3196-Winding-Ridge-Elementary-School/,"2024-11-23 06:35:29",896,NULL
+353758303,"Winding Ridge Elementary School",3,Public,Elementary,1-6,0.5,https://www.greatschools.org/indiana/indianapolis/3196-Winding-Ridge-Elementary-School/,"2024-11-26 09:21:12",897,NULL
+1158326,"Mary Evelyn Castle Elementary School",6,Public,Elementary,1-6,0.5,https://www.greatschools.org/indiana/indianapolis/981-Mary-Evelyn-Castle-Elementary-School/,"2024-11-23 09:30:22",898,NULL
+1138098,"Mary Evelyn Castle Elementary School",6,Public,Elementary,1-6,1.8,https://www.greatschools.org/indiana/indianapolis/981-Mary-Evelyn-Castle-Elementary-School/,"2024-11-23 09:30:22",899,NULL
+1160145,"Mary Evelyn Castle Elementary School",6,Public,Elementary,1-6,0.5,https://www.greatschools.org/indiana/indianapolis/981-Mary-Evelyn-Castle-Elementary-School/,"2024-11-21 11:09:29",900,9923
+1157355,"Mary Evelyn Castle Elementary School",6,Public,Elementary,1-6,0.5,https://www.greatschools.org/indiana/indianapolis/981-Mary-Evelyn-Castle-Elementary-School/,"2024-11-22 11:25:39",901,NULL
+34363596,Whitaker,3,Public,Elementary,2-5,0.3,https://www.greatschools.org/ohio/cincinnati/9775-Whitaker/,"2024-11-23 09:30:22",902,NULL
+34365177,Whitaker,3,Public,Elementary,2-5,0.8,https://www.greatschools.org/ohio/cincinnati/9775-Whitaker/,"2024-11-24 05:51:59",903,NULL
+34363699,Whitaker,3,Public,Elementary,2-5,0.2,https://www.greatschools.org/ohio/cincinnati/9775-Whitaker/,"2024-11-20 23:54:07",904,9794
+2084028530,Whitaker,3,Public,Elementary,2-5,0.4,https://www.greatschools.org/ohio/cincinnati/9775-Whitaker/,"2024-11-21 00:25:47",905,1394
+2084028530,Whitaker,3,Public,Elementary,2-5,0.4,https://www.greatschools.org/ohio/cincinnati/9775-Whitaker/,"2024-11-21 00:24:35",906,1394
+2084028530,Whitaker,3,Public,Elementary,2-5,0.4,https://www.greatschools.org/ohio/cincinnati/9775-Whitaker/,"2024-11-21 00:21:30",907,1394
+2084028530,Whitaker,3,Public,Elementary,2-5,0.4,https://www.greatschools.org/ohio/cincinnati/9775-Whitaker/,"2024-11-21 00:22:43",908,1394
+34363699,Whitaker,3,Public,Elementary,2-5,0.2,https://www.greatschools.org/ohio/cincinnati/9775-Whitaker/,"2024-11-21 11:09:29",909,9794
+2084028530,Whitaker,3,Public,Elementary,2-5,0.4,https://www.greatschools.org/ohio/cincinnati/9775-Whitaker/,"2024-11-21 14:20:38",910,1394
+28095261,"Pat Neff Elementary",3,Public,Elementary,2-5,0.7,https://www.greatschools.org/texas/houston/11396-Pat-Neff-Elementary/,"2024-11-23 06:36:42",911,NULL
+28095261,"Pat Neff Elementary",3,Public,Elementary,2-5,0.7,https://www.greatschools.org/texas/houston/11396-Pat-Neff-Elementary/,"2024-11-23 06:38:32",912,NULL
+28095261,"Pat Neff Elementary",3,Public,Elementary,2-5,0.7,https://www.greatschools.org/texas/houston/11396-Pat-Neff-Elementary/,"2024-11-23 06:39:45",913,NULL
+28095261,"Pat Neff Elementary",3,Public,Elementary,2-5,0.7,https://www.greatschools.org/texas/houston/11396-Pat-Neff-Elementary/,"2024-11-23 06:35:29",914,NULL
+72648349,"Ps 56 Harry Eichler",5,Public,Elementary,2-5,0.4,https://www.greatschools.org/new-york/queens/2876-Ps-56-Harry-Eichler/,"2024-11-23 06:36:42",915,NULL
+72648349,"Ps 56 Harry Eichler",5,Public,Elementary,2-5,0.4,https://www.greatschools.org/new-york/queens/2876-Ps-56-Harry-Eichler/,"2024-11-23 06:38:32",916,NULL
+72648349,"Ps 56 Harry Eichler",5,Public,Elementary,2-5,0.4,https://www.greatschools.org/new-york/queens/2876-Ps-56-Harry-Eichler/,"2024-11-23 06:39:45",917,NULL
+68315267,"Ps 56 Harry Eichler",5,Public,Elementary,2-5,0.4,https://www.greatschools.org/new-york/queens/2876-Ps-56-Harry-Eichler/,"2024-11-20 23:54:07",918,NULL
+2056692705,"Ps 56 Harry Eichler",5,Public,Elementary,2-5,0.5,https://www.greatschools.org/new-york/queens/2876-Ps-56-Harry-Eichler/,"2024-11-20 23:54:07",919,NULL
+68315267,"Ps 56 Harry Eichler",5,Public,Elementary,2-5,0.4,https://www.greatschools.org/new-york/queens/2876-Ps-56-Harry-Eichler/,"2024-11-21 11:09:29",920,NULL
+2067859895,"Barry Goldwater High School",5,Public,Middle,7-12,7,https://www.greatschools.org/arizona/phoenix/441-Barry-Goldwater-High-School/,"2024-11-21 11:09:29",921,NULL
+349464016,"Barry Goldwater High School",5,Public,Middle,7-12,2.8,https://www.greatschools.org/arizona/phoenix/441-Barry-Goldwater-High-School/,"2024-11-21 11:09:29",922,NULL
+72648349,"Ps 56 Harry Eichler",5,Public,Elementary,2-5,0.4,https://www.greatschools.org/new-york/queens/2876-Ps-56-Harry-Eichler/,"2024-11-23 06:35:29",923,NULL
+2067859893,"Barry Goldwater High School",5,Public,Middle,7-12,7,https://www.greatschools.org/arizona/phoenix/441-Barry-Goldwater-High-School/,"2024-11-21 11:09:29",924,NULL
+391782434,"Barry Goldwater High School",5,Public,Middle,7-12,3.2,https://www.greatschools.org/arizona/phoenix/441-Barry-Goldwater-High-School/,"2024-11-21 14:20:38",925,NULL
+11430004,"Whitehall El School",7,Public,Elementary,2-5,0.9,https://www.greatschools.org/pennsylvania/pittsburgh/187-Whitehall-El-School/,"2024-11-23 06:36:42",926,NULL
+7934398,"Barry Goldwater High School",5,Public,Middle,7-12,0.5,https://www.greatschools.org/arizona/phoenix/441-Barry-Goldwater-High-School/,"2024-11-21 14:20:38",927,NULL
+352643178,"Barry Goldwater High School",5,Public,Middle,7-12,3.1,https://www.greatschools.org/arizona/phoenix/441-Barry-Goldwater-High-School/,"2024-11-22 11:25:39",928,NULL
+245288106,"Barry Goldwater High School",5,Public,Middle,7-12,6.8,https://www.greatschools.org/arizona/phoenix/441-Barry-Goldwater-High-School/,"2024-11-22 11:25:39",929,NULL
+11430004,"Whitehall El School",7,Public,Elementary,2-5,0.9,https://www.greatschools.org/pennsylvania/pittsburgh/187-Whitehall-El-School/,"2024-11-23 06:38:32",930,NULL
+11430004,"Whitehall El School",7,Public,Elementary,2-5,0.9,https://www.greatschools.org/pennsylvania/pittsburgh/187-Whitehall-El-School/,"2024-11-23 06:39:45",931,NULL
+11393711,"Whitehall El School",7,Public,Elementary,2-5,0.8,https://www.greatschools.org/pennsylvania/pittsburgh/187-Whitehall-El-School/,"2024-11-23 09:30:22",932,NULL
+11469530,"Whitehall El School",7,Public,Elementary,2-5,0.8,https://www.greatschools.org/pennsylvania/pittsburgh/187-Whitehall-El-School/,"2024-11-23 09:30:22",933,NULL
+11429789,"Whitehall El School",7,Public,Elementary,2-5,0.5,https://www.greatschools.org/pennsylvania/pittsburgh/187-Whitehall-El-School/,"2024-11-20 23:54:07",934,4580
+7970933,"Barry Goldwater High School",5,Public,Middle,7-12,0.9,https://www.greatschools.org/arizona/phoenix/441-Barry-Goldwater-High-School/,"2024-11-22 11:25:39",935,NULL
+11354998,"Whitehall El School",7,Public,Elementary,2-5,1.3,https://www.greatschools.org/pennsylvania/pittsburgh/187-Whitehall-El-School/,"2024-11-20 23:54:07",936,4551
+7935556,"Barry Goldwater High School",5,Public,Middle,7-12,1.4,https://www.greatschools.org/arizona/phoenix/441-Barry-Goldwater-High-School/,"2024-11-22 11:25:39",937,NULL
+2067859895,"Barry Goldwater High School",5,Public,Middle,7-12,7,https://www.greatschools.org/arizona/phoenix/441-Barry-Goldwater-High-School/,"2024-11-22 11:25:39",938,NULL
+11468682,"Whitehall El School",7,Public,Elementary,2-5,1.3,https://www.greatschools.org/pennsylvania/pittsburgh/187-Whitehall-El-School/,"2024-11-29 05:32:39",939,NULL
+2067859893,"Barry Goldwater High School",5,Public,Middle,7-12,7,https://www.greatschools.org/arizona/phoenix/441-Barry-Goldwater-High-School/,"2024-11-22 11:25:39",940,NULL
+11429284,"Whitehall El School",7,Public,Elementary,2-5,0.2,https://www.greatschools.org/pennsylvania/pittsburgh/187-Whitehall-El-School/,"2024-11-29 05:32:39",941,NULL
+349463974,"Barry Goldwater High School",5,Public,Middle,7-12,2.8,https://www.greatschools.org/arizona/phoenix/441-Barry-Goldwater-High-School/,"2024-11-22 11:25:39",942,NULL
+11468682,"Whitehall El School",7,Public,Elementary,2-5,1.3,https://www.greatschools.org/pennsylvania/pittsburgh/187-Whitehall-El-School/,"2024-11-28 06:03:26",943,NULL
+67775318,"Barry Goldwater High School",5,Public,Middle,7-12,7.5,https://www.greatschools.org/arizona/phoenix/441-Barry-Goldwater-High-School/,"2024-11-22 14:21:59",944,NULL
+11470377,"Whitehall El School",7,Public,Elementary,2-5,0.7,https://www.greatschools.org/pennsylvania/pittsburgh/187-Whitehall-El-School/,"2024-11-27 06:13:47",945,NULL
+7966763,"Barry Goldwater High School",5,Public,Middle,7-12,1.8,https://www.greatschools.org/arizona/phoenix/441-Barry-Goldwater-High-School/,"2024-11-22 14:21:59",946,NULL
+11429789,"Whitehall El School",7,Public,Elementary,2-5,0.5,https://www.greatschools.org/pennsylvania/pittsburgh/187-Whitehall-El-School/,"2024-11-21 11:09:29",947,4580
+11354998,"Whitehall El School",7,Public,Elementary,2-5,1.3,https://www.greatschools.org/pennsylvania/pittsburgh/187-Whitehall-El-School/,"2024-11-21 11:09:29",948,4551
+125120218,"Barry Goldwater High School",5,Public,Middle,7-12,8.1,https://www.greatschools.org/arizona/phoenix/441-Barry-Goldwater-High-School/,"2024-11-22 14:21:59",949,NULL
+352642955,"Barry Goldwater High School",5,Public,Middle,7-12,4.2,https://www.greatschools.org/arizona/phoenix/441-Barry-Goldwater-High-School/,"2024-11-26 09:21:12",950,NULL
+7970117,"Barry Goldwater High School",5,Public,Middle,7-12,1.7,https://www.greatschools.org/arizona/phoenix/441-Barry-Goldwater-High-School/,"2024-11-26 09:21:12",951,NULL
+82823728,"Barry Goldwater High School",5,Public,Middle,7-12,4.2,https://www.greatschools.org/arizona/phoenix/441-Barry-Goldwater-High-School/,"2024-11-26 09:21:12",952,NULL
+2057335702,"Barry Goldwater High School",5,Public,Middle,7-12,6.3,https://www.greatschools.org/arizona/phoenix/441-Barry-Goldwater-High-School/,"2024-11-26 06:02:41",953,NULL
+2053901440,"Barry Goldwater High School",5,Public,Middle,7-12,2.7,https://www.greatschools.org/arizona/phoenix/441-Barry-Goldwater-High-School/,"2024-11-26 06:02:41",954,NULL
+284863092,"Barry Goldwater High School",5,Public,Middle,7-12,2.7,https://www.greatschools.org/arizona/phoenix/441-Barry-Goldwater-High-School/,"2024-11-26 06:02:41",955,NULL
+11392999,"Whitehall El School",7,Public,Elementary,2-5,0.3,https://www.greatschools.org/pennsylvania/pittsburgh/187-Whitehall-El-School/,"2024-11-21 14:20:38",956,NULL
+67400728,"Boulder Creek High School",9,Public,Middle,7-12,3.8,https://www.greatschools.org/arizona/new-river/3303-Boulder-Creek-High-School/,"2024-11-28 06:03:26",957,NULL
+49940204,"Boulder Creek High School",9,Public,Middle,7-12,3.5,https://www.greatschools.org/arizona/new-river/3303-Boulder-Creek-High-School/,"2024-11-22 14:21:59",958,NULL
+11429465,"Whitehall El School",7,Public,Elementary,2-5,0.6,https://www.greatschools.org/pennsylvania/pittsburgh/187-Whitehall-El-School/,"2024-11-22 14:21:59",959,NULL
+61628824,"Boulder Creek High School",9,Public,Middle,7-12,3.7,https://www.greatschools.org/arizona/new-river/3303-Boulder-Creek-High-School/,"2024-11-22 14:21:59",960,NULL
+11430004,"Whitehall El School",7,Public,Elementary,2-5,0.9,https://www.greatschools.org/pennsylvania/pittsburgh/187-Whitehall-El-School/,"2024-11-23 06:35:29",961,NULL
+55264737,"Boulder Creek High School",9,Public,Middle,7-12,3.6,https://www.greatschools.org/arizona/new-river/3303-Boulder-Creek-High-School/,"2024-11-22 14:21:59",962,NULL
+26239835,"Roosevelt Elementary School",2,Public,Elementary,2-5,0.7,https://www.greatschools.org/texas/san-antonio/2315-Roosevelt-Elementary-School/,"2024-11-22 11:25:39",963,NULL
+7992449,"Paradise Valley High School",4,Public,Middle,7-12,3.6,https://www.greatschools.org/arizona/phoenix/1067-Paradise-Valley-High-School/,"2024-11-23 06:36:42",964,NULL
+30223452,"Martin Road Elementary School",3,Public,Elementary,2-5,0.8,https://www.greatschools.org/new-york/buffalo/7792-Martin-Road-Elementary-School/,"2024-11-27 06:13:47",965,NULL
+8019410,"Paradise Valley High School",4,Public,Middle,7-12,1.7,https://www.greatschools.org/arizona/phoenix/1067-Paradise-Valley-High-School/,"2024-11-23 06:36:42",966,NULL
+30221992,"Martin Road Elementary School",3,Public,Elementary,2-5,0.5,https://www.greatschools.org/new-york/buffalo/7792-Martin-Road-Elementary-School/,"2024-11-26 09:21:12",967,NULL
+7997834,"Paradise Valley High School",4,Public,Middle,7-12,3.1,https://www.greatschools.org/arizona/phoenix/1067-Paradise-Valley-High-School/,"2024-11-23 06:36:42",968,NULL
+30223452,"Martin Road Elementary School",3,Public,Elementary,2-5,0.8,https://www.greatschools.org/new-york/buffalo/7792-Martin-Road-Elementary-School/,"2024-11-26 06:02:41",969,NULL
+8011268,"Paradise Valley High School",4,Public,Middle,7-12,1,https://www.greatschools.org/arizona/phoenix/1067-Paradise-Valley-High-School/,"2024-11-23 06:36:42",970,NULL
+8006223,"Paradise Valley High School",4,Public,Middle,7-12,2.3,https://www.greatschools.org/arizona/phoenix/1067-Paradise-Valley-High-School/,"2024-11-23 06:36:42",971,NULL
+8011268,"Paradise Valley High School",4,Public,Middle,7-12,1,https://www.greatschools.org/arizona/phoenix/1067-Paradise-Valley-High-School/,"2024-11-23 06:38:32",972,NULL
+8006223,"Paradise Valley High School",4,Public,Middle,7-12,2.3,https://www.greatschools.org/arizona/phoenix/1067-Paradise-Valley-High-School/,"2024-11-23 06:38:32",973,NULL
+20618213,"Trinity Street Elementary School",3,Public,Elementary,2-5,0.4,https://www.greatschools.org/california/los-angeles/2430-Trinity-Street-Elementary-School/,"2024-11-21 11:09:29",974,NULL
+20618213,"Trinity Street Elementary School",3,Public,Elementary,2-5,0.4,https://www.greatschools.org/california/los-angeles/2430-Trinity-Street-Elementary-School/,"2024-11-22 11:25:39",975,NULL
+442769641,"Monte Vista Street Elementary School",2,Public,Elementary,2-5,0.4,https://www.greatschools.org/california/los-angeles/2252-Monte-Vista-Street-Elementary-School/,"2024-11-22 11:25:39",976,NULL
+11417182,"Turner Intermediate School",4,Public,Elementary,2-6,0.2,https://www.greatschools.org/pennsylvania/pittsburgh/3062-Turner-El-School/,"2024-11-20 23:54:07",977,NULL
+11379597,"Turner Intermediate School",4,Public,Elementary,2-6,0.6,https://www.greatschools.org/pennsylvania/pittsburgh/3062-Turner-El-School/,"2024-11-28 06:03:26",978,NULL
+11379343,"Turner Intermediate School",4,Public,Elementary,2-6,0.3,https://www.greatschools.org/pennsylvania/pittsburgh/3062-Turner-El-School/,"2024-11-27 06:13:47",979,NULL
+11417547,"Turner Intermediate School",4,Public,Elementary,2-6,0.3,https://www.greatschools.org/pennsylvania/pittsburgh/3062-Turner-El-School/,"2024-11-27 09:23:19",980,NULL
+11378704,"Turner Intermediate School",4,Public,Elementary,2-6,0.3,https://www.greatschools.org/pennsylvania/pittsburgh/3062-Turner-El-School/,"2024-11-22 11:25:39",981,NULL
+11510481,"J W Burkett El School",NULL,Public,Elementary,3-4,1.6,https://www.greatschools.org/pennsylvania/mckees-rocks/1527-J-W-Burkett-El-School/,"2024-11-23 09:30:22",982,NULL
+11364885,"J W Burkett El School",NULL,Public,Elementary,3-4,0.9,https://www.greatschools.org/pennsylvania/mckees-rocks/1527-J-W-Burkett-El-School/,"2024-11-23 09:30:22",983,NULL
+442764671,"J W Burkett El School",NULL,Public,Elementary,3-4,1.6,https://www.greatschools.org/pennsylvania/mckees-rocks/1527-J-W-Burkett-El-School/,"2024-11-22 11:25:39",984,NULL
+11364699,"J W Burkett El School",NULL,Public,Elementary,3-4,1.2,https://www.greatschools.org/pennsylvania/mckees-rocks/1527-J-W-Burkett-El-School/,"2024-11-26 09:21:12",985,NULL
+164262791,"J W Burkett El School",NULL,Public,Elementary,3-4,1.7,https://www.greatschools.org/pennsylvania/mckees-rocks/1527-J-W-Burkett-El-School/,"2024-11-26 06:02:41",986,NULL
+2127089367,"Ps 208 Alain L Locke",NULL,Public,Elementary,3-5,0.2,https://www.greatschools.org/new-york/new-york/2644-Ps-208-Alain-L-Locke/,"2024-11-23 06:36:42",987,NULL
+442775001,"Ps 208 Alain L Locke",NULL,Public,Elementary,3-5,0.1,https://www.greatschools.org/new-york/new-york/2644-Ps-208-Alain-L-Locke/,"2024-11-23 06:36:42",988,NULL
+442775001,"Ps 208 Alain L Locke",NULL,Public,Elementary,3-5,0.1,https://www.greatschools.org/new-york/new-york/2644-Ps-208-Alain-L-Locke/,"2024-11-23 06:38:32",989,NULL
+2127089367,"Ps 208 Alain L Locke",NULL,Public,Elementary,3-5,0.2,https://www.greatschools.org/new-york/new-york/2644-Ps-208-Alain-L-Locke/,"2024-11-23 06:38:32",990,NULL
+2127089367,"Ps 208 Alain L Locke",NULL,Public,Elementary,3-5,0.2,https://www.greatschools.org/new-york/new-york/2644-Ps-208-Alain-L-Locke/,"2024-11-23 06:39:45",991,NULL
+442775001,"Ps 208 Alain L Locke",NULL,Public,Elementary,3-5,0.1,https://www.greatschools.org/new-york/new-york/2644-Ps-208-Alain-L-Locke/,"2024-11-23 06:39:45",992,NULL
+442775001,"Ps 208 Alain L Locke",NULL,Public,Elementary,3-5,0.1,https://www.greatschools.org/new-york/new-york/2644-Ps-208-Alain-L-Locke/,"2024-11-22 11:25:39",993,NULL
+2127089367,"Ps 208 Alain L Locke",NULL,Public,Elementary,3-5,0.2,https://www.greatschools.org/new-york/new-york/2644-Ps-208-Alain-L-Locke/,"2024-11-22 11:25:39",994,NULL
+442775001,"Ps 208 Alain L Locke",NULL,Public,Elementary,3-5,0.1,https://www.greatschools.org/new-york/new-york/2644-Ps-208-Alain-L-Locke/,"2024-11-23 06:35:29",995,NULL
+2127089367,"Ps 208 Alain L Locke",NULL,Public,Elementary,3-5,0.2,https://www.greatschools.org/new-york/new-york/2644-Ps-208-Alain-L-Locke/,"2024-11-23 06:35:29",996,NULL
+14373515,"Big Shanty Elementary School",5,Public,Elementary,3-5,1,https://www.greatschools.org/georgia/kennesaw/500-Big-Shanty-Elementary-School/,"2024-11-23 06:36:42",997,NULL
+14376848,"Big Shanty Elementary School",5,Public,Elementary,3-5,0.9,https://www.greatschools.org/georgia/kennesaw/500-Big-Shanty-Elementary-School/,"2024-11-23 06:36:42",998,NULL
+7992449,"Paradise Valley High School",4,Public,Middle,7-12,3.6,https://www.greatschools.org/arizona/phoenix/1067-Paradise-Valley-High-School/,"2024-11-23 06:38:32",999,NULL
+14376848,"Big Shanty Elementary School",5,Public,Elementary,3-5,0.9,https://www.greatschools.org/georgia/kennesaw/500-Big-Shanty-Elementary-School/,"2024-11-23 06:38:32",1000,NULL
