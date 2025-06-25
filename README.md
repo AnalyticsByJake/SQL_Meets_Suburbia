@@ -18,36 +18,36 @@ The dataset and schema were obtained from [this Kaggle dataset](https://www.kagg
 
 ## Table of Contents
 
-I. Included Files \
-II. Included Datasets \
-III. Installation \
-IV. What I Asked the Data (SQL) \
-V. Dashboards and Discoveries (Tableau) \
-VI. Tools Used \
-VII. Conclusion \
-VIII. Contact Details
+- [I. Included Files](#i-included-files)
+- [II. Included Datasets](#ii-included-datasets)
+- [III. Installation](#iii-installation)
+- [IV. What I Asked the Data (SQL)](#iv-what-i-asked-the-data-sql)
+- [V. Dashboards and Discoveries (Tableau)](#v-dashboards-and-discoveries-tableau)
+- [VI. Tools Used](#vi-tools-used)
+- [VII. Conclusion](#vii-conclusion)
+- [VIII. Contact Info](#viii-contact-info)
 
 
 ## I. Included Files
 
-    • Zillow Datasets - Original (dir zillow_datasets_OG)
-    • Zillow Datasets - Cleaned (dir zillow_datasets_cleaned)
-    • Zillow Import SQL Script (zillow_schema_setup.sql)
-    • Zillow Schema Diagram (zillow_schema_diagram.pdf)
-    • Zillow Data Wrangling (zillow_data_wrangling.sql)
-    • Zillow Data Analysis Queries (zillow_analysis.sql)
-    • Zillow Dashboards (zillow_tableau_story.twb)
+- Zillow Datasets - Original (dir zillow_datasets_OG)
+- Zillow Datasets - Cleaned (dir zillow_datasets_cleaned)
+- Zillow Import SQL Script (zillow_schema_setup.sql)
+- Zillow Schema Diagram (zillow_schema_diagram.pdf)
+- Zillow Data Wrangling (zillow_data_wrangling.sql)
+- Zillow Data Analysis Queries (zillow_analysis.sql)
+- Zillow Dashboards (zillow_tableau_story.twb)
 
 
 ## II. Included Datasets
 
-    • listing_mortgage_info.csv
-    • listing_nearby_homes.csv
-    • listing_price_history.csv
-    • listing_schools_info.csv
-    • listing_subtype.csv
-    • listing_tax_info.csv
-    • property_tax.csv
+- listing_mortgage_info.csv
+- listing_nearby_homes.csv
+- listing_price_history.csv
+- listing_schools_info.csv
+- listing_subtype.csv
+- listing_tax_info.csv
+- property_tax.csv
 
 Each of these datasets is available in its cleaned as well as original form. 
 
@@ -79,12 +79,12 @@ Once the data had been tidied and adjusted, I then broke down the primary querie
 
 The main areas of concern are listed as follows:
 
-    • Property Score Calculator
-    • Price and Commonality by State/City
-    • Factors of Property Price
-    • Property Popularity
-    • Properties Over Time
-    • Property Status
+- Property Score Calculator
+- Price and Commonality by State/City
+- Factors of Property Price
+- Property Popularity
+- Properties Over Time
+- Property Status
 
 The first part includes a score calculator that looks at a number of core KPIs in order to determine an individual score based on listing price, price comparison to the local area, online listing engagement, distance to nearby schools and the average rating of those schools. This can be modified to search by state, city, zipcode, price, school rating, school distance or listing status. 
 
@@ -124,9 +124,9 @@ The ultimate result is a much cleaner database that is easily navigated by the i
 
 ## VI. Tools Used
 
-• MySQL Workbench \
-• VS Code \
-• Tableau 
+- MySQL Workbench \
+- VS Code \
+- Tableau 
 
 
 ## Conclusion
