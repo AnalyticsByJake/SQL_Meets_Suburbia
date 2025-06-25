@@ -10,7 +10,7 @@ Ever wondered what insights lie behind Zillow’s mountain of real estate listin
 To get the most out of the data, I used CTEs, window functions, aggregate logic, and more—turning raw listings into real business insights. From there, the datasets were imported into Tableau to create interactive dashboards and a "House Search Analyzer" to help determine market conditions based on individual preferences. 
 
 <p align="center">
-  <img src="images/image_2_house_analyzer_dash.jpg"/>
+  <img src="images/image_2_house_analyzer_dash.jpg", width=500/>
 </p>
 
 The dataset and schema were obtained from [this Kaggle dataset](https://www.kaggle.com/datasets/tonygordonjr/zillow-real-estate-data) and extensively cleaned, indexed, and relationally optimized in the accompanying schema setup script.
