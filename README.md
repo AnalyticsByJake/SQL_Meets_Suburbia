@@ -124,8 +124,8 @@ The ultimate result is a much cleaner database that is easily navigated by the i
 
 ## VI. Tools Used
 
-- MySQL Workbench \
-- VS Code \
+- MySQL Workbench 
+- VS Code 
 - Tableau 
 
 
