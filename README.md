@@ -3,15 +3,15 @@
 
 Ever wondered what insights lie behind Zillow’s mountain of real estate listings? This project tackles that question by transforming raw CSVs into a structured SQL database and then into interactive Tableau dashboards. From price trends to school proximity, I used MySQL and Tableau to explore the dynamics of the U.S. housing market—one query at a time.  
 
-![Zillow Logo](images/image_1_zillow_logo.jpeg)
-
 <p align="center">
   <img src="images/image_1_zillow_logo.jpeg"/>
 </p>
 
 To get the most out of the data, I used CTEs, window functions, aggregate logic, and more—turning raw listings into real business insights. From there, the datasets were imported into Tableau to create interactive dashboards and a "House Search Analyzer" to help determine market conditions based on individual preferences. 
 
-[Enter house analyzer jpeg]
+<p align="center">
+  <img src="images/image_2_house_analyzer_dash.jpeg"/>
+</p>
 
 The dataset and schema were obtained from [this Kaggle dataset](https://www.kaggle.com/datasets/tonygordonjr/zillow-real-estate-data) and extensively cleaned, indexed, and relationally optimized in the accompanying schema setup script.
 
@@ -56,11 +56,15 @@ Each of these datasets is available in its clean as well as original form.
 
 The file zillow_schema_setup is a modifiable SQL code (zillow_schema_setup.csv) allowing one to import the datasets directly into a SQL database. Throughout this project, I employed MySQL Workbench. 
 
-[Enter schema setup image]
+<p align="center">
+  <img src="images/image_3_schema_setup.jpeg"/>
+</p>
 
 Next, a series of steps were taken to formulate the database, especially in adjusting it from a star schema to a snowflake schema, establishing keys and constraints, adjusting data types and adding appropriate indexes (zillow_data_wrangling.sql). 
 
-[Enter data wrangling photo]
+<p align="center">
+  <img src="images/image_4_data_wrangling.jpeg"/>
+</p>
 
 If all of this code is run, then you end up with the cleaned datasets that are readily available.
 
@@ -69,7 +73,9 @@ If all of this code is run, then you end up with the cleaned datasets that are r
 
 Once the data had been tidied and adjusted, I then broke down the primary queries into key domains of a business interest. Along with this, I have included large portions of modifiable code to fit individual needs. 
 
-[Enter uncomment photo]
+<p align="center">
+  <img src="images/image_5_uncomment_code.jpeg"/>
+</p>
 
 The main areas of concern are listed as follows:
 
@@ -82,11 +88,15 @@ The main areas of concern are listed as follows:
 
 The first part includes a score calculator that looks at a number of core KPIs in order to determine an individual score based on listing price, price comparison to the local area, online listing engagement, distance to nearby schools and the average rating of those schools. This can be modified to search by state, city, zipcode, price, school rating, school distance or listing status. 
 
-[Enter image house calc]
+<p align="center">
+  <img src="images/image_6_house_calc.jpeg"/>
+</p>
 
 From here, a number of key areas were investigated to better understand the dynamics of the real estate market, such as most expensive states, how various KPIs impact pricing, average square footage by year built, etc. 
 
-[Enter image year avg price]
+<p align="center">
+  <img src="images/image_7_year_avg_price.jpeg"/>
+</p>
 
 Once completed, I moved onto the visualization of the data in Tableau.
 
@@ -97,13 +107,17 @@ For the visualizations, I have focused on compiling three highly interactive and
 
 The first dashboard is a "House Search Analyzer." It allows one to search by state, price range and home type. There is also the option to see the top performing states for certain fields. 
 
-[Enter top 5 calc]
+<p align="center">
+  <img src="images/image_8_top_5_calc.jpeg"/>
+</p>
 
 The second dashboard focuses on "Sales Performance." It allows you to search by a number of key variables using a variety of metrics. For instance, one is able to search for the "Top 10" by states based on different concerns: Total Market Volume, Average Rent Estimates, Average Listing Price and Average Living Area. 
 
 The final dashboard addresses KPI metrics, allowing the viewer to compare metrics in real time. The variety of charts and options  here make it a very versatile and invaluable dashboard for a range of business purposes. 
 
-[Enter KPI Metrics db photo]
+<p align="center">
+  <img src="images/image_9_kpi_metrics_db.jpeg"/>
+</p>
 
 The ultimate result is a much cleaner database that is easily navigated by the interactive elements displayed in the visualizations. 
 
