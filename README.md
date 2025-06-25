@@ -5,6 +5,10 @@ Ever wondered what insights lie behind Zillow’s mountain of real estate listin
 
 ![Zillow Logo](images/image_1_zillow_logo.jpeg)
 
+<p align="center">
+  <img src="https://github.com/waldyr/Sublime-Installer/blob/master/sublime_text.png?raw=true" alt="Sublime's custom image"/>
+</p>
+
 To get the most out of the data, I used CTEs, window functions, aggregate logic, and more—turning raw listings into real business insights. From there, the datasets were imported into Tableau to create interactive dashboards and a "House Search Analyzer" to help determine market conditions based on individual preferences. 
 
 [Enter house analyzer jpeg]
