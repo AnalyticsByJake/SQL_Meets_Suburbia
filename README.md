@@ -21,8 +21,8 @@ The dataset and schema were obtained from [this Kaggle dataset](https://www.kagg
 I. Included Files \
 II. Included Datasets \
 III. Installation \
-IV. Areas of Analysis (SQL) \
-V. Dashboard Visualizations (Tableau) \
+IV. What I Asked the Data (SQL) \
+V. Dashboards and Discoveries (Tableau) \
 VI. Tools Used \
 VII. Conclusion \
 VIII. Contact Details
@@ -69,7 +69,7 @@ Next, a series of steps were taken to formulate the database, especially in adju
 If all of this code is run, then you end up with the cleaned datasets that are readily available.
 
 
-## IV. What I Asked the Data
+## IV. What I Asked the Data (SQL)
 
 Once the data had been tidied and adjusted, I then broke down the primary queries into key domains of a business interest. Along with this, I have included large portions of modifiable code to fit individual needs. 
 
@@ -101,7 +101,7 @@ From here, a number of key areas were investigated to better understand the dyna
 Once completed, I moved onto the visualization of the data in Tableau.
 
 
-## V. Dashboards and Discoveries
+## V. Dashboards and Discoveries (Tableau)
 
 For the visualizations, I have focused on compiling three highly interactive and engaging dashboards. These can be found in the Tableau workbook (zillow_tableau_story.twb) as well as on my [Tableau Public](https://public.tableau.com/app/profile/analyticsbyjake).
 
