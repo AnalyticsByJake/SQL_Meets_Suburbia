@@ -27,6 +27,7 @@ The dataset and schema were obtained from [this Kaggle dataset](https://www.kagg
 - [VI. Tools Used](#vi-tools-used)
 - [VII. Conclusion](#vii-conclusion)
 - [VIII. Contact Info](#viii-contact-info)
+- [IX. Appendix: Sample Code](#ix-appendix-sample-code)
 
 
 ## I. Included Files
@@ -141,9 +142,18 @@ True to my style, I built this project with practicality and functionality in mi
 
 [Linkedin](www.linkedin.com/in/jacob-maze-8a4a0772)
 
-[Tableau Public](https://public.tableau.com/app/profile/analyticsbyjake)
+[Personal Website](https://analyticsbyjake.github.io/abj/)
 
 [GitHub](https://github.com/AnalyticsByJake)
 
-[Personal Website](https://analyticsbyjake.github.io/abj/)
+[Tableau Public](https://public.tableau.com/app/profile/analyticsbyjake)
 
+[Academia.edu](https://aauni.academia.edu/JacobMaze)
+
+
+
+## IX. Appendix: Sample Code
+
+<p align="center">
+  <img src="images/image_10_sample_code.jpg"/>
+</p>
