@@ -144,5 +144,5 @@ True to my style, I built this project with practicality and functionality in mi
 
 [GitHub](https://github.com/AnalyticsByJake)
 
-[Website](https://analyticsbyjake.github.io/abj/)
+[Personal Website](https://analyticsbyjake.github.io/abj/)
 
