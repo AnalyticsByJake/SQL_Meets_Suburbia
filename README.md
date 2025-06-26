@@ -112,7 +112,7 @@ The first dashboard is a "House Search Analyzer." It allows one to search by sta
 The second dashboard focuses on "Sales Performance." It allows you to search by a number of key variables using a variety of metrics. For instance, one is able to search for the "Top 10" by states based on different concerns: Total Market Volume, Average Rent Estimates, Average Listing Price and Average Living Area. 
 
 <p align="center">
-  <img src="images/image_11_top_10_calc.jpg" width=700/>
+  <img src="images/image_11_top_10.jpg" width=700/>
 </p>
 
 The final dashboard addresses KPI metrics, allowing the viewer to compare metrics in real time. The variety of charts and options  here make it a very versatile and invaluable dashboard for a range of business purposes. 
