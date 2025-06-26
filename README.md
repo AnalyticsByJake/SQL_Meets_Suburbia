@@ -2,13 +2,13 @@
 SQL Meets Suburbia: A Zillow-Powered Data Deep Dive
 </h1>  
 
-Ever wondered what insights lie behind Zillow’s mountain of real estate listings? This project tackles that question by transforming raw CSVs into a structured SQL database and then into interactive Tableau dashboards. From price trends to school proximity, I used MySQL and Tableau to explore the dynamics of the U.S. housing market—one query at a time.  
+Ever wondered what insights lie behind Zillow’s mountain of real estate listings? This project tackles that question by transforming raw CSVs into a structured SQL database and then into interactive Tableau dashboards. From price trends to school proximity, I used MySQL and Tableau to explore the dynamics of the U.S. housing market — one query at a time.  
 
 <p align="center">
   <img src="images/image_1_zillow_logo.jpeg" width=300/>
 </p>
 
-To get the most out of the data, I used CTEs, window functions, aggregate logic, and more—turning raw listings into real business insights. From there, the datasets were imported into Tableau to create interactive dashboards and a "House Search Analyzer" to help determine market conditions based on individual preferences. 
+To get the most out of the data, I used CTEs, window functions, aggregate logic, and more — turning raw listings into real business insights. From there, the datasets were imported into Tableau to create interactive dashboards and a "House Search Analyzer" to determine market conditions based on individual preferences. 
 
 <p align="center">
   <img src="images/image_2_house_analyzer_dash.jpg", width=1000/>
@@ -62,7 +62,7 @@ The file zillow_schema_setup is a modifiable SQL code (zillow_schema_setup.csv) 
   <img src="images/image_3_schema_setup.jpg" width=400/>
 </p>
 
-Next, a series of steps were taken to formulate the database, especially in adjusting it from a star schema to a snowflake schema, establishing keys and constraints, adjusting data types and adding appropriate indexes (see zillow_data_wrangling.sql). 
+Next, a series of steps were taken to formulate the database, especially in adjusting it from a star to a snowflake schema, establishing keys and constraints, adjusting data types and adding appropriate indexes (see zillow_data_wrangling.sql). 
 
 <p align="center">
   <img src="images/image_4_data_wrangling.jpg" width=500/>
@@ -73,13 +73,13 @@ If all of this code is run, then you end up with the cleaned datasets that are r
 
 ## IV. What I Asked the Data (SQL)
 
-Once the data had been tidied and adjusted, I then broke down the primary queries into key domains of a business interest. Along with this, I have included large portions of modifiable code to fit individual needs. 
+Once the data had been tidied and adjusted, I then broke down the primary queries into key domains of enterprise. Along with this, I include large portions of modifiable code to fit your own personal needs. 
 
 <p align="center">
   <img src="images/image_5_uncomment_code.jpg" width=600/>
 </p>
 
-The main areas of concern are listed as follows:
+The scope of the analysis covers the following issues:
 
 - Property Score Calculator
 - Price and Commonality by State/City
@@ -94,13 +94,13 @@ The first part includes a score calculator that looks at a number of core KPIs i
   <img src="images/image_6_house_calc.jpg"/>
 </p>
 
-From here, a number of key areas were investigated to better understand the dynamics of the real estate market, such as most expensive states, how various KPIs impact pricing, average square footage by year built, etc. 
+From here, a number of key areas were investigated to better understand the dynamics of the real estate market, such as the most expensive states, how various KPIs impact pricing, average square footage by year built, etc. 
 
 <p align="center">
   <img src="images/image_7_year_avg_price.jpg"/>
 </p>
 
-Once completed, I moved onto the visualization of the data in Tableau.
+Once completed, I transformed my findings into engaging, comprehensive and easy-to-follow visualizations in Tableau.
 
 
 ## V. Dashboards and Discoveries (Tableau)
@@ -109,19 +109,19 @@ For the visualizations, I have focused on compiling three highly interactive and
 
 The first dashboard is a "House Search Analyzer." It allows one to search by state, price range and home type. There is also the option to see the top performing states for certain fields. 
 
-The second dashboard focuses on "Sales Performance." It allows you to search by a number of key variables using a variety of metrics. For instance, one is able to search for the "Top 10" by states based on different concerns: Total Market Volume, Average Rent Estimates, Average Listing Price and Average Living Area. 
+The second dashboard focuses on "Sales Performance." It allows you to search key variables using an array of metrics. For instance, one is able to search for the "Top 10" by states based on different concerns: Total Market Volume, Average Rent Estimates, Average Listing Price and Average Living Area. 
 
 <p align="center">
   <img src="images/image_11_top_10.jpg" width=500/>
 </p>
 
-The final dashboard addresses KPI metrics, allowing the viewer to compare metrics in real time. The variety of charts and options  here make it a very versatile and invaluable dashboard for a range of business purposes. 
+The final dashboard addresses KPI metrics, allowing the viewer to compare metrics in real time. The variety of charts and options here make it a very versatile and invaluable dashboard for a range of business purposes. 
 
 <p align="center">
   <img src="images/image_9_kpi_metrics_db.jpg" width=700/>
 </p>
 
-The ultimate result is a much cleaner database that is easily navigated by the interactive elements displayed in the visualizations. 
+The ultimate result is a much cleaner database that is easily navigated by the interactive - and, dare I say, fun - elements displayed in the visualizations. 
 
 
 ## VI. Tools Used
@@ -133,9 +133,9 @@ The ultimate result is a much cleaner database that is easily navigated by the i
 
 ## Conclusion
 
-This project's vast scope allowed me to include quite a degree of interactiveness to the output, a key element of responsive business practices. Of course, the data is only as good as the one who is using it, and the extent to which individuals can interact with the material might be daunting for some. The intent was to create multipurpose files for those who wish to look for specific connectsion - but might not have the know-how to access them. 
+This project's immense breadth of data allowed me to include quite a degree of interactiveness to the output, a key element of responsive business practices. Of course, the data is only as good as the one who is using it, and the extent to which individuals can interact with the material might be daunting for some. The intent was to create multipurpose files for those who wish to look for specific connections - but might not have the know-how to access them. 
 
-True to my style, I built this project with practicality and functionality in mind—making it useful not just to analysts, but anyone looking for insight. Not only do I work to make connections but to convey those relationships to others in a clear, concise manner. 
+True to my style, I built this project with practicality and functionality in mind — making it useful not just to analysts, but anyone looking for insight. Not only do I work to make connections but to convey those relationships to others in a clear, concise manner. 
 
 
 ## VIII. Contact Info
