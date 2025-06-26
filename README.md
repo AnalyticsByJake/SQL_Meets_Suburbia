@@ -155,5 +155,5 @@ True to my style, I built this project with practicality and functionality in mi
 ## IX. Appendix: Sample Code
 
 <p align="center">
-  <img src="images/image_10_sample_code.jpg" width=800/>
+  <img src="images/image_10_sample_code.jpg" width=600/>
 </p>
