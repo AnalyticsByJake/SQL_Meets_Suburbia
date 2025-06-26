@@ -59,13 +59,13 @@ Each of these datasets is available in its cleaned as well as original form.
 The file zillow_schema_setup is a modifiable SQL code (zillow_schema_setup.csv) allowing one to import the datasets directly into a SQL database. Throughout this project, I employed MySQL Workbench. 
 
 <p align="center">
-  <img src="images/image_3_schema_setup.jpg" width=600/>
+  <img src="images/image_3_schema_setup.jpg" width=400/>
 </p>
 
 Next, a series of steps were taken to formulate the database, especially in adjusting it from a star schema to a snowflake schema, establishing keys and constraints, adjusting data types and adding appropriate indexes (see zillow_data_wrangling.sql). 
 
 <p align="center">
-  <img src="images/image_4_data_wrangling.jpg" width=600/>
+  <img src="images/image_4_data_wrangling.jpg" width=500/>
 </p>
 
 If all of this code is run, then you end up with the cleaned datasets that are readily available.
