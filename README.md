@@ -1,5 +1,6 @@
-
-# SQL Meets Suburbia: A Zillow-Powered Data Deep Dive
+<h1 align="center" style="font-size: 2em;">
+SQL Meets Suburbia: A Zillow-Powered Data Deep Dive
+</h1>  
 
 Ever wondered what insights lie behind Zillow’s mountain of real estate listings? This project tackles that question by transforming raw CSVs into a structured SQL database and then into interactive Tableau dashboards. From price trends to school proximity, I used MySQL and Tableau to explore the dynamics of the U.S. housing market—one query at a time.  
 
