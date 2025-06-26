@@ -11,7 +11,7 @@ Ever wondered what insights lie behind Zillow’s mountain of real estate listin
 To get the most out of the data, I used CTEs, window functions, aggregate logic, and more—turning raw listings into real business insights. From there, the datasets were imported into Tableau to create interactive dashboards and a "House Search Analyzer" to help determine market conditions based on individual preferences. 
 
 <p align="center">
-  <img src="images/image_2_house_analyzer_dash.jpg", width=800/>
+  <img src="images/image_2_house_analyzer_dash.jpg", width=600/>
 </p>
 
 The dataset and schema were obtained from [this Kaggle dataset](https://www.kaggle.com/datasets/tonygordonjr/zillow-real-estate-data) and extensively cleaned, indexed, and relationally optimized in the accompanying schema setup script.
@@ -62,10 +62,10 @@ The file zillow_schema_setup is a modifiable SQL code (zillow_schema_setup.csv) 
   <img src="images/image_3_schema_setup.jpg" width=350/>
 </p>
 
-Next, a series of steps were taken to formulate the database, especially in adjusting it from a star schema to a snowflake schema, establishing keys and constraints, adjusting data types and adding appropriate indexes (zillow_data_wrangling.sql). 
+Next, a series of steps were taken to formulate the database, especially in adjusting it from a star schema to a snowflake schema, establishing keys and constraints, adjusting data types and adding appropriate indexes (see zillow_data_wrangling.sql). 
 
 <p align="center">
-  <img src="images/image_4_data_wrangling.jpg" width=400/>
+  <img src="images/image_4_data_wrangling.jpg" width=600/>
 </p>
 
 If all of this code is run, then you end up with the cleaned datasets that are readily available.
@@ -76,7 +76,7 @@ If all of this code is run, then you end up with the cleaned datasets that are r
 Once the data had been tidied and adjusted, I then broke down the primary queries into key domains of a business interest. Along with this, I have included large portions of modifiable code to fit individual needs. 
 
 <p align="center">
-  <img src="images/image_5_uncomment_code.jpg" width=400/>
+  <img src="images/image_5_uncomment_code.jpg" width=600/>
 </p>
 
 The main areas of concern are listed as follows:
@@ -109,11 +109,11 @@ For the visualizations, I have focused on compiling three highly interactive and
 
 The first dashboard is a "House Search Analyzer." It allows one to search by state, price range and home type. There is also the option to see the top performing states for certain fields. 
 
-<p align="center">
-  <img src="images/image_8_top_5_calc.jpg" width=600/>
-</p>
-
 The second dashboard focuses on "Sales Performance." It allows you to search by a number of key variables using a variety of metrics. For instance, one is able to search for the "Top 10" by states based on different concerns: Total Market Volume, Average Rent Estimates, Average Listing Price and Average Living Area. 
+
+<p align="center">
+  <img src="images/image_11_top_10_calc.jpg" width=700/>
+</p>
 
 The final dashboard addresses KPI metrics, allowing the viewer to compare metrics in real time. The variety of charts and options  here make it a very versatile and invaluable dashboard for a range of business purposes. 
 
